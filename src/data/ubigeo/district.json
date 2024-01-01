@@ -1,0 +1,9162 @@
+[
+  {
+    "codDistrito": "0",
+    "nomDistrito": "PUEBLO LIBRE",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1",
+    "nomDistrito": "CHACHAPOYAS",
+    "codProvincia": "1"
+  },
+  {
+    "codDistrito": "10",
+    "nomDistrito": "LEIMEBAMBA",
+    "codProvincia": "1"
+  },
+  {
+    "codDistrito": "100",
+    "nomDistrito": "SUCCHA",
+    "codProvincia": "9"
+  },
+  {
+    "codDistrito": "1000",
+    "nomDistrito": "HUMAY",
+    "codProvincia": "102"
+  },
+  {
+    "codDistrito": "1001",
+    "nomDistrito": "INDEPENDENCIA",
+    "codProvincia": "102"
+  },
+  {
+    "codDistrito": "1002",
+    "nomDistrito": "PARACAS",
+    "codProvincia": "102"
+  },
+  {
+    "codDistrito": "1003",
+    "nomDistrito": "SAN ANDRES",
+    "codProvincia": "102"
+  },
+  {
+    "codDistrito": "1004",
+    "nomDistrito": "SAN CLEMENTE",
+    "codProvincia": "102"
+  },
+  {
+    "codDistrito": "1005",
+    "nomDistrito": "TUPAC AMARU INCA",
+    "codProvincia": "102"
+  },
+  {
+    "codDistrito": "1006",
+    "nomDistrito": "HUANCAYO",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "1007",
+    "nomDistrito": "CARHUACALLANGA",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "1008",
+    "nomDistrito": "CHACAPAMPA",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "1009",
+    "nomDistrito": "CHICCHE",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "101",
+    "nomDistrito": "LLAMELLIN",
+    "codProvincia": "10"
+  },
+  {
+    "codDistrito": "1010",
+    "nomDistrito": "CHILCA",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "1011",
+    "nomDistrito": "CHONGOS ALTO",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "1012",
+    "nomDistrito": "CHUPURO",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "1013",
+    "nomDistrito": "COLCA",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "1014",
+    "nomDistrito": "CULLHUAS",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "1015",
+    "nomDistrito": "EL TAMBO",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "1016",
+    "nomDistrito": "HUACRAPUQUIO",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "1017",
+    "nomDistrito": "HUALHUAS",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "1018",
+    "nomDistrito": "HUANCAN",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "1019",
+    "nomDistrito": "HUASICANCHA",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "102",
+    "nomDistrito": "ACZO",
+    "codProvincia": "10"
+  },
+  {
+    "codDistrito": "1020",
+    "nomDistrito": "HUAYUCACHI",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "1021",
+    "nomDistrito": "INGENIO",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "1022",
+    "nomDistrito": "PARIAHUANCA",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "1023",
+    "nomDistrito": "PILCOMAYO",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "1024",
+    "nomDistrito": "PUCARA",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "1025",
+    "nomDistrito": "QUICHUAY",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "1026",
+    "nomDistrito": "QUILCAS",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "1027",
+    "nomDistrito": "SAN AGUSTIN",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "1028",
+    "nomDistrito": "SAN JERONIMO DE TUNAN",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "1029",
+    "nomDistrito": "SAÃ?O",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "103",
+    "nomDistrito": "CHACCHO",
+    "codProvincia": "10"
+  },
+  {
+    "codDistrito": "1030",
+    "nomDistrito": "SAPALLANGA",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "1031",
+    "nomDistrito": "SICAYA",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "1032",
+    "nomDistrito": "SANTO DOMINGO DE ACOBAMBA",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "1033",
+    "nomDistrito": "VIQUES",
+    "codProvincia": "103"
+  },
+  {
+    "codDistrito": "1034",
+    "nomDistrito": "CONCEPCION",
+    "codProvincia": "104"
+  },
+  {
+    "codDistrito": "1035",
+    "nomDistrito": "ACO",
+    "codProvincia": "104"
+  },
+  {
+    "codDistrito": "1036",
+    "nomDistrito": "ANDAMARCA",
+    "codProvincia": "104"
+  },
+  {
+    "codDistrito": "1037",
+    "nomDistrito": "CHAMBARA",
+    "codProvincia": "104"
+  },
+  {
+    "codDistrito": "1038",
+    "nomDistrito": "COCHAS",
+    "codProvincia": "104"
+  },
+  {
+    "codDistrito": "1039",
+    "nomDistrito": "COMAS",
+    "codProvincia": "104"
+  },
+  {
+    "codDistrito": "104",
+    "nomDistrito": "CHINGAS",
+    "codProvincia": "10"
+  },
+  {
+    "codDistrito": "1040",
+    "nomDistrito": "HEROINAS TOLEDO",
+    "codProvincia": "104"
+  },
+  {
+    "codDistrito": "1041",
+    "nomDistrito": "MANZANARES",
+    "codProvincia": "104"
+  },
+  {
+    "codDistrito": "1042",
+    "nomDistrito": "MARISCAL CASTILLA",
+    "codProvincia": "104"
+  },
+  {
+    "codDistrito": "1043",
+    "nomDistrito": "MATAHUASI",
+    "codProvincia": "104"
+  },
+  {
+    "codDistrito": "1044",
+    "nomDistrito": "MITO",
+    "codProvincia": "104"
+  },
+  {
+    "codDistrito": "1045",
+    "nomDistrito": "NUEVE DE JULIO",
+    "codProvincia": "104"
+  },
+  {
+    "codDistrito": "1046",
+    "nomDistrito": "ORCOTUNA",
+    "codProvincia": "104"
+  },
+  {
+    "codDistrito": "1047",
+    "nomDistrito": "SAN JOSE DE QUERO",
+    "codProvincia": "104"
+  },
+  {
+    "codDistrito": "1048",
+    "nomDistrito": "SANTA ROSA DE OCOPA",
+    "codProvincia": "104"
+  },
+  {
+    "codDistrito": "1049",
+    "nomDistrito": "CHANCHAMAYO",
+    "codProvincia": "105"
+  },
+  {
+    "codDistrito": "105",
+    "nomDistrito": "MIRGAS",
+    "codProvincia": "10"
+  },
+  {
+    "codDistrito": "1050",
+    "nomDistrito": "PERENE",
+    "codProvincia": "105"
+  },
+  {
+    "codDistrito": "1051",
+    "nomDistrito": "PICHANAQUI",
+    "codProvincia": "105"
+  },
+  {
+    "codDistrito": "1052",
+    "nomDistrito": "SAN LUIS DE SHUARO",
+    "codProvincia": "105"
+  },
+  {
+    "codDistrito": "1053",
+    "nomDistrito": "SAN RAMON",
+    "codProvincia": "105"
+  },
+  {
+    "codDistrito": "1054",
+    "nomDistrito": "VITOC",
+    "codProvincia": "105"
+  },
+  {
+    "codDistrito": "1055",
+    "nomDistrito": "JAUJA",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1056",
+    "nomDistrito": "ACOLLA",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1057",
+    "nomDistrito": "APATA",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1058",
+    "nomDistrito": "ATAURA",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1059",
+    "nomDistrito": "CANCHAYLLO",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "106",
+    "nomDistrito": "SAN JUAN DE RONTOY",
+    "codProvincia": "10"
+  },
+  {
+    "codDistrito": "1060",
+    "nomDistrito": "CURICACA",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1061",
+    "nomDistrito": "EL MANTARO",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1062",
+    "nomDistrito": "HUAMALI",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1063",
+    "nomDistrito": "HUARIPAMPA",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1064",
+    "nomDistrito": "HUERTAS",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1065",
+    "nomDistrito": "JANJAILLO",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1066",
+    "nomDistrito": "JULCAN",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1067",
+    "nomDistrito": "LEONOR ORDOÃ?EZ",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1068",
+    "nomDistrito": "LLOCLLAPAMPA",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1069",
+    "nomDistrito": "MARCO",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "107",
+    "nomDistrito": "CHACAS",
+    "codProvincia": "11"
+  },
+  {
+    "codDistrito": "1070",
+    "nomDistrito": "MASMA",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1071",
+    "nomDistrito": "MASMA CHICCHE",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1072",
+    "nomDistrito": "MOLINOS",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1073",
+    "nomDistrito": "MONOBAMBA",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1074",
+    "nomDistrito": "MUQUI",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1075",
+    "nomDistrito": "MUQUIYAUYO",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1076",
+    "nomDistrito": "PACA",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1077",
+    "nomDistrito": "PACCHA",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1078",
+    "nomDistrito": "PANCAN",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1079",
+    "nomDistrito": "PARCO",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "108",
+    "nomDistrito": "ACOCHACA",
+    "codProvincia": "11"
+  },
+  {
+    "codDistrito": "1080",
+    "nomDistrito": "POMACANCHA",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1081",
+    "nomDistrito": "RICRAN",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1082",
+    "nomDistrito": "SAN LORENZO",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1083",
+    "nomDistrito": "SAN PEDRO DE CHUNAN",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1084",
+    "nomDistrito": "SAUSA",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1085",
+    "nomDistrito": "SINCOS",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1086",
+    "nomDistrito": "TUNAN MARCA",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1087",
+    "nomDistrito": "YAULI",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1088",
+    "nomDistrito": "YAUYOS",
+    "codProvincia": "106"
+  },
+  {
+    "codDistrito": "1089",
+    "nomDistrito": "JUNIN",
+    "codProvincia": "107"
+  },
+  {
+    "codDistrito": "109",
+    "nomDistrito": "CHIQUIAN",
+    "codProvincia": "12"
+  },
+  {
+    "codDistrito": "1090",
+    "nomDistrito": "CARHUAMAYO",
+    "codProvincia": "107"
+  },
+  {
+    "codDistrito": "1091",
+    "nomDistrito": "ONDORES",
+    "codProvincia": "107"
+  },
+  {
+    "codDistrito": "1092",
+    "nomDistrito": "ULCUMAYO",
+    "codProvincia": "107"
+  },
+  {
+    "codDistrito": "1093",
+    "nomDistrito": "SATIPO",
+    "codProvincia": "108"
+  },
+  {
+    "codDistrito": "1094",
+    "nomDistrito": "COVIRIALI",
+    "codProvincia": "108"
+  },
+  {
+    "codDistrito": "1095",
+    "nomDistrito": "LLAYLLA",
+    "codProvincia": "108"
+  },
+  {
+    "codDistrito": "1096",
+    "nomDistrito": "MAZAMARI",
+    "codProvincia": "108"
+  },
+  {
+    "codDistrito": "1097",
+    "nomDistrito": "PAMPA HERMOSA",
+    "codProvincia": "108"
+  },
+  {
+    "codDistrito": "1098",
+    "nomDistrito": "PANGOA",
+    "codProvincia": "108"
+  },
+  {
+    "codDistrito": "1099",
+    "nomDistrito": "RIO NEGRO",
+    "codProvincia": "108"
+  },
+  {
+    "codDistrito": "11",
+    "nomDistrito": "LEVANTO",
+    "codProvincia": "1"
+  },
+  {
+    "codDistrito": "110",
+    "nomDistrito": "ABELARDO PARDO LEZAMETA",
+    "codProvincia": "12"
+  },
+  {
+    "codDistrito": "1100",
+    "nomDistrito": "RIO TAMBO",
+    "codProvincia": "108"
+  },
+  {
+    "codDistrito": "1101",
+    "nomDistrito": "TARMA",
+    "codProvincia": "109"
+  },
+  {
+    "codDistrito": "1102",
+    "nomDistrito": "ACOBAMBA",
+    "codProvincia": "109"
+  },
+  {
+    "codDistrito": "1103",
+    "nomDistrito": "HUARICOLCA",
+    "codProvincia": "109"
+  },
+  {
+    "codDistrito": "1104",
+    "nomDistrito": "HUASAHUASI",
+    "codProvincia": "109"
+  },
+  {
+    "codDistrito": "1105",
+    "nomDistrito": "LA UNION",
+    "codProvincia": "109"
+  },
+  {
+    "codDistrito": "1106",
+    "nomDistrito": "PALCA",
+    "codProvincia": "109"
+  },
+  {
+    "codDistrito": "1107",
+    "nomDistrito": "PALCAMAYO",
+    "codProvincia": "109"
+  },
+  {
+    "codDistrito": "1108",
+    "nomDistrito": "SAN PEDRO DE CAJAS",
+    "codProvincia": "109"
+  },
+  {
+    "codDistrito": "1109",
+    "nomDistrito": "TAPO",
+    "codProvincia": "109"
+  },
+  {
+    "codDistrito": "111",
+    "nomDistrito": "ANTONIO RAYMONDI",
+    "codProvincia": "12"
+  },
+  {
+    "codDistrito": "1110",
+    "nomDistrito": "LA OROYA",
+    "codProvincia": "110"
+  },
+  {
+    "codDistrito": "1111",
+    "nomDistrito": "CHACAPALPA",
+    "codProvincia": "110"
+  },
+  {
+    "codDistrito": "1112",
+    "nomDistrito": "HUAY-HUAY",
+    "codProvincia": "110"
+  },
+  {
+    "codDistrito": "1113",
+    "nomDistrito": "MARCAPOMACOCHA",
+    "codProvincia": "110"
+  },
+  {
+    "codDistrito": "1114",
+    "nomDistrito": "MOROCOCHA",
+    "codProvincia": "110"
+  },
+  {
+    "codDistrito": "1115",
+    "nomDistrito": "PACCHA",
+    "codProvincia": "110"
+  },
+  {
+    "codDistrito": "1116",
+    "nomDistrito": "SANTA BARBARA DE CARHUACAYAN",
+    "codProvincia": "110"
+  },
+  {
+    "codDistrito": "1117",
+    "nomDistrito": "SANTA ROSA DE SACCO",
+    "codProvincia": "110"
+  },
+  {
+    "codDistrito": "1118",
+    "nomDistrito": "SUITUCANCHA",
+    "codProvincia": "110"
+  },
+  {
+    "codDistrito": "1119",
+    "nomDistrito": "YAULI",
+    "codProvincia": "110"
+  },
+  {
+    "codDistrito": "112",
+    "nomDistrito": "AQUIA",
+    "codProvincia": "12"
+  },
+  {
+    "codDistrito": "1120",
+    "nomDistrito": "CHUPACA",
+    "codProvincia": "111"
+  },
+  {
+    "codDistrito": "1121",
+    "nomDistrito": "AHUAC",
+    "codProvincia": "111"
+  },
+  {
+    "codDistrito": "1122",
+    "nomDistrito": "CHONGOS BAJO",
+    "codProvincia": "111"
+  },
+  {
+    "codDistrito": "1123",
+    "nomDistrito": "HUACHAC",
+    "codProvincia": "111"
+  },
+  {
+    "codDistrito": "1124",
+    "nomDistrito": "HUAMANCACA CHICO",
+    "codProvincia": "111"
+  },
+  {
+    "codDistrito": "1125",
+    "nomDistrito": "SAN JUAN DE ISCOS",
+    "codProvincia": "111"
+  },
+  {
+    "codDistrito": "1126",
+    "nomDistrito": "SAN JUAN DE JARPA",
+    "codProvincia": "111"
+  },
+  {
+    "codDistrito": "1127",
+    "nomDistrito": "TRES DE DICIEMBRE",
+    "codProvincia": "111"
+  },
+  {
+    "codDistrito": "1128",
+    "nomDistrito": "YANACANCHA",
+    "codProvincia": "111"
+  },
+  {
+    "codDistrito": "1129",
+    "nomDistrito": "TRUJILLO",
+    "codProvincia": "112"
+  },
+  {
+    "codDistrito": "113",
+    "nomDistrito": "CAJACAY",
+    "codProvincia": "12"
+  },
+  {
+    "codDistrito": "1130",
+    "nomDistrito": "EL PORVENIR",
+    "codProvincia": "112"
+  },
+  {
+    "codDistrito": "1131",
+    "nomDistrito": "FLORENCIA DE MORA",
+    "codProvincia": "112"
+  },
+  {
+    "codDistrito": "1132",
+    "nomDistrito": "HUANCHACO",
+    "codProvincia": "112"
+  },
+  {
+    "codDistrito": "1133",
+    "nomDistrito": "LA ESPERANZA",
+    "codProvincia": "112"
+  },
+  {
+    "codDistrito": "1134",
+    "nomDistrito": "LAREDO",
+    "codProvincia": "112"
+  },
+  {
+    "codDistrito": "1135",
+    "nomDistrito": "MOCHE",
+    "codProvincia": "112"
+  },
+  {
+    "codDistrito": "1136",
+    "nomDistrito": "POROTO",
+    "codProvincia": "112"
+  },
+  {
+    "codDistrito": "1137",
+    "nomDistrito": "SALAVERRY",
+    "codProvincia": "112"
+  },
+  {
+    "codDistrito": "1138",
+    "nomDistrito": "SIMBAL",
+    "codProvincia": "112"
+  },
+  {
+    "codDistrito": "1139",
+    "nomDistrito": "VICTOR LARCO HERRERA",
+    "codProvincia": "112"
+  },
+  {
+    "codDistrito": "114",
+    "nomDistrito": "CANIS",
+    "codProvincia": "12"
+  },
+  {
+    "codDistrito": "1140",
+    "nomDistrito": "ASCOPE",
+    "codProvincia": "113"
+  },
+  {
+    "codDistrito": "1141",
+    "nomDistrito": "CHICAMA",
+    "codProvincia": "113"
+  },
+  {
+    "codDistrito": "1142",
+    "nomDistrito": "CHOCOPE",
+    "codProvincia": "113"
+  },
+  {
+    "codDistrito": "1143",
+    "nomDistrito": "MAGDALENA DE CAO",
+    "codProvincia": "113"
+  },
+  {
+    "codDistrito": "1144",
+    "nomDistrito": "PAIJAN",
+    "codProvincia": "113"
+  },
+  {
+    "codDistrito": "1145",
+    "nomDistrito": "RAZURI",
+    "codProvincia": "113"
+  },
+  {
+    "codDistrito": "1146",
+    "nomDistrito": "SANTIAGO DE CAO",
+    "codProvincia": "113"
+  },
+  {
+    "codDistrito": "1147",
+    "nomDistrito": "CASA GRANDE",
+    "codProvincia": "113"
+  },
+  {
+    "codDistrito": "1148",
+    "nomDistrito": "BOLIVAR",
+    "codProvincia": "114"
+  },
+  {
+    "codDistrito": "1149",
+    "nomDistrito": "BAMBAMARCA",
+    "codProvincia": "114"
+  },
+  {
+    "codDistrito": "115",
+    "nomDistrito": "COLQUIOC",
+    "codProvincia": "12"
+  },
+  {
+    "codDistrito": "1150",
+    "nomDistrito": "CONDORMARCA",
+    "codProvincia": "114"
+  },
+  {
+    "codDistrito": "1151",
+    "nomDistrito": "LONGOTEA",
+    "codProvincia": "114"
+  },
+  {
+    "codDistrito": "1152",
+    "nomDistrito": "UCHUMARCA",
+    "codProvincia": "114"
+  },
+  {
+    "codDistrito": "1153",
+    "nomDistrito": "UCUNCHA",
+    "codProvincia": "114"
+  },
+  {
+    "codDistrito": "1154",
+    "nomDistrito": "CHEPEN",
+    "codProvincia": "115"
+  },
+  {
+    "codDistrito": "1155",
+    "nomDistrito": "PACANGA",
+    "codProvincia": "115"
+  },
+  {
+    "codDistrito": "1156",
+    "nomDistrito": "PUEBLO NUEVO",
+    "codProvincia": "115"
+  },
+  {
+    "codDistrito": "1157",
+    "nomDistrito": "JULCAN",
+    "codProvincia": "116"
+  },
+  {
+    "codDistrito": "1158",
+    "nomDistrito": "CALAMARCA",
+    "codProvincia": "116"
+  },
+  {
+    "codDistrito": "1159",
+    "nomDistrito": "CARABAMBA",
+    "codProvincia": "116"
+  },
+  {
+    "codDistrito": "116",
+    "nomDistrito": "HUALLANCA",
+    "codProvincia": "12"
+  },
+  {
+    "codDistrito": "1160",
+    "nomDistrito": "HUASO",
+    "codProvincia": "116"
+  },
+  {
+    "codDistrito": "1161",
+    "nomDistrito": "OTUZCO",
+    "codProvincia": "117"
+  },
+  {
+    "codDistrito": "1162",
+    "nomDistrito": "AGALLPAMPA",
+    "codProvincia": "117"
+  },
+  {
+    "codDistrito": "1163",
+    "nomDistrito": "CHARAT",
+    "codProvincia": "117"
+  },
+  {
+    "codDistrito": "1164",
+    "nomDistrito": "HUARANCHAL",
+    "codProvincia": "117"
+  },
+  {
+    "codDistrito": "1165",
+    "nomDistrito": "LA CUESTA",
+    "codProvincia": "117"
+  },
+  {
+    "codDistrito": "1166",
+    "nomDistrito": "MACHE",
+    "codProvincia": "117"
+  },
+  {
+    "codDistrito": "1167",
+    "nomDistrito": "PARANDAY",
+    "codProvincia": "117"
+  },
+  {
+    "codDistrito": "1168",
+    "nomDistrito": "SALPO",
+    "codProvincia": "117"
+  },
+  {
+    "codDistrito": "1169",
+    "nomDistrito": "SINSICAP",
+    "codProvincia": "117"
+  },
+  {
+    "codDistrito": "117",
+    "nomDistrito": "HUASTA",
+    "codProvincia": "12"
+  },
+  {
+    "codDistrito": "1170",
+    "nomDistrito": "USQUIL",
+    "codProvincia": "117"
+  },
+  {
+    "codDistrito": "1171",
+    "nomDistrito": "SAN PEDRO DE LLOC",
+    "codProvincia": "118"
+  },
+  {
+    "codDistrito": "1172",
+    "nomDistrito": "GUADALUPE",
+    "codProvincia": "118"
+  },
+  {
+    "codDistrito": "1173",
+    "nomDistrito": "JEQUETEPEQUE",
+    "codProvincia": "118"
+  },
+  {
+    "codDistrito": "1174",
+    "nomDistrito": "PACASMAYO",
+    "codProvincia": "118"
+  },
+  {
+    "codDistrito": "1175",
+    "nomDistrito": "SAN JOSE",
+    "codProvincia": "118"
+  },
+  {
+    "codDistrito": "1176",
+    "nomDistrito": "TAYABAMBA",
+    "codProvincia": "119"
+  },
+  {
+    "codDistrito": "1177",
+    "nomDistrito": "BULDIBUYO",
+    "codProvincia": "119"
+  },
+  {
+    "codDistrito": "1178",
+    "nomDistrito": "CHILLIA",
+    "codProvincia": "119"
+  },
+  {
+    "codDistrito": "1179",
+    "nomDistrito": "HUANCASPATA",
+    "codProvincia": "119"
+  },
+  {
+    "codDistrito": "118",
+    "nomDistrito": "HUAYLLACAYAN",
+    "codProvincia": "12"
+  },
+  {
+    "codDistrito": "1180",
+    "nomDistrito": "HUAYLILLAS",
+    "codProvincia": "119"
+  },
+  {
+    "codDistrito": "1181",
+    "nomDistrito": "HUAYO",
+    "codProvincia": "119"
+  },
+  {
+    "codDistrito": "1182",
+    "nomDistrito": "ONGON",
+    "codProvincia": "119"
+  },
+  {
+    "codDistrito": "1183",
+    "nomDistrito": "PARCOY",
+    "codProvincia": "119"
+  },
+  {
+    "codDistrito": "1184",
+    "nomDistrito": "PATAZ",
+    "codProvincia": "119"
+  },
+  {
+    "codDistrito": "1185",
+    "nomDistrito": "PIAS",
+    "codProvincia": "119"
+  },
+  {
+    "codDistrito": "1186",
+    "nomDistrito": "SANTIAGO DE CHALLAS",
+    "codProvincia": "119"
+  },
+  {
+    "codDistrito": "1187",
+    "nomDistrito": "TAURIJA",
+    "codProvincia": "119"
+  },
+  {
+    "codDistrito": "1188",
+    "nomDistrito": "URPAY",
+    "codProvincia": "119"
+  },
+  {
+    "codDistrito": "1189",
+    "nomDistrito": "HUAMACHUCO",
+    "codProvincia": "120"
+  },
+  {
+    "codDistrito": "119",
+    "nomDistrito": "LA PRIMAVERA",
+    "codProvincia": "12"
+  },
+  {
+    "codDistrito": "1190",
+    "nomDistrito": "CHUGAY",
+    "codProvincia": "120"
+  },
+  {
+    "codDistrito": "1191",
+    "nomDistrito": "COCHORCO",
+    "codProvincia": "120"
+  },
+  {
+    "codDistrito": "1192",
+    "nomDistrito": "CURGOS",
+    "codProvincia": "120"
+  },
+  {
+    "codDistrito": "1193",
+    "nomDistrito": "MARCABAL",
+    "codProvincia": "120"
+  },
+  {
+    "codDistrito": "1194",
+    "nomDistrito": "SANAGORAN",
+    "codProvincia": "120"
+  },
+  {
+    "codDistrito": "1195",
+    "nomDistrito": "SARIN",
+    "codProvincia": "120"
+  },
+  {
+    "codDistrito": "1196",
+    "nomDistrito": "SARTIMBAMBA",
+    "codProvincia": "120"
+  },
+  {
+    "codDistrito": "1197",
+    "nomDistrito": "SANTIAGO DE CHUCO",
+    "codProvincia": "121"
+  },
+  {
+    "codDistrito": "1198",
+    "nomDistrito": "ANGASMARCA",
+    "codProvincia": "121"
+  },
+  {
+    "codDistrito": "1199",
+    "nomDistrito": "CACHICADAN",
+    "codProvincia": "121"
+  },
+  {
+    "codDistrito": "12",
+    "nomDistrito": "MAGDALENA",
+    "codProvincia": "1"
+  },
+  {
+    "codDistrito": "120",
+    "nomDistrito": "MANGAS",
+    "codProvincia": "12"
+  },
+  {
+    "codDistrito": "1200",
+    "nomDistrito": "MOLLEBAMBA",
+    "codProvincia": "121"
+  },
+  {
+    "codDistrito": "1201",
+    "nomDistrito": "MOLLEPATA",
+    "codProvincia": "121"
+  },
+  {
+    "codDistrito": "1202",
+    "nomDistrito": "QUIRUVILCA",
+    "codProvincia": "121"
+  },
+  {
+    "codDistrito": "1203",
+    "nomDistrito": "SANTA CRUZ DE CHUCA",
+    "codProvincia": "121"
+  },
+  {
+    "codDistrito": "1204",
+    "nomDistrito": "SITABAMBA",
+    "codProvincia": "121"
+  },
+  {
+    "codDistrito": "1205",
+    "nomDistrito": "GRAN CHIMU",
+    "codProvincia": "122"
+  },
+  {
+    "codDistrito": "1206",
+    "nomDistrito": "CASCAS",
+    "codProvincia": "122"
+  },
+  {
+    "codDistrito": "1207",
+    "nomDistrito": "LUCMA",
+    "codProvincia": "122"
+  },
+  {
+    "codDistrito": "1208",
+    "nomDistrito": "MARMOT",
+    "codProvincia": "122"
+  },
+  {
+    "codDistrito": "1209",
+    "nomDistrito": "SAYAPULLO",
+    "codProvincia": "122"
+  },
+  {
+    "codDistrito": "121",
+    "nomDistrito": "PACLLON",
+    "codProvincia": "12"
+  },
+  {
+    "codDistrito": "1210",
+    "nomDistrito": "VIRU",
+    "codProvincia": "123"
+  },
+  {
+    "codDistrito": "1211",
+    "nomDistrito": "CHAO",
+    "codProvincia": "123"
+  },
+  {
+    "codDistrito": "1212",
+    "nomDistrito": "GUADALUPITO",
+    "codProvincia": "123"
+  },
+  {
+    "codDistrito": "1213",
+    "nomDistrito": "CHICLAYO",
+    "codProvincia": "124"
+  },
+  {
+    "codDistrito": "1214",
+    "nomDistrito": "CHONGOYAPE",
+    "codProvincia": "124"
+  },
+  {
+    "codDistrito": "1215",
+    "nomDistrito": "ETEN",
+    "codProvincia": "124"
+  },
+  {
+    "codDistrito": "1216",
+    "nomDistrito": "ETEN PUERTO",
+    "codProvincia": "124"
+  },
+  {
+    "codDistrito": "1217",
+    "nomDistrito": "JOSE LEONARDO ORTIZ",
+    "codProvincia": "124"
+  },
+  {
+    "codDistrito": "1218",
+    "nomDistrito": "LA VICTORIA",
+    "codProvincia": "124"
+  },
+  {
+    "codDistrito": "1219",
+    "nomDistrito": "LAGUNAS",
+    "codProvincia": "124"
+  },
+  {
+    "codDistrito": "122",
+    "nomDistrito": "SAN MIGUEL DE CORPANQUI",
+    "codProvincia": "12"
+  },
+  {
+    "codDistrito": "1220",
+    "nomDistrito": "MONSEFU",
+    "codProvincia": "124"
+  },
+  {
+    "codDistrito": "1221",
+    "nomDistrito": "NUEVA ARICA",
+    "codProvincia": "124"
+  },
+  {
+    "codDistrito": "1222",
+    "nomDistrito": "OYOTUN",
+    "codProvincia": "124"
+  },
+  {
+    "codDistrito": "1223",
+    "nomDistrito": "PICSI",
+    "codProvincia": "124"
+  },
+  {
+    "codDistrito": "1224",
+    "nomDistrito": "PIMENTEL",
+    "codProvincia": "124"
+  },
+  {
+    "codDistrito": "1225",
+    "nomDistrito": "REQUE",
+    "codProvincia": "124"
+  },
+  {
+    "codDistrito": "1226",
+    "nomDistrito": "SANTA ROSA",
+    "codProvincia": "124"
+  },
+  {
+    "codDistrito": "1227",
+    "nomDistrito": "SAÃ?A",
+    "codProvincia": "124"
+  },
+  {
+    "codDistrito": "1228",
+    "nomDistrito": "CAYALTI",
+    "codProvincia": "124"
+  },
+  {
+    "codDistrito": "1229",
+    "nomDistrito": "PATAPO",
+    "codProvincia": "124"
+  },
+  {
+    "codDistrito": "123",
+    "nomDistrito": "TICLLOS",
+    "codProvincia": "12"
+  },
+  {
+    "codDistrito": "1230",
+    "nomDistrito": "POMALCA",
+    "codProvincia": "124"
+  },
+  {
+    "codDistrito": "1231",
+    "nomDistrito": "PUCALA",
+    "codProvincia": "124"
+  },
+  {
+    "codDistrito": "1232",
+    "nomDistrito": "TUMAN",
+    "codProvincia": "124"
+  },
+  {
+    "codDistrito": "1233",
+    "nomDistrito": "FERREÃ?AFE",
+    "codProvincia": "125"
+  },
+  {
+    "codDistrito": "1234",
+    "nomDistrito": "CAÃ?ARIS",
+    "codProvincia": "125"
+  },
+  {
+    "codDistrito": "1235",
+    "nomDistrito": "INCAHUASI",
+    "codProvincia": "125"
+  },
+  {
+    "codDistrito": "1236",
+    "nomDistrito": "MANUEL ANTONIO MESONES MURO",
+    "codProvincia": "125"
+  },
+  {
+    "codDistrito": "1237",
+    "nomDistrito": "PITIPO",
+    "codProvincia": "125"
+  },
+  {
+    "codDistrito": "1238",
+    "nomDistrito": "PUEBLO NUEVO",
+    "codProvincia": "125"
+  },
+  {
+    "codDistrito": "1239",
+    "nomDistrito": "LAMBAYEQUE",
+    "codProvincia": "126"
+  },
+  {
+    "codDistrito": "124",
+    "nomDistrito": "CARHUAZ",
+    "codProvincia": "13"
+  },
+  {
+    "codDistrito": "1240",
+    "nomDistrito": "CHOCHOPE",
+    "codProvincia": "126"
+  },
+  {
+    "codDistrito": "1241",
+    "nomDistrito": "ILLIMO",
+    "codProvincia": "126"
+  },
+  {
+    "codDistrito": "1242",
+    "nomDistrito": "JAYANCA",
+    "codProvincia": "126"
+  },
+  {
+    "codDistrito": "1243",
+    "nomDistrito": "MOCHUMI",
+    "codProvincia": "126"
+  },
+  {
+    "codDistrito": "1244",
+    "nomDistrito": "MORROPE",
+    "codProvincia": "126"
+  },
+  {
+    "codDistrito": "1245",
+    "nomDistrito": "MOTUPE",
+    "codProvincia": "126"
+  },
+  {
+    "codDistrito": "1246",
+    "nomDistrito": "OLMOS",
+    "codProvincia": "126"
+  },
+  {
+    "codDistrito": "1247",
+    "nomDistrito": "PACORA",
+    "codProvincia": "126"
+  },
+  {
+    "codDistrito": "1248",
+    "nomDistrito": "SALAS",
+    "codProvincia": "126"
+  },
+  {
+    "codDistrito": "1249",
+    "nomDistrito": "SAN JOSE",
+    "codProvincia": "126"
+  },
+  {
+    "codDistrito": "125",
+    "nomDistrito": "ACOPAMPA",
+    "codProvincia": "13"
+  },
+  {
+    "codDistrito": "1250",
+    "nomDistrito": "TUCUME",
+    "codProvincia": "126"
+  },
+  {
+    "codDistrito": "1251",
+    "nomDistrito": "LIMA",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1252",
+    "nomDistrito": "ANCON",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1253",
+    "nomDistrito": "ATE",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1254",
+    "nomDistrito": "BARRANCO",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1255",
+    "nomDistrito": "Breña",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1256",
+    "nomDistrito": "CARABAYLLO",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1257",
+    "nomDistrito": "CHACLACAYO",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1258",
+    "nomDistrito": "CHORRILLOS",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1259",
+    "nomDistrito": "CIENEGUILLA",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "126",
+    "nomDistrito": "AMASHCA",
+    "codProvincia": "13"
+  },
+  {
+    "codDistrito": "1260",
+    "nomDistrito": "COMAS",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1261",
+    "nomDistrito": "EL AGUSTINO",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1262",
+    "nomDistrito": "INDEPENDENCIA",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1263",
+    "nomDistrito": "JESUS MARIA",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1264",
+    "nomDistrito": "LA MOLINA",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1265",
+    "nomDistrito": "LA VICTORIA",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1266",
+    "nomDistrito": "LINCE",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1267",
+    "nomDistrito": "LOS OLIVOS",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1268",
+    "nomDistrito": "LURIGANCHO",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1269",
+    "nomDistrito": "LURIN",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "127",
+    "nomDistrito": "ANTA",
+    "codProvincia": "13"
+  },
+  {
+    "codDistrito": "1270",
+    "nomDistrito": "MAGDALENA DEL MAR",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1271",
+    "nomDistrito": "MAGDALENA VIEJA",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1272",
+    "nomDistrito": "MIRAFLORES",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1273",
+    "nomDistrito": "PACHACAMAC",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1274",
+    "nomDistrito": "PUCUSANA",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1275",
+    "nomDistrito": "PUENTE PIEDRA",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1276",
+    "nomDistrito": "PUNTA HERMOSA",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1277",
+    "nomDistrito": "PUNTA NEGRA",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1278",
+    "nomDistrito": "RIMAC",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1279",
+    "nomDistrito": "SAN BARTOLO",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "128",
+    "nomDistrito": "ATAQUERO",
+    "codProvincia": "13"
+  },
+  {
+    "codDistrito": "1280",
+    "nomDistrito": "SAN BORJA",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1281",
+    "nomDistrito": "SAN ISIDRO",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1282",
+    "nomDistrito": "SAN JUAN DE LURIGANCHO",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1283",
+    "nomDistrito": "SAN JUAN DE MIRAFLORES",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1284",
+    "nomDistrito": "SAN LUIS",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1285",
+    "nomDistrito": "SAN MARTIN DE PORRES",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1286",
+    "nomDistrito": "SAN MIGUEL",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1287",
+    "nomDistrito": "SANTA ANITA",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1288",
+    "nomDistrito": "SANTA MARIA DEL MAR",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1289",
+    "nomDistrito": "SANTA ROSA",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "129",
+    "nomDistrito": "MARCARA",
+    "codProvincia": "13"
+  },
+  {
+    "codDistrito": "1290",
+    "nomDistrito": "SANTIAGO DE SURCO",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1291",
+    "nomDistrito": "SURQUILLO",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1292",
+    "nomDistrito": "VILLA EL SALVADOR",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1293",
+    "nomDistrito": "VILLA MARIA DEL TRIUNFO",
+    "codProvincia": "127"
+  },
+  {
+    "codDistrito": "1294",
+    "nomDistrito": "BARRANCA",
+    "codProvincia": "128"
+  },
+  {
+    "codDistrito": "1295",
+    "nomDistrito": "PARAMONGA",
+    "codProvincia": "128"
+  },
+  {
+    "codDistrito": "1296",
+    "nomDistrito": "PATIVILCA",
+    "codProvincia": "128"
+  },
+  {
+    "codDistrito": "1297",
+    "nomDistrito": "SUPE",
+    "codProvincia": "128"
+  },
+  {
+    "codDistrito": "1298",
+    "nomDistrito": "SUPE PUERTO",
+    "codProvincia": "128"
+  },
+  {
+    "codDistrito": "1299",
+    "nomDistrito": "CAJATAMBO",
+    "codProvincia": "129"
+  },
+  {
+    "codDistrito": "13",
+    "nomDistrito": "MARISCAL CASTILLA",
+    "codProvincia": "1"
+  },
+  {
+    "codDistrito": "130",
+    "nomDistrito": "PARIAHUANCA",
+    "codProvincia": "13"
+  },
+  {
+    "codDistrito": "1300",
+    "nomDistrito": "COPA",
+    "codProvincia": "129"
+  },
+  {
+    "codDistrito": "1301",
+    "nomDistrito": "GORGOR",
+    "codProvincia": "129"
+  },
+  {
+    "codDistrito": "1302",
+    "nomDistrito": "HUANCAPON",
+    "codProvincia": "129"
+  },
+  {
+    "codDistrito": "1303",
+    "nomDistrito": "MANAS",
+    "codProvincia": "129"
+  },
+  {
+    "codDistrito": "1304",
+    "nomDistrito": "CANTA",
+    "codProvincia": "130"
+  },
+  {
+    "codDistrito": "1305",
+    "nomDistrito": "ARAHUAY",
+    "codProvincia": "130"
+  },
+  {
+    "codDistrito": "1306",
+    "nomDistrito": "HUAMANTANGA",
+    "codProvincia": "130"
+  },
+  {
+    "codDistrito": "1307",
+    "nomDistrito": "HUAROS",
+    "codProvincia": "130"
+  },
+  {
+    "codDistrito": "1308",
+    "nomDistrito": "LACHAQUI",
+    "codProvincia": "130"
+  },
+  {
+    "codDistrito": "1309",
+    "nomDistrito": "SAN BUENAVENTURA",
+    "codProvincia": "130"
+  },
+  {
+    "codDistrito": "131",
+    "nomDistrito": "SAN MIGUEL DE ACO",
+    "codProvincia": "13"
+  },
+  {
+    "codDistrito": "1310",
+    "nomDistrito": "SANTA ROSA DE QUIVES",
+    "codProvincia": "130"
+  },
+  {
+    "codDistrito": "1311",
+    "nomDistrito": "SAN VICENTE DE CAÑETE",
+    "codProvincia": "131"
+  },
+  {
+    "codDistrito": "1312",
+    "nomDistrito": "ASIA",
+    "codProvincia": "131"
+  },
+  {
+    "codDistrito": "1313",
+    "nomDistrito": "CALANGO",
+    "codProvincia": "131"
+  },
+  {
+    "codDistrito": "1314",
+    "nomDistrito": "CERRO AZUL",
+    "codProvincia": "131"
+  },
+  {
+    "codDistrito": "1315",
+    "nomDistrito": "CHILCA",
+    "codProvincia": "131"
+  },
+  {
+    "codDistrito": "1316",
+    "nomDistrito": "COAYLLO",
+    "codProvincia": "131"
+  },
+  {
+    "codDistrito": "1317",
+    "nomDistrito": "IMPERIAL",
+    "codProvincia": "131"
+  },
+  {
+    "codDistrito": "1318",
+    "nomDistrito": "LUNAHUANA",
+    "codProvincia": "131"
+  },
+  {
+    "codDistrito": "1319",
+    "nomDistrito": "MALA",
+    "codProvincia": "131"
+  },
+  {
+    "codDistrito": "132",
+    "nomDistrito": "SHILLA",
+    "codProvincia": "13"
+  },
+  {
+    "codDistrito": "1320",
+    "nomDistrito": "NUEVO IMPERIAL",
+    "codProvincia": "131"
+  },
+  {
+    "codDistrito": "1321",
+    "nomDistrito": "PACARAN",
+    "codProvincia": "131"
+  },
+  {
+    "codDistrito": "1322",
+    "nomDistrito": "QUILMANA",
+    "codProvincia": "131"
+  },
+  {
+    "codDistrito": "1323",
+    "nomDistrito": "SAN ANTONIO",
+    "codProvincia": "131"
+  },
+  {
+    "codDistrito": "1324",
+    "nomDistrito": "SAN LUIS",
+    "codProvincia": "131"
+  },
+  {
+    "codDistrito": "1325",
+    "nomDistrito": "SANTA CRUZ DE FLORES",
+    "codProvincia": "131"
+  },
+  {
+    "codDistrito": "1326",
+    "nomDistrito": "ZUÃ?IGA",
+    "codProvincia": "131"
+  },
+  {
+    "codDistrito": "1327",
+    "nomDistrito": "HUARAL",
+    "codProvincia": "132"
+  },
+  {
+    "codDistrito": "1328",
+    "nomDistrito": "ATAVILLOS ALTO",
+    "codProvincia": "132"
+  },
+  {
+    "codDistrito": "1329",
+    "nomDistrito": "ATAVILLOS BAJO",
+    "codProvincia": "132"
+  },
+  {
+    "codDistrito": "133",
+    "nomDistrito": "TINCO",
+    "codProvincia": "13"
+  },
+  {
+    "codDistrito": "1330",
+    "nomDistrito": "AUCALLAMA",
+    "codProvincia": "132"
+  },
+  {
+    "codDistrito": "1331",
+    "nomDistrito": "CHANCAY",
+    "codProvincia": "132"
+  },
+  {
+    "codDistrito": "1332",
+    "nomDistrito": "IHUARI",
+    "codProvincia": "132"
+  },
+  {
+    "codDistrito": "1333",
+    "nomDistrito": "LAMPIAN",
+    "codProvincia": "132"
+  },
+  {
+    "codDistrito": "1334",
+    "nomDistrito": "PACARAOS",
+    "codProvincia": "132"
+  },
+  {
+    "codDistrito": "1335",
+    "nomDistrito": "SAN MIGUEL DE ACOS",
+    "codProvincia": "132"
+  },
+  {
+    "codDistrito": "1336",
+    "nomDistrito": "SANTA CRUZ DE ANDAMARCA",
+    "codProvincia": "132"
+  },
+  {
+    "codDistrito": "1337",
+    "nomDistrito": "SUMBILCA",
+    "codProvincia": "132"
+  },
+  {
+    "codDistrito": "1338",
+    "nomDistrito": "VEINTISIETE DE NOVIEMBRE",
+    "codProvincia": "132"
+  },
+  {
+    "codDistrito": "1339",
+    "nomDistrito": "MATUCANA",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "134",
+    "nomDistrito": "YUNGAR",
+    "codProvincia": "13"
+  },
+  {
+    "codDistrito": "1340",
+    "nomDistrito": "ANTIOQUIA",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1341",
+    "nomDistrito": "CALLAHUANCA",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1342",
+    "nomDistrito": "CARAMPOMA",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1343",
+    "nomDistrito": "CHICLA",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1344",
+    "nomDistrito": "CUENCA",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1345",
+    "nomDistrito": "HUACHUPAMPA",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1346",
+    "nomDistrito": "HUANZA",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1347",
+    "nomDistrito": "HUAROCHIRI",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1348",
+    "nomDistrito": "LAHUAYTAMBO",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1349",
+    "nomDistrito": "LANGA",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "135",
+    "nomDistrito": "SAN LUIS",
+    "codProvincia": "14"
+  },
+  {
+    "codDistrito": "1350",
+    "nomDistrito": "LARAOS",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1351",
+    "nomDistrito": "MARIATANA",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1352",
+    "nomDistrito": "RICARDO PALMA",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1353",
+    "nomDistrito": "SAN ANDRES DE TUPICOCHA",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1354",
+    "nomDistrito": "SAN ANTONIO",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1355",
+    "nomDistrito": "SAN BARTOLOME",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1356",
+    "nomDistrito": "SAN DAMIAN",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1357",
+    "nomDistrito": "SAN JUAN DE IRIS",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1358",
+    "nomDistrito": "SAN JUAN DE TANTARANCHE",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1359",
+    "nomDistrito": "SAN LORENZO DE QUINTI",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "136",
+    "nomDistrito": "SAN NICOLAS",
+    "codProvincia": "14"
+  },
+  {
+    "codDistrito": "1360",
+    "nomDistrito": "SAN MATEO",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1361",
+    "nomDistrito": "SAN MATEO DE OTAO",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1362",
+    "nomDistrito": "SAN PEDRO DE CASTA",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1363",
+    "nomDistrito": "SAN PEDRO DE HUANCAYRE",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1364",
+    "nomDistrito": "SANGALLAYA",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1365",
+    "nomDistrito": "SANTA CRUZ DE COCACHACRA",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1366",
+    "nomDistrito": "SANTA EULALIA",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1367",
+    "nomDistrito": "SANTIAGO DE ANCHUCAYA",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1368",
+    "nomDistrito": "SANTIAGO DE TUNA",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1369",
+    "nomDistrito": "SANTO DOMINGO DE LOS OLLEROS",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "137",
+    "nomDistrito": "YAUYA",
+    "codProvincia": "14"
+  },
+  {
+    "codDistrito": "1370",
+    "nomDistrito": "SURCO",
+    "codProvincia": "133"
+  },
+  {
+    "codDistrito": "1371",
+    "nomDistrito": "HUACHO",
+    "codProvincia": "134"
+  },
+  {
+    "codDistrito": "1372",
+    "nomDistrito": "AMBAR",
+    "codProvincia": "134"
+  },
+  {
+    "codDistrito": "1373",
+    "nomDistrito": "CALETA DE CARQUIN",
+    "codProvincia": "134"
+  },
+  {
+    "codDistrito": "1374",
+    "nomDistrito": "CHECRAS",
+    "codProvincia": "134"
+  },
+  {
+    "codDistrito": "1375",
+    "nomDistrito": "HUALMAY",
+    "codProvincia": "134"
+  },
+  {
+    "codDistrito": "1376",
+    "nomDistrito": "HUAURA",
+    "codProvincia": "134"
+  },
+  {
+    "codDistrito": "1377",
+    "nomDistrito": "LEONCIO PRADO",
+    "codProvincia": "134"
+  },
+  {
+    "codDistrito": "1378",
+    "nomDistrito": "PACCHO",
+    "codProvincia": "134"
+  },
+  {
+    "codDistrito": "1379",
+    "nomDistrito": "SANTA LEONOR",
+    "codProvincia": "134"
+  },
+  {
+    "codDistrito": "138",
+    "nomDistrito": "CASMA",
+    "codProvincia": "15"
+  },
+  {
+    "codDistrito": "1380",
+    "nomDistrito": "SANTA MARIA",
+    "codProvincia": "134"
+  },
+  {
+    "codDistrito": "1381",
+    "nomDistrito": "SAYAN",
+    "codProvincia": "134"
+  },
+  {
+    "codDistrito": "1382",
+    "nomDistrito": "VEGUETA",
+    "codProvincia": "134"
+  },
+  {
+    "codDistrito": "1383",
+    "nomDistrito": "OYON",
+    "codProvincia": "135"
+  },
+  {
+    "codDistrito": "1384",
+    "nomDistrito": "ANDAJES",
+    "codProvincia": "135"
+  },
+  {
+    "codDistrito": "1385",
+    "nomDistrito": "CAUJUL",
+    "codProvincia": "135"
+  },
+  {
+    "codDistrito": "1386",
+    "nomDistrito": "COCHAMARCA",
+    "codProvincia": "135"
+  },
+  {
+    "codDistrito": "1387",
+    "nomDistrito": "NAVAN",
+    "codProvincia": "135"
+  },
+  {
+    "codDistrito": "1388",
+    "nomDistrito": "PACHANGARA",
+    "codProvincia": "135"
+  },
+  {
+    "codDistrito": "1389",
+    "nomDistrito": "YAUYOS",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "139",
+    "nomDistrito": "BUENA VISTA ALTA",
+    "codProvincia": "15"
+  },
+  {
+    "codDistrito": "1390",
+    "nomDistrito": "ALIS",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1391",
+    "nomDistrito": "AYAUCA",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1392",
+    "nomDistrito": "AYAVIRI",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1393",
+    "nomDistrito": "AZANGARO",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1394",
+    "nomDistrito": "CACRA",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1395",
+    "nomDistrito": "CARANIA",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1396",
+    "nomDistrito": "CATAHUASI",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1397",
+    "nomDistrito": "CHOCOS",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1398",
+    "nomDistrito": "COCHAS",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1399",
+    "nomDistrito": "COLONIA",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "14",
+    "nomDistrito": "MOLINOPAMPA",
+    "codProvincia": "1"
+  },
+  {
+    "codDistrito": "140",
+    "nomDistrito": "COMANDANTE NOEL",
+    "codProvincia": "15"
+  },
+  {
+    "codDistrito": "1400",
+    "nomDistrito": "HONGOS",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1401",
+    "nomDistrito": "HUAMPARA",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1402",
+    "nomDistrito": "HUANCAYA",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1403",
+    "nomDistrito": "HUANGASCAR",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1404",
+    "nomDistrito": "HUANTAN",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1405",
+    "nomDistrito": "HUAÃ?EC",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1406",
+    "nomDistrito": "LARAOS",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1407",
+    "nomDistrito": "LINCHA",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1408",
+    "nomDistrito": "MADEAN",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1409",
+    "nomDistrito": "MIRAFLORES",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "141",
+    "nomDistrito": "YAUTAN",
+    "codProvincia": "15"
+  },
+  {
+    "codDistrito": "1410",
+    "nomDistrito": "OMAS",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1411",
+    "nomDistrito": "PUTINZA",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1412",
+    "nomDistrito": "QUINCHES",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1413",
+    "nomDistrito": "QUINOCAY",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1414",
+    "nomDistrito": "SAN JOAQUIN",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1415",
+    "nomDistrito": "SAN PEDRO DE PILAS",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1416",
+    "nomDistrito": "TANTA",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1417",
+    "nomDistrito": "TAURIPAMPA",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1418",
+    "nomDistrito": "TOMAS",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1419",
+    "nomDistrito": "TUPE",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "142",
+    "nomDistrito": "CORONGO",
+    "codProvincia": "16"
+  },
+  {
+    "codDistrito": "1420",
+    "nomDistrito": "VIÃ?AC",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1421",
+    "nomDistrito": "VITIS",
+    "codProvincia": "136"
+  },
+  {
+    "codDistrito": "1422",
+    "nomDistrito": "IQUITOS",
+    "codProvincia": "137"
+  },
+  {
+    "codDistrito": "1423",
+    "nomDistrito": "ALTO NANAY",
+    "codProvincia": "137"
+  },
+  {
+    "codDistrito": "1424",
+    "nomDistrito": "FERNANDO LORES",
+    "codProvincia": "137"
+  },
+  {
+    "codDistrito": "1425",
+    "nomDistrito": "INDIANA",
+    "codProvincia": "137"
+  },
+  {
+    "codDistrito": "1426",
+    "nomDistrito": "LAS AMAZONAS",
+    "codProvincia": "137"
+  },
+  {
+    "codDistrito": "1427",
+    "nomDistrito": "MAZAN",
+    "codProvincia": "137"
+  },
+  {
+    "codDistrito": "1428",
+    "nomDistrito": "NAPO",
+    "codProvincia": "137"
+  },
+  {
+    "codDistrito": "1429",
+    "nomDistrito": "PUNCHANA",
+    "codProvincia": "137"
+  },
+  {
+    "codDistrito": "143",
+    "nomDistrito": "ACO",
+    "codProvincia": "16"
+  },
+  {
+    "codDistrito": "1430",
+    "nomDistrito": "PUTUMAYO",
+    "codProvincia": "137"
+  },
+  {
+    "codDistrito": "1431",
+    "nomDistrito": "TORRES CAUSANA",
+    "codProvincia": "137"
+  },
+  {
+    "codDistrito": "1432",
+    "nomDistrito": "BELEN",
+    "codProvincia": "137"
+  },
+  {
+    "codDistrito": "1433",
+    "nomDistrito": "SAN JUAN BAUTISTA",
+    "codProvincia": "137"
+  },
+  {
+    "codDistrito": "1434",
+    "nomDistrito": "YURIMAGUAS",
+    "codProvincia": "138"
+  },
+  {
+    "codDistrito": "1435",
+    "nomDistrito": "BALSAPUERTO",
+    "codProvincia": "138"
+  },
+  {
+    "codDistrito": "1436",
+    "nomDistrito": "BARRANCA",
+    "codProvincia": "138"
+  },
+  {
+    "codDistrito": "1437",
+    "nomDistrito": "CAHUAPANAS",
+    "codProvincia": "138"
+  },
+  {
+    "codDistrito": "1438",
+    "nomDistrito": "JEBEROS",
+    "codProvincia": "138"
+  },
+  {
+    "codDistrito": "1439",
+    "nomDistrito": "LAGUNAS",
+    "codProvincia": "138"
+  },
+  {
+    "codDistrito": "144",
+    "nomDistrito": "BAMBAS",
+    "codProvincia": "16"
+  },
+  {
+    "codDistrito": "1440",
+    "nomDistrito": "MANSERICHE",
+    "codProvincia": "138"
+  },
+  {
+    "codDistrito": "1441",
+    "nomDistrito": "MORONA",
+    "codProvincia": "138"
+  },
+  {
+    "codDistrito": "1442",
+    "nomDistrito": "PASTAZA",
+    "codProvincia": "138"
+  },
+  {
+    "codDistrito": "1443",
+    "nomDistrito": "SANTA CRUZ",
+    "codProvincia": "138"
+  },
+  {
+    "codDistrito": "1444",
+    "nomDistrito": "TENIENTE CESAR LOPEZ ROJAS",
+    "codProvincia": "138"
+  },
+  {
+    "codDistrito": "1445",
+    "nomDistrito": "NAUTA",
+    "codProvincia": "139"
+  },
+  {
+    "codDistrito": "1446",
+    "nomDistrito": "PARINARI",
+    "codProvincia": "139"
+  },
+  {
+    "codDistrito": "1447",
+    "nomDistrito": "TIGRE",
+    "codProvincia": "139"
+  },
+  {
+    "codDistrito": "1448",
+    "nomDistrito": "TROMPETEROS",
+    "codProvincia": "139"
+  },
+  {
+    "codDistrito": "1449",
+    "nomDistrito": "URARINAS",
+    "codProvincia": "139"
+  },
+  {
+    "codDistrito": "145",
+    "nomDistrito": "CUSCA",
+    "codProvincia": "16"
+  },
+  {
+    "codDistrito": "1450",
+    "nomDistrito": "RAMON CASTILLA",
+    "codProvincia": "140"
+  },
+  {
+    "codDistrito": "1451",
+    "nomDistrito": "PEBAS",
+    "codProvincia": "140"
+  },
+  {
+    "codDistrito": "1452",
+    "nomDistrito": "YAVARI",
+    "codProvincia": "140"
+  },
+  {
+    "codDistrito": "1453",
+    "nomDistrito": "SAN PABLO",
+    "codProvincia": "140"
+  },
+  {
+    "codDistrito": "1454",
+    "nomDistrito": "REQUENA",
+    "codProvincia": "141"
+  },
+  {
+    "codDistrito": "1455",
+    "nomDistrito": "ALTO TAPICHE",
+    "codProvincia": "141"
+  },
+  {
+    "codDistrito": "1456",
+    "nomDistrito": "CAPELO",
+    "codProvincia": "141"
+  },
+  {
+    "codDistrito": "1457",
+    "nomDistrito": "EMILIO SAN MARTIN",
+    "codProvincia": "141"
+  },
+  {
+    "codDistrito": "1458",
+    "nomDistrito": "MAQUIA",
+    "codProvincia": "141"
+  },
+  {
+    "codDistrito": "1459",
+    "nomDistrito": "PUINAHUA",
+    "codProvincia": "141"
+  },
+  {
+    "codDistrito": "146",
+    "nomDistrito": "LA PAMPA",
+    "codProvincia": "16"
+  },
+  {
+    "codDistrito": "1460",
+    "nomDistrito": "SAQUENA",
+    "codProvincia": "141"
+  },
+  {
+    "codDistrito": "1461",
+    "nomDistrito": "SOPLIN",
+    "codProvincia": "141"
+  },
+  {
+    "codDistrito": "1462",
+    "nomDistrito": "TAPICHE",
+    "codProvincia": "141"
+  },
+  {
+    "codDistrito": "1463",
+    "nomDistrito": "JENARO HERRERA",
+    "codProvincia": "141"
+  },
+  {
+    "codDistrito": "1464",
+    "nomDistrito": "YAQUERANA",
+    "codProvincia": "141"
+  },
+  {
+    "codDistrito": "1465",
+    "nomDistrito": "CONTAMANA",
+    "codProvincia": "142"
+  },
+  {
+    "codDistrito": "1466",
+    "nomDistrito": "INAHUAYA",
+    "codProvincia": "142"
+  },
+  {
+    "codDistrito": "1467",
+    "nomDistrito": "PADRE MARQUEZ",
+    "codProvincia": "142"
+  },
+  {
+    "codDistrito": "1468",
+    "nomDistrito": "PAMPA HERMOSA",
+    "codProvincia": "142"
+  },
+  {
+    "codDistrito": "1469",
+    "nomDistrito": "SARAYACU",
+    "codProvincia": "142"
+  },
+  {
+    "codDistrito": "147",
+    "nomDistrito": "YANAC",
+    "codProvincia": "16"
+  },
+  {
+    "codDistrito": "1470",
+    "nomDistrito": "VARGAS GUERRA",
+    "codProvincia": "142"
+  },
+  {
+    "codDistrito": "1471",
+    "nomDistrito": "TAMBOPATA",
+    "codProvincia": "143"
+  },
+  {
+    "codDistrito": "1472",
+    "nomDistrito": "INAMBARI",
+    "codProvincia": "143"
+  },
+  {
+    "codDistrito": "1473",
+    "nomDistrito": "LAS PIEDRAS",
+    "codProvincia": "143"
+  },
+  {
+    "codDistrito": "1474",
+    "nomDistrito": "LABERINTO",
+    "codProvincia": "143"
+  },
+  {
+    "codDistrito": "1475",
+    "nomDistrito": "MANU",
+    "codProvincia": "144"
+  },
+  {
+    "codDistrito": "1476",
+    "nomDistrito": "FITZCARRALD",
+    "codProvincia": "144"
+  },
+  {
+    "codDistrito": "1477",
+    "nomDistrito": "MADRE DE DIOS",
+    "codProvincia": "144"
+  },
+  {
+    "codDistrito": "1478",
+    "nomDistrito": "HUEPETUHE",
+    "codProvincia": "144"
+  },
+  {
+    "codDistrito": "1479",
+    "nomDistrito": "IÑAPARI",
+    "codProvincia": "145"
+  },
+  {
+    "codDistrito": "148",
+    "nomDistrito": "YUPAN",
+    "codProvincia": "16"
+  },
+  {
+    "codDistrito": "1480",
+    "nomDistrito": "IBERIA",
+    "codProvincia": "145"
+  },
+  {
+    "codDistrito": "1481",
+    "nomDistrito": "TAHUAMANU",
+    "codProvincia": "145"
+  },
+  {
+    "codDistrito": "1482",
+    "nomDistrito": "MOQUEGUA",
+    "codProvincia": "146"
+  },
+  {
+    "codDistrito": "1483",
+    "nomDistrito": "CARUMAS",
+    "codProvincia": "146"
+  },
+  {
+    "codDistrito": "1484",
+    "nomDistrito": "CUCHUMBAYA",
+    "codProvincia": "146"
+  },
+  {
+    "codDistrito": "1485",
+    "nomDistrito": "SAMEGUA",
+    "codProvincia": "146"
+  },
+  {
+    "codDistrito": "1486",
+    "nomDistrito": "SAN CRISTOBAL",
+    "codProvincia": "146"
+  },
+  {
+    "codDistrito": "1487",
+    "nomDistrito": "TORATA",
+    "codProvincia": "146"
+  },
+  {
+    "codDistrito": "1488",
+    "nomDistrito": "OMATE",
+    "codProvincia": "147"
+  },
+  {
+    "codDistrito": "1489",
+    "nomDistrito": "CHOJATA",
+    "codProvincia": "147"
+  },
+  {
+    "codDistrito": "149",
+    "nomDistrito": "HUARI",
+    "codProvincia": "17"
+  },
+  {
+    "codDistrito": "1490",
+    "nomDistrito": "COALAQUE",
+    "codProvincia": "147"
+  },
+  {
+    "codDistrito": "1491",
+    "nomDistrito": "ICHUÃ?A",
+    "codProvincia": "147"
+  },
+  {
+    "codDistrito": "1492",
+    "nomDistrito": "LA CAPILLA",
+    "codProvincia": "147"
+  },
+  {
+    "codDistrito": "1493",
+    "nomDistrito": "LLOQUE",
+    "codProvincia": "147"
+  },
+  {
+    "codDistrito": "1494",
+    "nomDistrito": "MATALAQUE",
+    "codProvincia": "147"
+  },
+  {
+    "codDistrito": "1495",
+    "nomDistrito": "PUQUINA",
+    "codProvincia": "147"
+  },
+  {
+    "codDistrito": "1496",
+    "nomDistrito": "QUINISTAQUILLAS",
+    "codProvincia": "147"
+  },
+  {
+    "codDistrito": "1497",
+    "nomDistrito": "UBINAS",
+    "codProvincia": "147"
+  },
+  {
+    "codDistrito": "1498",
+    "nomDistrito": "YUNGA",
+    "codProvincia": "147"
+  },
+  {
+    "codDistrito": "1499",
+    "nomDistrito": "ILO",
+    "codProvincia": "148"
+  },
+  {
+    "codDistrito": "15",
+    "nomDistrito": "MONTEVIDEO",
+    "codProvincia": "1"
+  },
+  {
+    "codDistrito": "150",
+    "nomDistrito": "ANRA",
+    "codProvincia": "17"
+  },
+  {
+    "codDistrito": "1500",
+    "nomDistrito": "EL ALGARROBAL",
+    "codProvincia": "148"
+  },
+  {
+    "codDistrito": "1501",
+    "nomDistrito": "PACOCHA",
+    "codProvincia": "148"
+  },
+  {
+    "codDistrito": "1502",
+    "nomDistrito": "CHAUPIMARCA",
+    "codProvincia": "149"
+  },
+  {
+    "codDistrito": "1503",
+    "nomDistrito": "HUACHON",
+    "codProvincia": "149"
+  },
+  {
+    "codDistrito": "1504",
+    "nomDistrito": "HUARIACA",
+    "codProvincia": "149"
+  },
+  {
+    "codDistrito": "1505",
+    "nomDistrito": "HUAYLLAY",
+    "codProvincia": "149"
+  },
+  {
+    "codDistrito": "1506",
+    "nomDistrito": "NINACACA",
+    "codProvincia": "149"
+  },
+  {
+    "codDistrito": "1507",
+    "nomDistrito": "PALLANCHACRA",
+    "codProvincia": "149"
+  },
+  {
+    "codDistrito": "1508",
+    "nomDistrito": "PAUCARTAMBO",
+    "codProvincia": "149"
+  },
+  {
+    "codDistrito": "1509",
+    "nomDistrito": "SAN FCO.DE ASIS DE YARUSYACAN",
+    "codProvincia": "149"
+  },
+  {
+    "codDistrito": "151",
+    "nomDistrito": "CAJAY",
+    "codProvincia": "17"
+  },
+  {
+    "codDistrito": "1510",
+    "nomDistrito": "SIMON BOLIVAR",
+    "codProvincia": "149"
+  },
+  {
+    "codDistrito": "1511",
+    "nomDistrito": "TICLACAYAN",
+    "codProvincia": "149"
+  },
+  {
+    "codDistrito": "1512",
+    "nomDistrito": "TINYAHUARCO",
+    "codProvincia": "149"
+  },
+  {
+    "codDistrito": "1513",
+    "nomDistrito": "VICCO",
+    "codProvincia": "149"
+  },
+  {
+    "codDistrito": "1514",
+    "nomDistrito": "YANACANCHA",
+    "codProvincia": "149"
+  },
+  {
+    "codDistrito": "1515",
+    "nomDistrito": "YANAHUANCA",
+    "codProvincia": "150"
+  },
+  {
+    "codDistrito": "1516",
+    "nomDistrito": "CHACAYAN",
+    "codProvincia": "150"
+  },
+  {
+    "codDistrito": "1517",
+    "nomDistrito": "GOYLLARISQUIZGA",
+    "codProvincia": "150"
+  },
+  {
+    "codDistrito": "1518",
+    "nomDistrito": "PAUCAR",
+    "codProvincia": "150"
+  },
+  {
+    "codDistrito": "1519",
+    "nomDistrito": "SAN PEDRO DE PILLAO",
+    "codProvincia": "150"
+  },
+  {
+    "codDistrito": "152",
+    "nomDistrito": "CHAVIN DE HUANTAR",
+    "codProvincia": "17"
+  },
+  {
+    "codDistrito": "1520",
+    "nomDistrito": "SANTA ANA DE TUSI",
+    "codProvincia": "150"
+  },
+  {
+    "codDistrito": "1521",
+    "nomDistrito": "TAPUC",
+    "codProvincia": "150"
+  },
+  {
+    "codDistrito": "1522",
+    "nomDistrito": "VILCABAMBA",
+    "codProvincia": "150"
+  },
+  {
+    "codDistrito": "1523",
+    "nomDistrito": "OXAPAMPA",
+    "codProvincia": "151"
+  },
+  {
+    "codDistrito": "1524",
+    "nomDistrito": "CHONTABAMBA",
+    "codProvincia": "151"
+  },
+  {
+    "codDistrito": "1525",
+    "nomDistrito": "HUANCABAMBA",
+    "codProvincia": "151"
+  },
+  {
+    "codDistrito": "1526",
+    "nomDistrito": "PALCAZU",
+    "codProvincia": "151"
+  },
+  {
+    "codDistrito": "1527",
+    "nomDistrito": "POZUZO",
+    "codProvincia": "151"
+  },
+  {
+    "codDistrito": "1528",
+    "nomDistrito": "PUERTO BERMUDEZ",
+    "codProvincia": "151"
+  },
+  {
+    "codDistrito": "1529",
+    "nomDistrito": "VILLA RICA",
+    "codProvincia": "151"
+  },
+  {
+    "codDistrito": "153",
+    "nomDistrito": "HUACACHI",
+    "codProvincia": "17"
+  },
+  {
+    "codDistrito": "1530",
+    "nomDistrito": "PIURA",
+    "codProvincia": "152"
+  },
+  {
+    "codDistrito": "1531",
+    "nomDistrito": "CASTILLA",
+    "codProvincia": "152"
+  },
+  {
+    "codDistrito": "1532",
+    "nomDistrito": "CATACAOS",
+    "codProvincia": "152"
+  },
+  {
+    "codDistrito": "1533",
+    "nomDistrito": "CURA MORI",
+    "codProvincia": "152"
+  },
+  {
+    "codDistrito": "1534",
+    "nomDistrito": "EL TALLAN",
+    "codProvincia": "152"
+  },
+  {
+    "codDistrito": "1535",
+    "nomDistrito": "LA ARENA",
+    "codProvincia": "152"
+  },
+  {
+    "codDistrito": "1536",
+    "nomDistrito": "LA UNION",
+    "codProvincia": "152"
+  },
+  {
+    "codDistrito": "1537",
+    "nomDistrito": "LAS LOMAS",
+    "codProvincia": "152"
+  },
+  {
+    "codDistrito": "1538",
+    "nomDistrito": "TAMBO GRANDE",
+    "codProvincia": "152"
+  },
+  {
+    "codDistrito": "1539",
+    "nomDistrito": "AYABACA",
+    "codProvincia": "153"
+  },
+  {
+    "codDistrito": "154",
+    "nomDistrito": "HUACCHIS",
+    "codProvincia": "17"
+  },
+  {
+    "codDistrito": "1540",
+    "nomDistrito": "FRIAS",
+    "codProvincia": "153"
+  },
+  {
+    "codDistrito": "1541",
+    "nomDistrito": "JILILI",
+    "codProvincia": "153"
+  },
+  {
+    "codDistrito": "1542",
+    "nomDistrito": "LAGUNAS",
+    "codProvincia": "153"
+  },
+  {
+    "codDistrito": "1543",
+    "nomDistrito": "MONTERO",
+    "codProvincia": "153"
+  },
+  {
+    "codDistrito": "1544",
+    "nomDistrito": "PACAIPAMPA",
+    "codProvincia": "153"
+  },
+  {
+    "codDistrito": "1545",
+    "nomDistrito": "PAIMAS",
+    "codProvincia": "153"
+  },
+  {
+    "codDistrito": "1546",
+    "nomDistrito": "SAPILLICA",
+    "codProvincia": "153"
+  },
+  {
+    "codDistrito": "1547",
+    "nomDistrito": "SICCHEZ",
+    "codProvincia": "153"
+  },
+  {
+    "codDistrito": "1548",
+    "nomDistrito": "SUYO",
+    "codProvincia": "153"
+  },
+  {
+    "codDistrito": "1549",
+    "nomDistrito": "HUANCABAMBA",
+    "codProvincia": "154"
+  },
+  {
+    "codDistrito": "155",
+    "nomDistrito": "HUACHIS",
+    "codProvincia": "17"
+  },
+  {
+    "codDistrito": "1550",
+    "nomDistrito": "CANCHAQUE",
+    "codProvincia": "154"
+  },
+  {
+    "codDistrito": "1551",
+    "nomDistrito": "EL CARMEN DE LA FRONTERA",
+    "codProvincia": "154"
+  },
+  {
+    "codDistrito": "1552",
+    "nomDistrito": "HUARMACA",
+    "codProvincia": "154"
+  },
+  {
+    "codDistrito": "1553",
+    "nomDistrito": "LALAQUIZ",
+    "codProvincia": "154"
+  },
+  {
+    "codDistrito": "1554",
+    "nomDistrito": "SAN MIGUEL DE EL FAIQUE",
+    "codProvincia": "154"
+  },
+  {
+    "codDistrito": "1555",
+    "nomDistrito": "SONDOR",
+    "codProvincia": "154"
+  },
+  {
+    "codDistrito": "1556",
+    "nomDistrito": "SONDORILLO",
+    "codProvincia": "154"
+  },
+  {
+    "codDistrito": "1557",
+    "nomDistrito": "CHULUCANAS",
+    "codProvincia": "155"
+  },
+  {
+    "codDistrito": "1558",
+    "nomDistrito": "BUENOS AIRES",
+    "codProvincia": "155"
+  },
+  {
+    "codDistrito": "1559",
+    "nomDistrito": "CHALACO",
+    "codProvincia": "155"
+  },
+  {
+    "codDistrito": "156",
+    "nomDistrito": "HUANTAR",
+    "codProvincia": "17"
+  },
+  {
+    "codDistrito": "1560",
+    "nomDistrito": "LA MATANZA",
+    "codProvincia": "155"
+  },
+  {
+    "codDistrito": "1561",
+    "nomDistrito": "MORROPON",
+    "codProvincia": "155"
+  },
+  {
+    "codDistrito": "1562",
+    "nomDistrito": "SALITRAL",
+    "codProvincia": "155"
+  },
+  {
+    "codDistrito": "1563",
+    "nomDistrito": "SAN JUAN DE BIGOTE",
+    "codProvincia": "155"
+  },
+  {
+    "codDistrito": "1564",
+    "nomDistrito": "SANTA CATALINA DE MOSSA",
+    "codProvincia": "155"
+  },
+  {
+    "codDistrito": "1565",
+    "nomDistrito": "SANTO DOMINGO",
+    "codProvincia": "155"
+  },
+  {
+    "codDistrito": "1566",
+    "nomDistrito": "YAMANGO",
+    "codProvincia": "155"
+  },
+  {
+    "codDistrito": "1567",
+    "nomDistrito": "PAITA",
+    "codProvincia": "156"
+  },
+  {
+    "codDistrito": "1568",
+    "nomDistrito": "AMOTAPE",
+    "codProvincia": "156"
+  },
+  {
+    "codDistrito": "1569",
+    "nomDistrito": "ARENAL",
+    "codProvincia": "156"
+  },
+  {
+    "codDistrito": "157",
+    "nomDistrito": "MASIN",
+    "codProvincia": "17"
+  },
+  {
+    "codDistrito": "1570",
+    "nomDistrito": "COLAN",
+    "codProvincia": "156"
+  },
+  {
+    "codDistrito": "1571",
+    "nomDistrito": "LA HUACA",
+    "codProvincia": "156"
+  },
+  {
+    "codDistrito": "1572",
+    "nomDistrito": "TAMARINDO",
+    "codProvincia": "156"
+  },
+  {
+    "codDistrito": "1573",
+    "nomDistrito": "VICHAYAL",
+    "codProvincia": "156"
+  },
+  {
+    "codDistrito": "1574",
+    "nomDistrito": "SULLANA",
+    "codProvincia": "157"
+  },
+  {
+    "codDistrito": "1575",
+    "nomDistrito": "BELLAVISTA",
+    "codProvincia": "157"
+  },
+  {
+    "codDistrito": "1576",
+    "nomDistrito": "IGNACIO ESCUDERO",
+    "codProvincia": "157"
+  },
+  {
+    "codDistrito": "1577",
+    "nomDistrito": "LANCONES",
+    "codProvincia": "157"
+  },
+  {
+    "codDistrito": "1578",
+    "nomDistrito": "MARCAVELICA",
+    "codProvincia": "157"
+  },
+  {
+    "codDistrito": "1579",
+    "nomDistrito": "MIGUEL CHECA",
+    "codProvincia": "157"
+  },
+  {
+    "codDistrito": "158",
+    "nomDistrito": "PAUCAS",
+    "codProvincia": "17"
+  },
+  {
+    "codDistrito": "1580",
+    "nomDistrito": "QUERECOTILLO",
+    "codProvincia": "157"
+  },
+  {
+    "codDistrito": "1581",
+    "nomDistrito": "SALITRAL",
+    "codProvincia": "157"
+  },
+  {
+    "codDistrito": "1582",
+    "nomDistrito": "PARIÑAS",
+    "codProvincia": "158"
+  },
+  {
+    "codDistrito": "1583",
+    "nomDistrito": "EL ALTO",
+    "codProvincia": "158"
+  },
+  {
+    "codDistrito": "1584",
+    "nomDistrito": "LA BREA",
+    "codProvincia": "158"
+  },
+  {
+    "codDistrito": "1585",
+    "nomDistrito": "LOBITOS",
+    "codProvincia": "158"
+  },
+  {
+    "codDistrito": "1586",
+    "nomDistrito": "LOS ORGANOS",
+    "codProvincia": "158"
+  },
+  {
+    "codDistrito": "1587",
+    "nomDistrito": "MANCORA",
+    "codProvincia": "158"
+  },
+  {
+    "codDistrito": "1588",
+    "nomDistrito": "SECHURA",
+    "codProvincia": "159"
+  },
+  {
+    "codDistrito": "1589",
+    "nomDistrito": "BELLAVISTA DE LA UNION",
+    "codProvincia": "159"
+  },
+  {
+    "codDistrito": "159",
+    "nomDistrito": "PONTO",
+    "codProvincia": "17"
+  },
+  {
+    "codDistrito": "1590",
+    "nomDistrito": "BERNAL",
+    "codProvincia": "159"
+  },
+  {
+    "codDistrito": "1591",
+    "nomDistrito": "CRISTO NOS VALGA",
+    "codProvincia": "159"
+  },
+  {
+    "codDistrito": "1592",
+    "nomDistrito": "VICE",
+    "codProvincia": "159"
+  },
+  {
+    "codDistrito": "1593",
+    "nomDistrito": "RINCONADA LLICUAR",
+    "codProvincia": "159"
+  },
+  {
+    "codDistrito": "1594",
+    "nomDistrito": "PUNO",
+    "codProvincia": "160"
+  },
+  {
+    "codDistrito": "1595",
+    "nomDistrito": "ACORA",
+    "codProvincia": "160"
+  },
+  {
+    "codDistrito": "1596",
+    "nomDistrito": "AMANTANI",
+    "codProvincia": "160"
+  },
+  {
+    "codDistrito": "1597",
+    "nomDistrito": "ATUNCOLLA",
+    "codProvincia": "160"
+  },
+  {
+    "codDistrito": "1598",
+    "nomDistrito": "CAPACHICA",
+    "codProvincia": "160"
+  },
+  {
+    "codDistrito": "1599",
+    "nomDistrito": "CHUCUITO",
+    "codProvincia": "160"
+  },
+  {
+    "codDistrito": "16",
+    "nomDistrito": "OLLEROS",
+    "codProvincia": "1"
+  },
+  {
+    "codDistrito": "160",
+    "nomDistrito": "RAHUAPAMPA",
+    "codProvincia": "17"
+  },
+  {
+    "codDistrito": "1600",
+    "nomDistrito": "COATA",
+    "codProvincia": "160"
+  },
+  {
+    "codDistrito": "1601",
+    "nomDistrito": "HUATA",
+    "codProvincia": "160"
+  },
+  {
+    "codDistrito": "1602",
+    "nomDistrito": "MAÃ?AZO",
+    "codProvincia": "160"
+  },
+  {
+    "codDistrito": "1603",
+    "nomDistrito": "PAUCARCOLLA",
+    "codProvincia": "160"
+  },
+  {
+    "codDistrito": "1604",
+    "nomDistrito": "PICHACANI",
+    "codProvincia": "160"
+  },
+  {
+    "codDistrito": "1605",
+    "nomDistrito": "PLATERIA",
+    "codProvincia": "160"
+  },
+  {
+    "codDistrito": "1606",
+    "nomDistrito": "SAN ANTONIO",
+    "codProvincia": "160"
+  },
+  {
+    "codDistrito": "1607",
+    "nomDistrito": "TIQUILLACA",
+    "codProvincia": "160"
+  },
+  {
+    "codDistrito": "1608",
+    "nomDistrito": "VILQUE",
+    "codProvincia": "160"
+  },
+  {
+    "codDistrito": "1609",
+    "nomDistrito": "AZANGARO",
+    "codProvincia": "161"
+  },
+  {
+    "codDistrito": "161",
+    "nomDistrito": "RAPAYAN",
+    "codProvincia": "17"
+  },
+  {
+    "codDistrito": "1610",
+    "nomDistrito": "ACHAYA",
+    "codProvincia": "161"
+  },
+  {
+    "codDistrito": "1611",
+    "nomDistrito": "ARAPA",
+    "codProvincia": "161"
+  },
+  {
+    "codDistrito": "1612",
+    "nomDistrito": "ASILLO",
+    "codProvincia": "161"
+  },
+  {
+    "codDistrito": "1613",
+    "nomDistrito": "CAMINACA",
+    "codProvincia": "161"
+  },
+  {
+    "codDistrito": "1614",
+    "nomDistrito": "CHUPA",
+    "codProvincia": "161"
+  },
+  {
+    "codDistrito": "1615",
+    "nomDistrito": "JOSE DOMINGO CHOQUEHUANCA",
+    "codProvincia": "161"
+  },
+  {
+    "codDistrito": "1616",
+    "nomDistrito": "MUÃ?ANI",
+    "codProvincia": "161"
+  },
+  {
+    "codDistrito": "1617",
+    "nomDistrito": "POTONI",
+    "codProvincia": "161"
+  },
+  {
+    "codDistrito": "1618",
+    "nomDistrito": "SAMAN",
+    "codProvincia": "161"
+  },
+  {
+    "codDistrito": "1619",
+    "nomDistrito": "SAN ANTON",
+    "codProvincia": "161"
+  },
+  {
+    "codDistrito": "162",
+    "nomDistrito": "SAN MARCOS",
+    "codProvincia": "17"
+  },
+  {
+    "codDistrito": "1620",
+    "nomDistrito": "SAN JOSE",
+    "codProvincia": "161"
+  },
+  {
+    "codDistrito": "1621",
+    "nomDistrito": "SAN JUAN DE SALINAS",
+    "codProvincia": "161"
+  },
+  {
+    "codDistrito": "1622",
+    "nomDistrito": "SANTIAGO DE PUPUJA",
+    "codProvincia": "161"
+  },
+  {
+    "codDistrito": "1623",
+    "nomDistrito": "TIRAPATA",
+    "codProvincia": "161"
+  },
+  {
+    "codDistrito": "1624",
+    "nomDistrito": "MACUSANI",
+    "codProvincia": "162"
+  },
+  {
+    "codDistrito": "1625",
+    "nomDistrito": "AJOYANI",
+    "codProvincia": "162"
+  },
+  {
+    "codDistrito": "1626",
+    "nomDistrito": "AYAPATA",
+    "codProvincia": "162"
+  },
+  {
+    "codDistrito": "1627",
+    "nomDistrito": "COASA",
+    "codProvincia": "162"
+  },
+  {
+    "codDistrito": "1628",
+    "nomDistrito": "CORANI",
+    "codProvincia": "162"
+  },
+  {
+    "codDistrito": "1629",
+    "nomDistrito": "CRUCERO",
+    "codProvincia": "162"
+  },
+  {
+    "codDistrito": "163",
+    "nomDistrito": "SAN PEDRO DE CHANA",
+    "codProvincia": "17"
+  },
+  {
+    "codDistrito": "1630",
+    "nomDistrito": "ITUATA",
+    "codProvincia": "162"
+  },
+  {
+    "codDistrito": "1631",
+    "nomDistrito": "OLLACHEA",
+    "codProvincia": "162"
+  },
+  {
+    "codDistrito": "1632",
+    "nomDistrito": "SAN GABAN",
+    "codProvincia": "162"
+  },
+  {
+    "codDistrito": "1633",
+    "nomDistrito": "USICAYOS",
+    "codProvincia": "162"
+  },
+  {
+    "codDistrito": "1634",
+    "nomDistrito": "JULI",
+    "codProvincia": "163"
+  },
+  {
+    "codDistrito": "1635",
+    "nomDistrito": "DESAGUADERO",
+    "codProvincia": "163"
+  },
+  {
+    "codDistrito": "1636",
+    "nomDistrito": "HUACULLANI",
+    "codProvincia": "163"
+  },
+  {
+    "codDistrito": "1637",
+    "nomDistrito": "KELLUYO",
+    "codProvincia": "163"
+  },
+  {
+    "codDistrito": "1638",
+    "nomDistrito": "PISACOMA",
+    "codProvincia": "163"
+  },
+  {
+    "codDistrito": "1639",
+    "nomDistrito": "POMATA",
+    "codProvincia": "163"
+  },
+  {
+    "codDistrito": "164",
+    "nomDistrito": "UCO",
+    "codProvincia": "17"
+  },
+  {
+    "codDistrito": "1640",
+    "nomDistrito": "ZEPITA",
+    "codProvincia": "163"
+  },
+  {
+    "codDistrito": "1641",
+    "nomDistrito": "ILAVE",
+    "codProvincia": "164"
+  },
+  {
+    "codDistrito": "1642",
+    "nomDistrito": "CAPAZO",
+    "codProvincia": "164"
+  },
+  {
+    "codDistrito": "1643",
+    "nomDistrito": "PILCUYO",
+    "codProvincia": "164"
+  },
+  {
+    "codDistrito": "1644",
+    "nomDistrito": "SANTA ROSA",
+    "codProvincia": "164"
+  },
+  {
+    "codDistrito": "1645",
+    "nomDistrito": "CONDURIRI",
+    "codProvincia": "164"
+  },
+  {
+    "codDistrito": "1646",
+    "nomDistrito": "HUANCANE",
+    "codProvincia": "165"
+  },
+  {
+    "codDistrito": "1647",
+    "nomDistrito": "COJATA",
+    "codProvincia": "165"
+  },
+  {
+    "codDistrito": "1648",
+    "nomDistrito": "HUATASANI",
+    "codProvincia": "165"
+  },
+  {
+    "codDistrito": "1649",
+    "nomDistrito": "INCHUPALLA",
+    "codProvincia": "165"
+  },
+  {
+    "codDistrito": "165",
+    "nomDistrito": "HUARMEY",
+    "codProvincia": "18"
+  },
+  {
+    "codDistrito": "1650",
+    "nomDistrito": "PUSI",
+    "codProvincia": "165"
+  },
+  {
+    "codDistrito": "1651",
+    "nomDistrito": "ROSASPATA",
+    "codProvincia": "165"
+  },
+  {
+    "codDistrito": "1652",
+    "nomDistrito": "TARACO",
+    "codProvincia": "165"
+  },
+  {
+    "codDistrito": "1653",
+    "nomDistrito": "VILQUE CHICO",
+    "codProvincia": "165"
+  },
+  {
+    "codDistrito": "1654",
+    "nomDistrito": "LAMPA",
+    "codProvincia": "166"
+  },
+  {
+    "codDistrito": "1655",
+    "nomDistrito": "CABANILLA",
+    "codProvincia": "166"
+  },
+  {
+    "codDistrito": "1656",
+    "nomDistrito": "CALAPUJA",
+    "codProvincia": "166"
+  },
+  {
+    "codDistrito": "1657",
+    "nomDistrito": "NICASIO",
+    "codProvincia": "166"
+  },
+  {
+    "codDistrito": "1658",
+    "nomDistrito": "OCUVIRI",
+    "codProvincia": "166"
+  },
+  {
+    "codDistrito": "1659",
+    "nomDistrito": "PALCA",
+    "codProvincia": "166"
+  },
+  {
+    "codDistrito": "166",
+    "nomDistrito": "COCHAPETI",
+    "codProvincia": "18"
+  },
+  {
+    "codDistrito": "1660",
+    "nomDistrito": "PARATIA",
+    "codProvincia": "166"
+  },
+  {
+    "codDistrito": "1661",
+    "nomDistrito": "PUCARA",
+    "codProvincia": "166"
+  },
+  {
+    "codDistrito": "1662",
+    "nomDistrito": "SANTA LUCIA",
+    "codProvincia": "166"
+  },
+  {
+    "codDistrito": "1663",
+    "nomDistrito": "VILAVILA",
+    "codProvincia": "166"
+  },
+  {
+    "codDistrito": "1664",
+    "nomDistrito": "AYAVIRI",
+    "codProvincia": "167"
+  },
+  {
+    "codDistrito": "1665",
+    "nomDistrito": "ANTAUTA",
+    "codProvincia": "167"
+  },
+  {
+    "codDistrito": "1666",
+    "nomDistrito": "CUPI",
+    "codProvincia": "167"
+  },
+  {
+    "codDistrito": "1667",
+    "nomDistrito": "LLALLI",
+    "codProvincia": "167"
+  },
+  {
+    "codDistrito": "1668",
+    "nomDistrito": "MACARI",
+    "codProvincia": "167"
+  },
+  {
+    "codDistrito": "1669",
+    "nomDistrito": "NUÃ?OA",
+    "codProvincia": "167"
+  },
+  {
+    "codDistrito": "167",
+    "nomDistrito": "CULEBRAS",
+    "codProvincia": "18"
+  },
+  {
+    "codDistrito": "1670",
+    "nomDistrito": "ORURILLO",
+    "codProvincia": "167"
+  },
+  {
+    "codDistrito": "1671",
+    "nomDistrito": "SANTA ROSA",
+    "codProvincia": "167"
+  },
+  {
+    "codDistrito": "1672",
+    "nomDistrito": "UMACHIRI",
+    "codProvincia": "167"
+  },
+  {
+    "codDistrito": "1673",
+    "nomDistrito": "MOHO",
+    "codProvincia": "168"
+  },
+  {
+    "codDistrito": "1674",
+    "nomDistrito": "CONIMA",
+    "codProvincia": "168"
+  },
+  {
+    "codDistrito": "1675",
+    "nomDistrito": "HUAYRAPATA",
+    "codProvincia": "168"
+  },
+  {
+    "codDistrito": "1676",
+    "nomDistrito": "TILALI",
+    "codProvincia": "168"
+  },
+  {
+    "codDistrito": "1677",
+    "nomDistrito": "PUTINA",
+    "codProvincia": "169"
+  },
+  {
+    "codDistrito": "1678",
+    "nomDistrito": "ANANEA",
+    "codProvincia": "169"
+  },
+  {
+    "codDistrito": "1679",
+    "nomDistrito": "PEDRO VILCA APAZA",
+    "codProvincia": "169"
+  },
+  {
+    "codDistrito": "168",
+    "nomDistrito": "HUAYAN",
+    "codProvincia": "18"
+  },
+  {
+    "codDistrito": "1680",
+    "nomDistrito": "QUILCAPUNCU",
+    "codProvincia": "169"
+  },
+  {
+    "codDistrito": "1681",
+    "nomDistrito": "SINA",
+    "codProvincia": "169"
+  },
+  {
+    "codDistrito": "1682",
+    "nomDistrito": "JULIACA",
+    "codProvincia": "170"
+  },
+  {
+    "codDistrito": "1683",
+    "nomDistrito": "CABANA",
+    "codProvincia": "170"
+  },
+  {
+    "codDistrito": "1684",
+    "nomDistrito": "CABANILLAS",
+    "codProvincia": "170"
+  },
+  {
+    "codDistrito": "1685",
+    "nomDistrito": "CARACOTO",
+    "codProvincia": "170"
+  },
+  {
+    "codDistrito": "1686",
+    "nomDistrito": "SANDIA",
+    "codProvincia": "171"
+  },
+  {
+    "codDistrito": "1687",
+    "nomDistrito": "CUYOCUYO",
+    "codProvincia": "171"
+  },
+  {
+    "codDistrito": "1688",
+    "nomDistrito": "LIMBANI",
+    "codProvincia": "171"
+  },
+  {
+    "codDistrito": "1689",
+    "nomDistrito": "PATAMBUCO",
+    "codProvincia": "171"
+  },
+  {
+    "codDistrito": "169",
+    "nomDistrito": "MALVAS",
+    "codProvincia": "18"
+  },
+  {
+    "codDistrito": "1690",
+    "nomDistrito": "PHARA",
+    "codProvincia": "171"
+  },
+  {
+    "codDistrito": "1691",
+    "nomDistrito": "QUIACA",
+    "codProvincia": "171"
+  },
+  {
+    "codDistrito": "1692",
+    "nomDistrito": "SAN JUAN DEL ORO",
+    "codProvincia": "171"
+  },
+  {
+    "codDistrito": "1693",
+    "nomDistrito": "YANAHUAYA",
+    "codProvincia": "171"
+  },
+  {
+    "codDistrito": "1694",
+    "nomDistrito": "ALTO INAMBARI",
+    "codProvincia": "171"
+  },
+  {
+    "codDistrito": "1695",
+    "nomDistrito": "YUNGUYO",
+    "codProvincia": "172"
+  },
+  {
+    "codDistrito": "1696",
+    "nomDistrito": "ANAPIA",
+    "codProvincia": "172"
+  },
+  {
+    "codDistrito": "1697",
+    "nomDistrito": "COPANI",
+    "codProvincia": "172"
+  },
+  {
+    "codDistrito": "1698",
+    "nomDistrito": "CUTURAPI",
+    "codProvincia": "172"
+  },
+  {
+    "codDistrito": "1699",
+    "nomDistrito": "OLLARAYA",
+    "codProvincia": "172"
+  },
+  {
+    "codDistrito": "17",
+    "nomDistrito": "QUINJALCA",
+    "codProvincia": "1"
+  },
+  {
+    "codDistrito": "170",
+    "nomDistrito": "CARAZ",
+    "codProvincia": "26"
+  },
+  {
+    "codDistrito": "1700",
+    "nomDistrito": "TINICACHI",
+    "codProvincia": "172"
+  },
+  {
+    "codDistrito": "1701",
+    "nomDistrito": "UNICACHI",
+    "codProvincia": "172"
+  },
+  {
+    "codDistrito": "1702",
+    "nomDistrito": "MOYOBAMBA",
+    "codProvincia": "173"
+  },
+  {
+    "codDistrito": "1703",
+    "nomDistrito": "CALZADA",
+    "codProvincia": "173"
+  },
+  {
+    "codDistrito": "1704",
+    "nomDistrito": "HABANA",
+    "codProvincia": "173"
+  },
+  {
+    "codDistrito": "1705",
+    "nomDistrito": "JEPELACIO",
+    "codProvincia": "173"
+  },
+  {
+    "codDistrito": "1706",
+    "nomDistrito": "SORITOR",
+    "codProvincia": "173"
+  },
+  {
+    "codDistrito": "1707",
+    "nomDistrito": "YANTALO",
+    "codProvincia": "173"
+  },
+  {
+    "codDistrito": "1708",
+    "nomDistrito": "BELLAVISTA",
+    "codProvincia": "174"
+  },
+  {
+    "codDistrito": "1709",
+    "nomDistrito": "ALTO BIAVO",
+    "codProvincia": "174"
+  },
+  {
+    "codDistrito": "171",
+    "nomDistrito": "HUALLANCA",
+    "codProvincia": "26"
+  },
+  {
+    "codDistrito": "1710",
+    "nomDistrito": "BAJO BIAVO",
+    "codProvincia": "174"
+  },
+  {
+    "codDistrito": "1711",
+    "nomDistrito": "HUALLAGA",
+    "codProvincia": "174"
+  },
+  {
+    "codDistrito": "1712",
+    "nomDistrito": "SAN PABLO",
+    "codProvincia": "174"
+  },
+  {
+    "codDistrito": "1713",
+    "nomDistrito": "SAN RAFAEL",
+    "codProvincia": "174"
+  },
+  {
+    "codDistrito": "1714",
+    "nomDistrito": "SAN JOSE DE SISA",
+    "codProvincia": "175"
+  },
+  {
+    "codDistrito": "1715",
+    "nomDistrito": "AGUA BLANCA",
+    "codProvincia": "175"
+  },
+  {
+    "codDistrito": "1716",
+    "nomDistrito": "SAN MARTIN",
+    "codProvincia": "175"
+  },
+  {
+    "codDistrito": "1717",
+    "nomDistrito": "SANTA ROSA",
+    "codProvincia": "175"
+  },
+  {
+    "codDistrito": "1718",
+    "nomDistrito": "SHATOJA",
+    "codProvincia": "175"
+  },
+  {
+    "codDistrito": "1719",
+    "nomDistrito": "SAPOSOA",
+    "codProvincia": "176"
+  },
+  {
+    "codDistrito": "172",
+    "nomDistrito": "HUATA",
+    "codProvincia": "26"
+  },
+  {
+    "codDistrito": "1720",
+    "nomDistrito": "ALTO SAPOSOA",
+    "codProvincia": "176"
+  },
+  {
+    "codDistrito": "1721",
+    "nomDistrito": "EL ESLABON",
+    "codProvincia": "176"
+  },
+  {
+    "codDistrito": "1722",
+    "nomDistrito": "PISCOYACU",
+    "codProvincia": "176"
+  },
+  {
+    "codDistrito": "1723",
+    "nomDistrito": "SACANCHE",
+    "codProvincia": "176"
+  },
+  {
+    "codDistrito": "1724",
+    "nomDistrito": "TINGO DE SAPOSOA",
+    "codProvincia": "176"
+  },
+  {
+    "codDistrito": "1725",
+    "nomDistrito": "LAMAS",
+    "codProvincia": "177"
+  },
+  {
+    "codDistrito": "1726",
+    "nomDistrito": "ALONSO DE ALVARADO",
+    "codProvincia": "177"
+  },
+  {
+    "codDistrito": "1727",
+    "nomDistrito": "BARRANQUITA",
+    "codProvincia": "177"
+  },
+  {
+    "codDistrito": "1728",
+    "nomDistrito": "CAYNARACHI",
+    "codProvincia": "177"
+  },
+  {
+    "codDistrito": "1729",
+    "nomDistrito": "CUÃ?UMBUQUI",
+    "codProvincia": "177"
+  },
+  {
+    "codDistrito": "173",
+    "nomDistrito": "HUAYLAS",
+    "codProvincia": "26"
+  },
+  {
+    "codDistrito": "1730",
+    "nomDistrito": "PINTO RECODO",
+    "codProvincia": "177"
+  },
+  {
+    "codDistrito": "1731",
+    "nomDistrito": "RUMISAPA",
+    "codProvincia": "177"
+  },
+  {
+    "codDistrito": "1732",
+    "nomDistrito": "SAN ROQUE DE CUMBAZA",
+    "codProvincia": "177"
+  },
+  {
+    "codDistrito": "1733",
+    "nomDistrito": "SHANAO",
+    "codProvincia": "177"
+  },
+  {
+    "codDistrito": "1734",
+    "nomDistrito": "TABALOSOS",
+    "codProvincia": "177"
+  },
+  {
+    "codDistrito": "1735",
+    "nomDistrito": "ZAPATERO",
+    "codProvincia": "177"
+  },
+  {
+    "codDistrito": "1736",
+    "nomDistrito": "JUANJUI",
+    "codProvincia": "178"
+  },
+  {
+    "codDistrito": "1737",
+    "nomDistrito": "CAMPANILLA",
+    "codProvincia": "178"
+  },
+  {
+    "codDistrito": "1738",
+    "nomDistrito": "HUICUNGO",
+    "codProvincia": "178"
+  },
+  {
+    "codDistrito": "1739",
+    "nomDistrito": "PACHIZA",
+    "codProvincia": "178"
+  },
+  {
+    "codDistrito": "174",
+    "nomDistrito": "MATO",
+    "codProvincia": "26"
+  },
+  {
+    "codDistrito": "1740",
+    "nomDistrito": "PAJARILLO",
+    "codProvincia": "178"
+  },
+  {
+    "codDistrito": "1741",
+    "nomDistrito": "PICOTA",
+    "codProvincia": "179"
+  },
+  {
+    "codDistrito": "1742",
+    "nomDistrito": "BUENOS AIRES",
+    "codProvincia": "179"
+  },
+  {
+    "codDistrito": "1743",
+    "nomDistrito": "CASPISAPA",
+    "codProvincia": "179"
+  },
+  {
+    "codDistrito": "1744",
+    "nomDistrito": "PILLUANA",
+    "codProvincia": "179"
+  },
+  {
+    "codDistrito": "1745",
+    "nomDistrito": "PUCACACA",
+    "codProvincia": "179"
+  },
+  {
+    "codDistrito": "1746",
+    "nomDistrito": "SAN CRISTOBAL",
+    "codProvincia": "179"
+  },
+  {
+    "codDistrito": "1747",
+    "nomDistrito": "SAN HILARION",
+    "codProvincia": "179"
+  },
+  {
+    "codDistrito": "1748",
+    "nomDistrito": "SHAMBOYACU",
+    "codProvincia": "179"
+  },
+  {
+    "codDistrito": "1749",
+    "nomDistrito": "TINGO DE PONASA",
+    "codProvincia": "179"
+  },
+  {
+    "codDistrito": "175",
+    "nomDistrito": "PAMPAROMAS",
+    "codProvincia": "26"
+  },
+  {
+    "codDistrito": "1750",
+    "nomDistrito": "TRES UNIDOS",
+    "codProvincia": "179"
+  },
+  {
+    "codDistrito": "1751",
+    "nomDistrito": "RIOJA",
+    "codProvincia": "180"
+  },
+  {
+    "codDistrito": "1752",
+    "nomDistrito": "AWAJUN",
+    "codProvincia": "180"
+  },
+  {
+    "codDistrito": "1753",
+    "nomDistrito": "ELIAS SOPLIN VARGAS",
+    "codProvincia": "180"
+  },
+  {
+    "codDistrito": "1754",
+    "nomDistrito": "NUEVA CAJAMARCA",
+    "codProvincia": "180"
+  },
+  {
+    "codDistrito": "1755",
+    "nomDistrito": "PARDO MIGUEL",
+    "codProvincia": "180"
+  },
+  {
+    "codDistrito": "1756",
+    "nomDistrito": "POSIC",
+    "codProvincia": "180"
+  },
+  {
+    "codDistrito": "1757",
+    "nomDistrito": "SAN FERNANDO",
+    "codProvincia": "180"
+  },
+  {
+    "codDistrito": "1758",
+    "nomDistrito": "YORONGOS",
+    "codProvincia": "180"
+  },
+  {
+    "codDistrito": "1759",
+    "nomDistrito": "YURACYACU",
+    "codProvincia": "180"
+  },
+  {
+    "codDistrito": "176",
+    "nomDistrito": "PUEBLO LIBRE",
+    "codProvincia": "26"
+  },
+  {
+    "codDistrito": "1760",
+    "nomDistrito": "TARAPOTO",
+    "codProvincia": "181"
+  },
+  {
+    "codDistrito": "1761",
+    "nomDistrito": "ALBERTO LEVEAU",
+    "codProvincia": "181"
+  },
+  {
+    "codDistrito": "1762",
+    "nomDistrito": "CACATACHI",
+    "codProvincia": "181"
+  },
+  {
+    "codDistrito": "1763",
+    "nomDistrito": "CHAZUTA",
+    "codProvincia": "181"
+  },
+  {
+    "codDistrito": "1764",
+    "nomDistrito": "CHIPURANA",
+    "codProvincia": "181"
+  },
+  {
+    "codDistrito": "1765",
+    "nomDistrito": "EL PORVENIR",
+    "codProvincia": "181"
+  },
+  {
+    "codDistrito": "1766",
+    "nomDistrito": "HUIMBAYOC",
+    "codProvincia": "181"
+  },
+  {
+    "codDistrito": "1767",
+    "nomDistrito": "JUAN GUERRA",
+    "codProvincia": "181"
+  },
+  {
+    "codDistrito": "1768",
+    "nomDistrito": "LA BANDA DE SHILCAYO",
+    "codProvincia": "181"
+  },
+  {
+    "codDistrito": "1769",
+    "nomDistrito": "MORALES",
+    "codProvincia": "181"
+  },
+  {
+    "codDistrito": "177",
+    "nomDistrito": "SANTA CRUZ",
+    "codProvincia": "26"
+  },
+  {
+    "codDistrito": "1770",
+    "nomDistrito": "PAPAPLAYA",
+    "codProvincia": "181"
+  },
+  {
+    "codDistrito": "1771",
+    "nomDistrito": "SAN ANTONIO",
+    "codProvincia": "181"
+  },
+  {
+    "codDistrito": "1772",
+    "nomDistrito": "SAUCE",
+    "codProvincia": "181"
+  },
+  {
+    "codDistrito": "1773",
+    "nomDistrito": "SHAPAJA",
+    "codProvincia": "181"
+  },
+  {
+    "codDistrito": "1774",
+    "nomDistrito": "TOCACHE",
+    "codProvincia": "182"
+  },
+  {
+    "codDistrito": "1775",
+    "nomDistrito": "NUEVO PROGRESO",
+    "codProvincia": "182"
+  },
+  {
+    "codDistrito": "1776",
+    "nomDistrito": "POLVORA",
+    "codProvincia": "182"
+  },
+  {
+    "codDistrito": "1777",
+    "nomDistrito": "SHUNTE",
+    "codProvincia": "182"
+  },
+  {
+    "codDistrito": "1778",
+    "nomDistrito": "UCHIZA",
+    "codProvincia": "182"
+  },
+  {
+    "codDistrito": "1779",
+    "nomDistrito": "TACNA",
+    "codProvincia": "183"
+  },
+  {
+    "codDistrito": "178",
+    "nomDistrito": "SANTO TORIBIO",
+    "codProvincia": "26"
+  },
+  {
+    "codDistrito": "1780",
+    "nomDistrito": "ALTO DE LA ALIANZA",
+    "codProvincia": "183"
+  },
+  {
+    "codDistrito": "1781",
+    "nomDistrito": "CALANA",
+    "codProvincia": "183"
+  },
+  {
+    "codDistrito": "1782",
+    "nomDistrito": "CIUDAD NUEVA",
+    "codProvincia": "183"
+  },
+  {
+    "codDistrito": "1783",
+    "nomDistrito": "INCLAN",
+    "codProvincia": "183"
+  },
+  {
+    "codDistrito": "1784",
+    "nomDistrito": "PACHIA",
+    "codProvincia": "183"
+  },
+  {
+    "codDistrito": "1785",
+    "nomDistrito": "PALCA",
+    "codProvincia": "183"
+  },
+  {
+    "codDistrito": "1786",
+    "nomDistrito": "POCOLLAY",
+    "codProvincia": "183"
+  },
+  {
+    "codDistrito": "1787",
+    "nomDistrito": "SAMA",
+    "codProvincia": "183"
+  },
+  {
+    "codDistrito": "1788",
+    "nomDistrito": "CORONEL GREGORIO ALBARRACIN LANCHIPA",
+    "codProvincia": "183"
+  },
+  {
+    "codDistrito": "1789",
+    "nomDistrito": "CANDARAVE",
+    "codProvincia": "184"
+  },
+  {
+    "codDistrito": "179",
+    "nomDistrito": "YURACMARCA",
+    "codProvincia": "26"
+  },
+  {
+    "codDistrito": "1790",
+    "nomDistrito": "CAIRANI",
+    "codProvincia": "184"
+  },
+  {
+    "codDistrito": "1791",
+    "nomDistrito": "CAMILACA",
+    "codProvincia": "184"
+  },
+  {
+    "codDistrito": "1792",
+    "nomDistrito": "CURIBAYA",
+    "codProvincia": "184"
+  },
+  {
+    "codDistrito": "1793",
+    "nomDistrito": "HUANUARA",
+    "codProvincia": "184"
+  },
+  {
+    "codDistrito": "1794",
+    "nomDistrito": "QUILAHUANI",
+    "codProvincia": "184"
+  },
+  {
+    "codDistrito": "1795",
+    "nomDistrito": "LOCUMBA",
+    "codProvincia": "185"
+  },
+  {
+    "codDistrito": "1796",
+    "nomDistrito": "ILABAYA",
+    "codProvincia": "185"
+  },
+  {
+    "codDistrito": "1797",
+    "nomDistrito": "ITE",
+    "codProvincia": "185"
+  },
+  {
+    "codDistrito": "1798",
+    "nomDistrito": "TARATA",
+    "codProvincia": "186"
+  },
+  {
+    "codDistrito": "1799",
+    "nomDistrito": "CHUCATAMANI",
+    "codProvincia": "186"
+  },
+  {
+    "codDistrito": "18",
+    "nomDistrito": "SAN FRANCISCO DE DAGUAS",
+    "codProvincia": "1"
+  },
+  {
+    "codDistrito": "180",
+    "nomDistrito": "PISCOBAMBA",
+    "codProvincia": "27"
+  },
+  {
+    "codDistrito": "1800",
+    "nomDistrito": "ESTIQUE",
+    "codProvincia": "186"
+  },
+  {
+    "codDistrito": "1801",
+    "nomDistrito": "ESTIQUE-PAMPA",
+    "codProvincia": "186"
+  },
+  {
+    "codDistrito": "1802",
+    "nomDistrito": "SITAJARA",
+    "codProvincia": "186"
+  },
+  {
+    "codDistrito": "1803",
+    "nomDistrito": "SUSAPAYA",
+    "codProvincia": "186"
+  },
+  {
+    "codDistrito": "1804",
+    "nomDistrito": "TARUCACHI",
+    "codProvincia": "186"
+  },
+  {
+    "codDistrito": "1805",
+    "nomDistrito": "TICACO",
+    "codProvincia": "186"
+  },
+  {
+    "codDistrito": "1806",
+    "nomDistrito": "TUMBES",
+    "codProvincia": "187"
+  },
+  {
+    "codDistrito": "1807",
+    "nomDistrito": "CORRALES",
+    "codProvincia": "187"
+  },
+  {
+    "codDistrito": "1808",
+    "nomDistrito": "LA CRUZ",
+    "codProvincia": "187"
+  },
+  {
+    "codDistrito": "1809",
+    "nomDistrito": "PAMPAS DE HOSPITAL",
+    "codProvincia": "187"
+  },
+  {
+    "codDistrito": "181",
+    "nomDistrito": "CASCA",
+    "codProvincia": "27"
+  },
+  {
+    "codDistrito": "1810",
+    "nomDistrito": "SAN JACINTO",
+    "codProvincia": "187"
+  },
+  {
+    "codDistrito": "1811",
+    "nomDistrito": "SAN JUAN DE LA VIRGEN",
+    "codProvincia": "187"
+  },
+  {
+    "codDistrito": "1812",
+    "nomDistrito": "ZORRITOS",
+    "codProvincia": "188"
+  },
+  {
+    "codDistrito": "1813",
+    "nomDistrito": "CASITAS",
+    "codProvincia": "188"
+  },
+  {
+    "codDistrito": "1814",
+    "nomDistrito": "ZARUMILLA",
+    "codProvincia": "189"
+  },
+  {
+    "codDistrito": "1815",
+    "nomDistrito": "AGUAS VERDES",
+    "codProvincia": "189"
+  },
+  {
+    "codDistrito": "1816",
+    "nomDistrito": "MATAPALO",
+    "codProvincia": "189"
+  },
+  {
+    "codDistrito": "1817",
+    "nomDistrito": "PAPAYAL",
+    "codProvincia": "189"
+  },
+  {
+    "codDistrito": "1818",
+    "nomDistrito": "CALLERIA",
+    "codProvincia": "190"
+  },
+  {
+    "codDistrito": "1819",
+    "nomDistrito": "CAMPOVERDE",
+    "codProvincia": "190"
+  },
+  {
+    "codDistrito": "182",
+    "nomDistrito": "ELEAZAR GUZMAN BARRON",
+    "codProvincia": "27"
+  },
+  {
+    "codDistrito": "1820",
+    "nomDistrito": "IPARIA",
+    "codProvincia": "190"
+  },
+  {
+    "codDistrito": "1821",
+    "nomDistrito": "MASISEA",
+    "codProvincia": "190"
+  },
+  {
+    "codDistrito": "1822",
+    "nomDistrito": "YARINACOCHA",
+    "codProvincia": "190"
+  },
+  {
+    "codDistrito": "1823",
+    "nomDistrito": "NUEVA REQUENA",
+    "codProvincia": "190"
+  },
+  {
+    "codDistrito": "1824",
+    "nomDistrito": "RAYMONDI",
+    "codProvincia": "191"
+  },
+  {
+    "codDistrito": "1825",
+    "nomDistrito": "SEPAHUA",
+    "codProvincia": "191"
+  },
+  {
+    "codDistrito": "1826",
+    "nomDistrito": "TAHUANIA",
+    "codProvincia": "191"
+  },
+  {
+    "codDistrito": "1827",
+    "nomDistrito": "YURUA",
+    "codProvincia": "191"
+  },
+  {
+    "codDistrito": "1828",
+    "nomDistrito": "PADRE ABAD",
+    "codProvincia": "192"
+  },
+  {
+    "codDistrito": "1829",
+    "nomDistrito": "IRAZOLA",
+    "codProvincia": "192"
+  },
+  {
+    "codDistrito": "183",
+    "nomDistrito": "FIDEL OLIVAS ESCUDERO",
+    "codProvincia": "27"
+  },
+  {
+    "codDistrito": "1830",
+    "nomDistrito": "CURIMANA",
+    "codProvincia": "192"
+  },
+  {
+    "codDistrito": "1831",
+    "nomDistrito": "PURUS",
+    "codProvincia": "193"
+  },
+  {
+    "codDistrito": "184",
+    "nomDistrito": "LLAMA",
+    "codProvincia": "27"
+  },
+  {
+    "codDistrito": "185",
+    "nomDistrito": "LLUMPA",
+    "codProvincia": "27"
+  },
+  {
+    "codDistrito": "186",
+    "nomDistrito": "LUCMA",
+    "codProvincia": "27"
+  },
+  {
+    "codDistrito": "187",
+    "nomDistrito": "MUSGA",
+    "codProvincia": "27"
+  },
+  {
+    "codDistrito": "188",
+    "nomDistrito": "OCROS",
+    "codProvincia": "21"
+  },
+  {
+    "codDistrito": "189",
+    "nomDistrito": "ACAS",
+    "codProvincia": "21"
+  },
+  {
+    "codDistrito": "19",
+    "nomDistrito": "SAN ISIDRO DE MAINO",
+    "codProvincia": "1"
+  },
+  {
+    "codDistrito": "190",
+    "nomDistrito": "CAJAMARQUILLA",
+    "codProvincia": "21"
+  },
+  {
+    "codDistrito": "191",
+    "nomDistrito": "CARHUAPAMPA",
+    "codProvincia": "21"
+  },
+  {
+    "codDistrito": "192",
+    "nomDistrito": "COCHAS",
+    "codProvincia": "21"
+  },
+  {
+    "codDistrito": "193",
+    "nomDistrito": "CONGAS",
+    "codProvincia": "21"
+  },
+  {
+    "codDistrito": "194",
+    "nomDistrito": "LLIPA",
+    "codProvincia": "21"
+  },
+  {
+    "codDistrito": "195",
+    "nomDistrito": "SAN CRISTOBAL DE RAJAN",
+    "codProvincia": "21"
+  },
+  {
+    "codDistrito": "196",
+    "nomDistrito": "SAN PEDRO",
+    "codProvincia": "21"
+  },
+  {
+    "codDistrito": "197",
+    "nomDistrito": "SANTIAGO DE CHILCAS",
+    "codProvincia": "21"
+  },
+  {
+    "codDistrito": "198",
+    "nomDistrito": "CABANA",
+    "codProvincia": "22"
+  },
+  {
+    "codDistrito": "199",
+    "nomDistrito": "BOLOGNESI",
+    "codProvincia": "22"
+  },
+  {
+    "codDistrito": "2",
+    "nomDistrito": "ASUNCION",
+    "codProvincia": "1"
+  },
+  {
+    "codDistrito": "20",
+    "nomDistrito": "SOLOCO",
+    "codProvincia": "1"
+  },
+  {
+    "codDistrito": "200",
+    "nomDistrito": "CONCHUCOS",
+    "codProvincia": "22"
+  },
+  {
+    "codDistrito": "201",
+    "nomDistrito": "HUACASCHUQUE",
+    "codProvincia": "22"
+  },
+  {
+    "codDistrito": "202",
+    "nomDistrito": "HUANDOVAL",
+    "codProvincia": "22"
+  },
+  {
+    "codDistrito": "203",
+    "nomDistrito": "LACABAMBA",
+    "codProvincia": "22"
+  },
+  {
+    "codDistrito": "204",
+    "nomDistrito": "LLAPO",
+    "codProvincia": "22"
+  },
+  {
+    "codDistrito": "205",
+    "nomDistrito": "PALLASCA",
+    "codProvincia": "22"
+  },
+  {
+    "codDistrito": "206",
+    "nomDistrito": "PAMPAS",
+    "codProvincia": "22"
+  },
+  {
+    "codDistrito": "207",
+    "nomDistrito": "SANTA ROSA",
+    "codProvincia": "22"
+  },
+  {
+    "codDistrito": "208",
+    "nomDistrito": "TAUCA",
+    "codProvincia": "22"
+  },
+  {
+    "codDistrito": "209",
+    "nomDistrito": "POMABAMBA",
+    "codProvincia": "23"
+  },
+  {
+    "codDistrito": "21",
+    "nomDistrito": "SONCHE",
+    "codProvincia": "1"
+  },
+  {
+    "codDistrito": "210",
+    "nomDistrito": "HUAYLLAN",
+    "codProvincia": "23"
+  },
+  {
+    "codDistrito": "211",
+    "nomDistrito": "PAROBAMBA",
+    "codProvincia": "23"
+  },
+  {
+    "codDistrito": "212",
+    "nomDistrito": "QUINUABAMBA",
+    "codProvincia": "23"
+  },
+  {
+    "codDistrito": "213",
+    "nomDistrito": "RECUAY",
+    "codProvincia": "24"
+  },
+  {
+    "codDistrito": "214",
+    "nomDistrito": "CATAC",
+    "codProvincia": "24"
+  },
+  {
+    "codDistrito": "215",
+    "nomDistrito": "COTAPARACO",
+    "codProvincia": "24"
+  },
+  {
+    "codDistrito": "216",
+    "nomDistrito": "HUAYLLAPAMPA",
+    "codProvincia": "24"
+  },
+  {
+    "codDistrito": "217",
+    "nomDistrito": "LLACLLIN",
+    "codProvincia": "24"
+  },
+  {
+    "codDistrito": "218",
+    "nomDistrito": "MARCA",
+    "codProvincia": "24"
+  },
+  {
+    "codDistrito": "219",
+    "nomDistrito": "PAMPAS CHICO",
+    "codProvincia": "24"
+  },
+  {
+    "codDistrito": "22",
+    "nomDistrito": "LA PECA",
+    "codProvincia": "2"
+  },
+  {
+    "codDistrito": "220",
+    "nomDistrito": "PARARIN",
+    "codProvincia": "24"
+  },
+  {
+    "codDistrito": "221",
+    "nomDistrito": "TAPACOCHA",
+    "codProvincia": "24"
+  },
+  {
+    "codDistrito": "222",
+    "nomDistrito": "TICAPAMPA",
+    "codProvincia": "24"
+  },
+  {
+    "codDistrito": "223",
+    "nomDistrito": "CHIMBOTE",
+    "codProvincia": "25"
+  },
+  {
+    "codDistrito": "224",
+    "nomDistrito": "CACERES DEL PERU",
+    "codProvincia": "25"
+  },
+  {
+    "codDistrito": "225",
+    "nomDistrito": "COISHCO",
+    "codProvincia": "25"
+  },
+  {
+    "codDistrito": "226",
+    "nomDistrito": "MACATE",
+    "codProvincia": "25"
+  },
+  {
+    "codDistrito": "227",
+    "nomDistrito": "MORO",
+    "codProvincia": "25"
+  },
+  {
+    "codDistrito": "228",
+    "nomDistrito": "NEPEÃ?A",
+    "codProvincia": "25"
+  },
+  {
+    "codDistrito": "229",
+    "nomDistrito": "SAMANCO",
+    "codProvincia": "25"
+  },
+  {
+    "codDistrito": "23",
+    "nomDistrito": "ARAMANGO",
+    "codProvincia": "2"
+  },
+  {
+    "codDistrito": "230",
+    "nomDistrito": "SANTA",
+    "codProvincia": "25"
+  },
+  {
+    "codDistrito": "231",
+    "nomDistrito": "NUEVO CHIMBOTE",
+    "codProvincia": "25"
+  },
+  {
+    "codDistrito": "232",
+    "nomDistrito": "SIHUAS",
+    "codProvincia": "26"
+  },
+  {
+    "codDistrito": "233",
+    "nomDistrito": "ACOBAMBA",
+    "codProvincia": "26"
+  },
+  {
+    "codDistrito": "234",
+    "nomDistrito": "ALFONSO UGARTE",
+    "codProvincia": "26"
+  },
+  {
+    "codDistrito": "235",
+    "nomDistrito": "CASHAPAMPA",
+    "codProvincia": "26"
+  },
+  {
+    "codDistrito": "236",
+    "nomDistrito": "CHINGALPO",
+    "codProvincia": "26"
+  },
+  {
+    "codDistrito": "237",
+    "nomDistrito": "HUAYLLABAMBA",
+    "codProvincia": "26"
+  },
+  {
+    "codDistrito": "238",
+    "nomDistrito": "QUICHES",
+    "codProvincia": "26"
+  },
+  {
+    "codDistrito": "239",
+    "nomDistrito": "RAGASH",
+    "codProvincia": "26"
+  },
+  {
+    "codDistrito": "24",
+    "nomDistrito": "COPALLIN",
+    "codProvincia": "2"
+  },
+  {
+    "codDistrito": "240",
+    "nomDistrito": "SAN JUAN",
+    "codProvincia": "26"
+  },
+  {
+    "codDistrito": "241",
+    "nomDistrito": "SICSIBAMBA",
+    "codProvincia": "26"
+  },
+  {
+    "codDistrito": "242",
+    "nomDistrito": "YUNGAY",
+    "codProvincia": "27"
+  },
+  {
+    "codDistrito": "243",
+    "nomDistrito": "CASCAPARA",
+    "codProvincia": "27"
+  },
+  {
+    "codDistrito": "244",
+    "nomDistrito": "MANCOS",
+    "codProvincia": "27"
+  },
+  {
+    "codDistrito": "245",
+    "nomDistrito": "MATACOTO",
+    "codProvincia": "27"
+  },
+  {
+    "codDistrito": "246",
+    "nomDistrito": "QUILLO",
+    "codProvincia": "27"
+  },
+  {
+    "codDistrito": "247",
+    "nomDistrito": "RANRAHIRCA",
+    "codProvincia": "27"
+  },
+  {
+    "codDistrito": "248",
+    "nomDistrito": "SHUPLUY",
+    "codProvincia": "27"
+  },
+  {
+    "codDistrito": "249",
+    "nomDistrito": "YANAMA",
+    "codProvincia": "27"
+  },
+  {
+    "codDistrito": "25",
+    "nomDistrito": "EL PARCO",
+    "codProvincia": "2"
+  },
+  {
+    "codDistrito": "250",
+    "nomDistrito": "ABANCAY",
+    "codProvincia": "28"
+  },
+  {
+    "codDistrito": "251",
+    "nomDistrito": "CHACOCHE",
+    "codProvincia": "28"
+  },
+  {
+    "codDistrito": "252",
+    "nomDistrito": "CIRCA",
+    "codProvincia": "28"
+  },
+  {
+    "codDistrito": "253",
+    "nomDistrito": "CURAHUASI",
+    "codProvincia": "28"
+  },
+  {
+    "codDistrito": "254",
+    "nomDistrito": "HUANIPACA",
+    "codProvincia": "28"
+  },
+  {
+    "codDistrito": "255",
+    "nomDistrito": "LAMBRAMA",
+    "codProvincia": "28"
+  },
+  {
+    "codDistrito": "256",
+    "nomDistrito": "PICHIRHUA",
+    "codProvincia": "28"
+  },
+  {
+    "codDistrito": "257",
+    "nomDistrito": "SAN PEDRO DE CACHORA",
+    "codProvincia": "28"
+  },
+  {
+    "codDistrito": "258",
+    "nomDistrito": "TAMBURCO",
+    "codProvincia": "28"
+  },
+  {
+    "codDistrito": "259",
+    "nomDistrito": "ANDAHUAYLAS",
+    "codProvincia": "29"
+  },
+  {
+    "codDistrito": "26",
+    "nomDistrito": "IMAZA",
+    "codProvincia": "2"
+  },
+  {
+    "codDistrito": "260",
+    "nomDistrito": "ANDARAPA",
+    "codProvincia": "29"
+  },
+  {
+    "codDistrito": "261",
+    "nomDistrito": "CHIARA",
+    "codProvincia": "29"
+  },
+  {
+    "codDistrito": "262",
+    "nomDistrito": "HUANCARAMA",
+    "codProvincia": "29"
+  },
+  {
+    "codDistrito": "263",
+    "nomDistrito": "HUANCARAY",
+    "codProvincia": "29"
+  },
+  {
+    "codDistrito": "264",
+    "nomDistrito": "HUAYANA",
+    "codProvincia": "29"
+  },
+  {
+    "codDistrito": "265",
+    "nomDistrito": "KISHUARA",
+    "codProvincia": "29"
+  },
+  {
+    "codDistrito": "266",
+    "nomDistrito": "PACOBAMBA",
+    "codProvincia": "29"
+  },
+  {
+    "codDistrito": "267",
+    "nomDistrito": "PACUCHA",
+    "codProvincia": "29"
+  },
+  {
+    "codDistrito": "268",
+    "nomDistrito": "PAMPACHIRI",
+    "codProvincia": "29"
+  },
+  {
+    "codDistrito": "269",
+    "nomDistrito": "POMACOCHA",
+    "codProvincia": "29"
+  },
+  {
+    "codDistrito": "27",
+    "nomDistrito": "JUMBILLA",
+    "codProvincia": "3"
+  },
+  {
+    "codDistrito": "270",
+    "nomDistrito": "SAN ANTONIO DE CACHI",
+    "codProvincia": "29"
+  },
+  {
+    "codDistrito": "271",
+    "nomDistrito": "SAN JERONIMO",
+    "codProvincia": "29"
+  },
+  {
+    "codDistrito": "272",
+    "nomDistrito": "SAN MIGUEL DE CHACCRAMPA",
+    "codProvincia": "29"
+  },
+  {
+    "codDistrito": "273",
+    "nomDistrito": "SANTA MARIA DE CHICMO",
+    "codProvincia": "29"
+  },
+  {
+    "codDistrito": "274",
+    "nomDistrito": "TALAVERA",
+    "codProvincia": "29"
+  },
+  {
+    "codDistrito": "275",
+    "nomDistrito": "TUMAY HUARACA",
+    "codProvincia": "29"
+  },
+  {
+    "codDistrito": "276",
+    "nomDistrito": "TURPO",
+    "codProvincia": "29"
+  },
+  {
+    "codDistrito": "277",
+    "nomDistrito": "KAQUIABAMBA",
+    "codProvincia": "29"
+  },
+  {
+    "codDistrito": "278",
+    "nomDistrito": "ANTABAMBA",
+    "codProvincia": "30"
+  },
+  {
+    "codDistrito": "279",
+    "nomDistrito": "EL ORO",
+    "codProvincia": "30"
+  },
+  {
+    "codDistrito": "28",
+    "nomDistrito": "CHISQUILLA",
+    "codProvincia": "3"
+  },
+  {
+    "codDistrito": "280",
+    "nomDistrito": "HUAQUIRCA",
+    "codProvincia": "30"
+  },
+  {
+    "codDistrito": "281",
+    "nomDistrito": "JUAN ESPINOZA MEDRANO",
+    "codProvincia": "30"
+  },
+  {
+    "codDistrito": "282",
+    "nomDistrito": "OROPESA",
+    "codProvincia": "30"
+  },
+  {
+    "codDistrito": "283",
+    "nomDistrito": "PACHACONAS",
+    "codProvincia": "30"
+  },
+  {
+    "codDistrito": "284",
+    "nomDistrito": "SABAINO",
+    "codProvincia": "30"
+  },
+  {
+    "codDistrito": "285",
+    "nomDistrito": "CHALHUANCA",
+    "codProvincia": "31"
+  },
+  {
+    "codDistrito": "286",
+    "nomDistrito": "CAPAYA",
+    "codProvincia": "31"
+  },
+  {
+    "codDistrito": "287",
+    "nomDistrito": "CARAYBAMBA",
+    "codProvincia": "31"
+  },
+  {
+    "codDistrito": "288",
+    "nomDistrito": "CHAPIMARCA",
+    "codProvincia": "31"
+  },
+  {
+    "codDistrito": "289",
+    "nomDistrito": "COLCABAMBA",
+    "codProvincia": "31"
+  },
+  {
+    "codDistrito": "29",
+    "nomDistrito": "CHURUJA",
+    "codProvincia": "3"
+  },
+  {
+    "codDistrito": "290",
+    "nomDistrito": "COTARUSE",
+    "codProvincia": "31"
+  },
+  {
+    "codDistrito": "291",
+    "nomDistrito": "HUAYLLO",
+    "codProvincia": "31"
+  },
+  {
+    "codDistrito": "292",
+    "nomDistrito": "JUSTO APU SAHUARAURA",
+    "codProvincia": "31"
+  },
+  {
+    "codDistrito": "293",
+    "nomDistrito": "LUCRE",
+    "codProvincia": "31"
+  },
+  {
+    "codDistrito": "294",
+    "nomDistrito": "POCOHUANCA",
+    "codProvincia": "31"
+  },
+  {
+    "codDistrito": "295",
+    "nomDistrito": "SAN JUAN DE CHACÃ?A",
+    "codProvincia": "31"
+  },
+  {
+    "codDistrito": "296",
+    "nomDistrito": "SAÃ?AYCA",
+    "codProvincia": "31"
+  },
+  {
+    "codDistrito": "297",
+    "nomDistrito": "SORAYA",
+    "codProvincia": "31"
+  },
+  {
+    "codDistrito": "298",
+    "nomDistrito": "TAPAIRIHUA",
+    "codProvincia": "31"
+  },
+  {
+    "codDistrito": "299",
+    "nomDistrito": "TINTAY",
+    "codProvincia": "31"
+  },
+  {
+    "codDistrito": "3",
+    "nomDistrito": "BALSAS",
+    "codProvincia": "1"
+  },
+  {
+    "codDistrito": "30",
+    "nomDistrito": "COROSHA",
+    "codProvincia": "3"
+  },
+  {
+    "codDistrito": "300",
+    "nomDistrito": "TORAYA",
+    "codProvincia": "31"
+  },
+  {
+    "codDistrito": "301",
+    "nomDistrito": "YANACA",
+    "codProvincia": "31"
+  },
+  {
+    "codDistrito": "302",
+    "nomDistrito": "TAMBOBAMBA",
+    "codProvincia": "32"
+  },
+  {
+    "codDistrito": "303",
+    "nomDistrito": "COTABAMBAS",
+    "codProvincia": "32"
+  },
+  {
+    "codDistrito": "304",
+    "nomDistrito": "COYLLURQUI",
+    "codProvincia": "32"
+  },
+  {
+    "codDistrito": "305",
+    "nomDistrito": "HAQUIRA",
+    "codProvincia": "32"
+  },
+  {
+    "codDistrito": "306",
+    "nomDistrito": "MARA",
+    "codProvincia": "32"
+  },
+  {
+    "codDistrito": "307",
+    "nomDistrito": "CHALLHUAHUACHO",
+    "codProvincia": "32"
+  },
+  {
+    "codDistrito": "308",
+    "nomDistrito": "CHINCHEROS",
+    "codProvincia": "33"
+  },
+  {
+    "codDistrito": "309",
+    "nomDistrito": "ANCO-HUALLO",
+    "codProvincia": "33"
+  },
+  {
+    "codDistrito": "31",
+    "nomDistrito": "CUISPES",
+    "codProvincia": "3"
+  },
+  {
+    "codDistrito": "310",
+    "nomDistrito": "COCHARCAS",
+    "codProvincia": "33"
+  },
+  {
+    "codDistrito": "311",
+    "nomDistrito": "HUACCANA",
+    "codProvincia": "33"
+  },
+  {
+    "codDistrito": "312",
+    "nomDistrito": "OCOBAMBA",
+    "codProvincia": "33"
+  },
+  {
+    "codDistrito": "313",
+    "nomDistrito": "ONGOY",
+    "codProvincia": "33"
+  },
+  {
+    "codDistrito": "314",
+    "nomDistrito": "URANMARCA",
+    "codProvincia": "33"
+  },
+  {
+    "codDistrito": "315",
+    "nomDistrito": "RANRACANCHA",
+    "codProvincia": "33"
+  },
+  {
+    "codDistrito": "316",
+    "nomDistrito": "CHUQUIBAMBILLA",
+    "codProvincia": "34"
+  },
+  {
+    "codDistrito": "317",
+    "nomDistrito": "CURPAHUASI",
+    "codProvincia": "34"
+  },
+  {
+    "codDistrito": "318",
+    "nomDistrito": "GAMARRA",
+    "codProvincia": "34"
+  },
+  {
+    "codDistrito": "319",
+    "nomDistrito": "HUAYLLATI",
+    "codProvincia": "34"
+  },
+  {
+    "codDistrito": "32",
+    "nomDistrito": "FLORIDA",
+    "codProvincia": "3"
+  },
+  {
+    "codDistrito": "320",
+    "nomDistrito": "MAMARA",
+    "codProvincia": "34"
+  },
+  {
+    "codDistrito": "321",
+    "nomDistrito": "MICAELA BASTIDAS",
+    "codProvincia": "34"
+  },
+  {
+    "codDistrito": "322",
+    "nomDistrito": "PATAYPAMPA",
+    "codProvincia": "34"
+  },
+  {
+    "codDistrito": "323",
+    "nomDistrito": "PROGRESO",
+    "codProvincia": "34"
+  },
+  {
+    "codDistrito": "324",
+    "nomDistrito": "SAN ANTONIO",
+    "codProvincia": "34"
+  },
+  {
+    "codDistrito": "325",
+    "nomDistrito": "SANTA ROSA",
+    "codProvincia": "34"
+  },
+  {
+    "codDistrito": "326",
+    "nomDistrito": "TURPAY",
+    "codProvincia": "34"
+  },
+  {
+    "codDistrito": "327",
+    "nomDistrito": "VILCABAMBA",
+    "codProvincia": "34"
+  },
+  {
+    "codDistrito": "328",
+    "nomDistrito": "VIRUNDO",
+    "codProvincia": "34"
+  },
+  {
+    "codDistrito": "329",
+    "nomDistrito": "CURASCO",
+    "codProvincia": "34"
+  },
+  {
+    "codDistrito": "33",
+    "nomDistrito": "JAZAN",
+    "codProvincia": "3"
+  },
+  {
+    "codDistrito": "330",
+    "nomDistrito": "AREQUIPA",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "331",
+    "nomDistrito": "ALTO SELVA ALEGRE",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "332",
+    "nomDistrito": "CAYMA",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "333",
+    "nomDistrito": "CERRO COLORADO",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "334",
+    "nomDistrito": "CHARACATO",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "335",
+    "nomDistrito": "CHIGUATA",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "336",
+    "nomDistrito": "JACOBO HUNTER",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "337",
+    "nomDistrito": "LA JOYA",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "338",
+    "nomDistrito": "MARIANO MELGAR",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "339",
+    "nomDistrito": "MIRAFLORES",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "34",
+    "nomDistrito": "RECTA",
+    "codProvincia": "3"
+  },
+  {
+    "codDistrito": "340",
+    "nomDistrito": "MOLLEBAYA",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "341",
+    "nomDistrito": "PAUCARPATA",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "342",
+    "nomDistrito": "POCSI",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "343",
+    "nomDistrito": "POLOBAYA",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "344",
+    "nomDistrito": "QUEQUEÃ?A",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "345",
+    "nomDistrito": "SABANDIA",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "346",
+    "nomDistrito": "SACHACA",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "347",
+    "nomDistrito": "SAN JUAN DE SIGUAS",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "348",
+    "nomDistrito": "SAN JUAN DE TARUCANI",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "349",
+    "nomDistrito": "SANTA ISABEL DE SIGUAS",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "35",
+    "nomDistrito": "SAN CARLOS",
+    "codProvincia": "3"
+  },
+  {
+    "codDistrito": "350",
+    "nomDistrito": "SANTA RITA DE SIGUAS",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "351",
+    "nomDistrito": "SOCABAYA",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "352",
+    "nomDistrito": "TIABAYA",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "353",
+    "nomDistrito": "UCHUMAYO",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "354",
+    "nomDistrito": "VITOR",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "355",
+    "nomDistrito": "YANAHUARA",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "356",
+    "nomDistrito": "YARABAMBA",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "357",
+    "nomDistrito": "YURA",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "358",
+    "nomDistrito": "JOSE LUIS BUSTAMANTE Y RIVERO",
+    "codProvincia": "35"
+  },
+  {
+    "codDistrito": "359",
+    "nomDistrito": "CAMANA",
+    "codProvincia": "36"
+  },
+  {
+    "codDistrito": "36",
+    "nomDistrito": "SHIPASBAMBA",
+    "codProvincia": "3"
+  },
+  {
+    "codDistrito": "360",
+    "nomDistrito": "JOSE MARIA QUIMPER",
+    "codProvincia": "36"
+  },
+  {
+    "codDistrito": "361",
+    "nomDistrito": "MARIANO NICOLAS VALCARCEL",
+    "codProvincia": "36"
+  },
+  {
+    "codDistrito": "362",
+    "nomDistrito": "MARISCAL CACERES",
+    "codProvincia": "36"
+  },
+  {
+    "codDistrito": "363",
+    "nomDistrito": "NICOLAS DE PIEROLA",
+    "codProvincia": "36"
+  },
+  {
+    "codDistrito": "364",
+    "nomDistrito": "OCOÃ?A",
+    "codProvincia": "36"
+  },
+  {
+    "codDistrito": "365",
+    "nomDistrito": "QUILCA",
+    "codProvincia": "36"
+  },
+  {
+    "codDistrito": "366",
+    "nomDistrito": "SAMUEL PASTOR",
+    "codProvincia": "36"
+  },
+  {
+    "codDistrito": "367",
+    "nomDistrito": "CARAVELI",
+    "codProvincia": "37"
+  },
+  {
+    "codDistrito": "368",
+    "nomDistrito": "ACARI",
+    "codProvincia": "37"
+  },
+  {
+    "codDistrito": "369",
+    "nomDistrito": "ATICO",
+    "codProvincia": "37"
+  },
+  {
+    "codDistrito": "37",
+    "nomDistrito": "VALERA",
+    "codProvincia": "3"
+  },
+  {
+    "codDistrito": "370",
+    "nomDistrito": "ATIQUIPA",
+    "codProvincia": "37"
+  },
+  {
+    "codDistrito": "371",
+    "nomDistrito": "BELLA UNION",
+    "codProvincia": "37"
+  },
+  {
+    "codDistrito": "372",
+    "nomDistrito": "CAHUACHO",
+    "codProvincia": "37"
+  },
+  {
+    "codDistrito": "373",
+    "nomDistrito": "CHALA",
+    "codProvincia": "37"
+  },
+  {
+    "codDistrito": "374",
+    "nomDistrito": "CHAPARRA",
+    "codProvincia": "37"
+  },
+  {
+    "codDistrito": "375",
+    "nomDistrito": "HUANUHUANU",
+    "codProvincia": "37"
+  },
+  {
+    "codDistrito": "376",
+    "nomDistrito": "JAQUI",
+    "codProvincia": "37"
+  },
+  {
+    "codDistrito": "377",
+    "nomDistrito": "LOMAS",
+    "codProvincia": "37"
+  },
+  {
+    "codDistrito": "378",
+    "nomDistrito": "QUICACHA",
+    "codProvincia": "37"
+  },
+  {
+    "codDistrito": "379",
+    "nomDistrito": "YAUCA",
+    "codProvincia": "37"
+  },
+  {
+    "codDistrito": "38",
+    "nomDistrito": "YAMBRASBAMBA",
+    "codProvincia": "3"
+  },
+  {
+    "codDistrito": "380",
+    "nomDistrito": "APLAO",
+    "codProvincia": "38"
+  },
+  {
+    "codDistrito": "381",
+    "nomDistrito": "ANDAGUA",
+    "codProvincia": "38"
+  },
+  {
+    "codDistrito": "382",
+    "nomDistrito": "AYO",
+    "codProvincia": "38"
+  },
+  {
+    "codDistrito": "383",
+    "nomDistrito": "CHACHAS",
+    "codProvincia": "38"
+  },
+  {
+    "codDistrito": "384",
+    "nomDistrito": "CHILCAYMARCA",
+    "codProvincia": "38"
+  },
+  {
+    "codDistrito": "385",
+    "nomDistrito": "CHOCO",
+    "codProvincia": "38"
+  },
+  {
+    "codDistrito": "386",
+    "nomDistrito": "HUANCARQUI",
+    "codProvincia": "38"
+  },
+  {
+    "codDistrito": "387",
+    "nomDistrito": "MACHAGUAY",
+    "codProvincia": "38"
+  },
+  {
+    "codDistrito": "388",
+    "nomDistrito": "ORCOPAMPA",
+    "codProvincia": "38"
+  },
+  {
+    "codDistrito": "389",
+    "nomDistrito": "PAMPACOLCA",
+    "codProvincia": "38"
+  },
+  {
+    "codDistrito": "39",
+    "nomDistrito": "NIEVA",
+    "codProvincia": "4"
+  },
+  {
+    "codDistrito": "390",
+    "nomDistrito": "TIPAN",
+    "codProvincia": "38"
+  },
+  {
+    "codDistrito": "391",
+    "nomDistrito": "UÃ?ON",
+    "codProvincia": "38"
+  },
+  {
+    "codDistrito": "392",
+    "nomDistrito": "URACA",
+    "codProvincia": "38"
+  },
+  {
+    "codDistrito": "393",
+    "nomDistrito": "VIRACO",
+    "codProvincia": "38"
+  },
+  {
+    "codDistrito": "394",
+    "nomDistrito": "CHIVAY",
+    "codProvincia": "39"
+  },
+  {
+    "codDistrito": "395",
+    "nomDistrito": "ACHOMA",
+    "codProvincia": "39"
+  },
+  {
+    "codDistrito": "396",
+    "nomDistrito": "CABANACONDE",
+    "codProvincia": "39"
+  },
+  {
+    "codDistrito": "397",
+    "nomDistrito": "CALLALLI",
+    "codProvincia": "39"
+  },
+  {
+    "codDistrito": "398",
+    "nomDistrito": "CAYLLOMA",
+    "codProvincia": "39"
+  },
+  {
+    "codDistrito": "399",
+    "nomDistrito": "COPORAQUE",
+    "codProvincia": "39"
+  },
+  {
+    "codDistrito": "4",
+    "nomDistrito": "CHETO",
+    "codProvincia": "1"
+  },
+  {
+    "codDistrito": "40",
+    "nomDistrito": "EL CENEPA",
+    "codProvincia": "4"
+  },
+  {
+    "codDistrito": "400",
+    "nomDistrito": "HUAMBO",
+    "codProvincia": "39"
+  },
+  {
+    "codDistrito": "401",
+    "nomDistrito": "HUANCA",
+    "codProvincia": "39"
+  },
+  {
+    "codDistrito": "402",
+    "nomDistrito": "ICHUPAMPA",
+    "codProvincia": "39"
+  },
+  {
+    "codDistrito": "403",
+    "nomDistrito": "LARI",
+    "codProvincia": "39"
+  },
+  {
+    "codDistrito": "404",
+    "nomDistrito": "LLUTA",
+    "codProvincia": "39"
+  },
+  {
+    "codDistrito": "405",
+    "nomDistrito": "MACA",
+    "codProvincia": "39"
+  },
+  {
+    "codDistrito": "406",
+    "nomDistrito": "MADRIGAL",
+    "codProvincia": "39"
+  },
+  {
+    "codDistrito": "407",
+    "nomDistrito": "SAN ANTONIO DE CHUCA",
+    "codProvincia": "39"
+  },
+  {
+    "codDistrito": "408",
+    "nomDistrito": "SIBAYO",
+    "codProvincia": "39"
+  },
+  {
+    "codDistrito": "409",
+    "nomDistrito": "TAPAY",
+    "codProvincia": "39"
+  },
+  {
+    "codDistrito": "41",
+    "nomDistrito": "RIO SANTIAGO",
+    "codProvincia": "4"
+  },
+  {
+    "codDistrito": "410",
+    "nomDistrito": "TISCO",
+    "codProvincia": "39"
+  },
+  {
+    "codDistrito": "411",
+    "nomDistrito": "TUTI",
+    "codProvincia": "39"
+  },
+  {
+    "codDistrito": "412",
+    "nomDistrito": "YANQUE",
+    "codProvincia": "39"
+  },
+  {
+    "codDistrito": "413",
+    "nomDistrito": "MAJES",
+    "codProvincia": "39"
+  },
+  {
+    "codDistrito": "414",
+    "nomDistrito": "CHUQUIBAMBA",
+    "codProvincia": "40"
+  },
+  {
+    "codDistrito": "415",
+    "nomDistrito": "ANDARAY",
+    "codProvincia": "40"
+  },
+  {
+    "codDistrito": "416",
+    "nomDistrito": "CAYARANI",
+    "codProvincia": "40"
+  },
+  {
+    "codDistrito": "417",
+    "nomDistrito": "CHICHAS",
+    "codProvincia": "40"
+  },
+  {
+    "codDistrito": "418",
+    "nomDistrito": "IRAY",
+    "codProvincia": "40"
+  },
+  {
+    "codDistrito": "419",
+    "nomDistrito": "RIO GRANDE",
+    "codProvincia": "40"
+  },
+  {
+    "codDistrito": "42",
+    "nomDistrito": "LAMUD",
+    "codProvincia": "5"
+  },
+  {
+    "codDistrito": "420",
+    "nomDistrito": "SALAMANCA",
+    "codProvincia": "40"
+  },
+  {
+    "codDistrito": "421",
+    "nomDistrito": "YANAQUIHUA",
+    "codProvincia": "40"
+  },
+  {
+    "codDistrito": "422",
+    "nomDistrito": "MOLLENDO",
+    "codProvincia": "41"
+  },
+  {
+    "codDistrito": "423",
+    "nomDistrito": "COCACHACRA",
+    "codProvincia": "41"
+  },
+  {
+    "codDistrito": "424",
+    "nomDistrito": "DEAN VALDIVIA",
+    "codProvincia": "41"
+  },
+  {
+    "codDistrito": "425",
+    "nomDistrito": "ISLAY",
+    "codProvincia": "41"
+  },
+  {
+    "codDistrito": "426",
+    "nomDistrito": "MEJIA",
+    "codProvincia": "41"
+  },
+  {
+    "codDistrito": "427",
+    "nomDistrito": "PUNTA DE BOMBON",
+    "codProvincia": "41"
+  },
+  {
+    "codDistrito": "428",
+    "nomDistrito": "COTAHUASI",
+    "codProvincia": "42"
+  },
+  {
+    "codDistrito": "429",
+    "nomDistrito": "ALCA",
+    "codProvincia": "42"
+  },
+  {
+    "codDistrito": "43",
+    "nomDistrito": "CAMPORREDONDO",
+    "codProvincia": "5"
+  },
+  {
+    "codDistrito": "430",
+    "nomDistrito": "CHARCANA",
+    "codProvincia": "42"
+  },
+  {
+    "codDistrito": "431",
+    "nomDistrito": "HUAYNACOTAS",
+    "codProvincia": "42"
+  },
+  {
+    "codDistrito": "432",
+    "nomDistrito": "PAMPAMARCA",
+    "codProvincia": "42"
+  },
+  {
+    "codDistrito": "433",
+    "nomDistrito": "PUYCA",
+    "codProvincia": "42"
+  },
+  {
+    "codDistrito": "434",
+    "nomDistrito": "QUECHUALLA",
+    "codProvincia": "42"
+  },
+  {
+    "codDistrito": "435",
+    "nomDistrito": "SAYLA",
+    "codProvincia": "42"
+  },
+  {
+    "codDistrito": "436",
+    "nomDistrito": "TAURIA",
+    "codProvincia": "42"
+  },
+  {
+    "codDistrito": "437",
+    "nomDistrito": "TOMEPAMPA",
+    "codProvincia": "42"
+  },
+  {
+    "codDistrito": "438",
+    "nomDistrito": "TORO",
+    "codProvincia": "42"
+  },
+  {
+    "codDistrito": "439",
+    "nomDistrito": "AYACUCHO",
+    "codProvincia": "43"
+  },
+  {
+    "codDistrito": "44",
+    "nomDistrito": "COCABAMBA",
+    "codProvincia": "5"
+  },
+  {
+    "codDistrito": "440",
+    "nomDistrito": "ACOCRO",
+    "codProvincia": "43"
+  },
+  {
+    "codDistrito": "441",
+    "nomDistrito": "ACOS VINCHOS",
+    "codProvincia": "43"
+  },
+  {
+    "codDistrito": "442",
+    "nomDistrito": "CARMEN ALTO",
+    "codProvincia": "43"
+  },
+  {
+    "codDistrito": "443",
+    "nomDistrito": "CHIARA",
+    "codProvincia": "43"
+  },
+  {
+    "codDistrito": "444",
+    "nomDistrito": "OCROS",
+    "codProvincia": "43"
+  },
+  {
+    "codDistrito": "445",
+    "nomDistrito": "PACAYCASA",
+    "codProvincia": "43"
+  },
+  {
+    "codDistrito": "446",
+    "nomDistrito": "QUINUA",
+    "codProvincia": "43"
+  },
+  {
+    "codDistrito": "447",
+    "nomDistrito": "SAN JOSE DE TICLLAS",
+    "codProvincia": "43"
+  },
+  {
+    "codDistrito": "448",
+    "nomDistrito": "SAN JUAN BAUTISTA",
+    "codProvincia": "43"
+  },
+  {
+    "codDistrito": "449",
+    "nomDistrito": "SANTIAGO DE PISCHA",
+    "codProvincia": "43"
+  },
+  {
+    "codDistrito": "45",
+    "nomDistrito": "COLCAMAR",
+    "codProvincia": "5"
+  },
+  {
+    "codDistrito": "450",
+    "nomDistrito": "SOCOS",
+    "codProvincia": "43"
+  },
+  {
+    "codDistrito": "451",
+    "nomDistrito": "TAMBILLO",
+    "codProvincia": "43"
+  },
+  {
+    "codDistrito": "452",
+    "nomDistrito": "VINCHOS",
+    "codProvincia": "43"
+  },
+  {
+    "codDistrito": "453",
+    "nomDistrito": "JESUS NAZARENO",
+    "codProvincia": "43"
+  },
+  {
+    "codDistrito": "454",
+    "nomDistrito": "CANGALLO",
+    "codProvincia": "44"
+  },
+  {
+    "codDistrito": "455",
+    "nomDistrito": "CHUSCHI",
+    "codProvincia": "44"
+  },
+  {
+    "codDistrito": "456",
+    "nomDistrito": "LOS MOROCHUCOS",
+    "codProvincia": "44"
+  },
+  {
+    "codDistrito": "457",
+    "nomDistrito": "MARIA PARADO DE BELLIDO",
+    "codProvincia": "44"
+  },
+  {
+    "codDistrito": "458",
+    "nomDistrito": "PARAS",
+    "codProvincia": "44"
+  },
+  {
+    "codDistrito": "459",
+    "nomDistrito": "TOTOS",
+    "codProvincia": "44"
+  },
+  {
+    "codDistrito": "46",
+    "nomDistrito": "CONILA",
+    "codProvincia": "5"
+  },
+  {
+    "codDistrito": "460",
+    "nomDistrito": "SANCOS",
+    "codProvincia": "45"
+  },
+  {
+    "codDistrito": "461",
+    "nomDistrito": "CARAPO",
+    "codProvincia": "45"
+  },
+  {
+    "codDistrito": "462",
+    "nomDistrito": "SACSAMARCA",
+    "codProvincia": "45"
+  },
+  {
+    "codDistrito": "463",
+    "nomDistrito": "SANTIAGO DE LUCANAMARCA",
+    "codProvincia": "45"
+  },
+  {
+    "codDistrito": "464",
+    "nomDistrito": "HUANTA",
+    "codProvincia": "46"
+  },
+  {
+    "codDistrito": "465",
+    "nomDistrito": "AYAHUANCO",
+    "codProvincia": "46"
+  },
+  {
+    "codDistrito": "466",
+    "nomDistrito": "HUAMANGUILLA",
+    "codProvincia": "46"
+  },
+  {
+    "codDistrito": "467",
+    "nomDistrito": "IGUAIN",
+    "codProvincia": "46"
+  },
+  {
+    "codDistrito": "468",
+    "nomDistrito": "LURICOCHA",
+    "codProvincia": "46"
+  },
+  {
+    "codDistrito": "469",
+    "nomDistrito": "SANTILLANA",
+    "codProvincia": "46"
+  },
+  {
+    "codDistrito": "47",
+    "nomDistrito": "INGUILPATA",
+    "codProvincia": "5"
+  },
+  {
+    "codDistrito": "470",
+    "nomDistrito": "SIVIA",
+    "codProvincia": "46"
+  },
+  {
+    "codDistrito": "471",
+    "nomDistrito": "LLOCHEGUA",
+    "codProvincia": "46"
+  },
+  {
+    "codDistrito": "472",
+    "nomDistrito": "SAN MIGUEL",
+    "codProvincia": "47"
+  },
+  {
+    "codDistrito": "473",
+    "nomDistrito": "ANCO",
+    "codProvincia": "47"
+  },
+  {
+    "codDistrito": "474",
+    "nomDistrito": "AYNA",
+    "codProvincia": "47"
+  },
+  {
+    "codDistrito": "475",
+    "nomDistrito": "CHILCAS",
+    "codProvincia": "47"
+  },
+  {
+    "codDistrito": "476",
+    "nomDistrito": "CHUNGUI",
+    "codProvincia": "47"
+  },
+  {
+    "codDistrito": "477",
+    "nomDistrito": "LUIS CARRANZA",
+    "codProvincia": "47"
+  },
+  {
+    "codDistrito": "478",
+    "nomDistrito": "SANTA ROSA",
+    "codProvincia": "47"
+  },
+  {
+    "codDistrito": "479",
+    "nomDistrito": "TAMBO",
+    "codProvincia": "47"
+  },
+  {
+    "codDistrito": "48",
+    "nomDistrito": "LONGUITA",
+    "codProvincia": "5"
+  },
+  {
+    "codDistrito": "480",
+    "nomDistrito": "PUQUIO",
+    "codProvincia": "48"
+  },
+  {
+    "codDistrito": "481",
+    "nomDistrito": "AUCARA",
+    "codProvincia": "48"
+  },
+  {
+    "codDistrito": "482",
+    "nomDistrito": "CABANA",
+    "codProvincia": "48"
+  },
+  {
+    "codDistrito": "483",
+    "nomDistrito": "CARMEN SALCEDO",
+    "codProvincia": "48"
+  },
+  {
+    "codDistrito": "484",
+    "nomDistrito": "CHAVIÃ?A",
+    "codProvincia": "48"
+  },
+  {
+    "codDistrito": "485",
+    "nomDistrito": "CHIPAO",
+    "codProvincia": "48"
+  },
+  {
+    "codDistrito": "486",
+    "nomDistrito": "HUAC-HUAS",
+    "codProvincia": "48"
+  },
+  {
+    "codDistrito": "487",
+    "nomDistrito": "LARAMATE",
+    "codProvincia": "48"
+  },
+  {
+    "codDistrito": "488",
+    "nomDistrito": "LEONCIO PRADO",
+    "codProvincia": "48"
+  },
+  {
+    "codDistrito": "489",
+    "nomDistrito": "LLAUTA",
+    "codProvincia": "48"
+  },
+  {
+    "codDistrito": "49",
+    "nomDistrito": "LONYA CHICO",
+    "codProvincia": "5"
+  },
+  {
+    "codDistrito": "490",
+    "nomDistrito": "LUCANAS",
+    "codProvincia": "48"
+  },
+  {
+    "codDistrito": "491",
+    "nomDistrito": "OCAÃ?A",
+    "codProvincia": "48"
+  },
+  {
+    "codDistrito": "492",
+    "nomDistrito": "OTOCA",
+    "codProvincia": "48"
+  },
+  {
+    "codDistrito": "493",
+    "nomDistrito": "SAISA",
+    "codProvincia": "48"
+  },
+  {
+    "codDistrito": "494",
+    "nomDistrito": "SAN CRISTOBAL",
+    "codProvincia": "48"
+  },
+  {
+    "codDistrito": "495",
+    "nomDistrito": "SAN JUAN",
+    "codProvincia": "48"
+  },
+  {
+    "codDistrito": "496",
+    "nomDistrito": "SAN PEDRO",
+    "codProvincia": "48"
+  },
+  {
+    "codDistrito": "497",
+    "nomDistrito": "SAN PEDRO DE PALCO",
+    "codProvincia": "48"
+  },
+  {
+    "codDistrito": "498",
+    "nomDistrito": "SANCOS",
+    "codProvincia": "48"
+  },
+  {
+    "codDistrito": "499",
+    "nomDistrito": "SANTA ANA DE HUAYCAHUACHO",
+    "codProvincia": "48"
+  },
+  {
+    "codDistrito": "5",
+    "nomDistrito": "CHILIQUIN",
+    "codProvincia": "1"
+  },
+  {
+    "codDistrito": "50",
+    "nomDistrito": "LUYA",
+    "codProvincia": "5"
+  },
+  {
+    "codDistrito": "500",
+    "nomDistrito": "SANTA LUCIA",
+    "codProvincia": "48"
+  },
+  {
+    "codDistrito": "501",
+    "nomDistrito": "CORACORA",
+    "codProvincia": "49"
+  },
+  {
+    "codDistrito": "502",
+    "nomDistrito": "CHUMPI",
+    "codProvincia": "49"
+  },
+  {
+    "codDistrito": "503",
+    "nomDistrito": "CORONEL CASTAÃ?EDA",
+    "codProvincia": "49"
+  },
+  {
+    "codDistrito": "504",
+    "nomDistrito": "PACAPAUSA",
+    "codProvincia": "49"
+  },
+  {
+    "codDistrito": "505",
+    "nomDistrito": "PULLO",
+    "codProvincia": "49"
+  },
+  {
+    "codDistrito": "506",
+    "nomDistrito": "PUYUSCA",
+    "codProvincia": "49"
+  },
+  {
+    "codDistrito": "507",
+    "nomDistrito": "SAN FRANCISCO DE RAVACAYCO",
+    "codProvincia": "49"
+  },
+  {
+    "codDistrito": "508",
+    "nomDistrito": "UPAHUACHO",
+    "codProvincia": "49"
+  },
+  {
+    "codDistrito": "509",
+    "nomDistrito": "PAUSA",
+    "codProvincia": "50"
+  },
+  {
+    "codDistrito": "51",
+    "nomDistrito": "LUYA VIEJO",
+    "codProvincia": "5"
+  },
+  {
+    "codDistrito": "510",
+    "nomDistrito": "COLTA",
+    "codProvincia": "50"
+  },
+  {
+    "codDistrito": "511",
+    "nomDistrito": "CORCULLA",
+    "codProvincia": "50"
+  },
+  {
+    "codDistrito": "512",
+    "nomDistrito": "LAMPA",
+    "codProvincia": "50"
+  },
+  {
+    "codDistrito": "513",
+    "nomDistrito": "MARCABAMBA",
+    "codProvincia": "50"
+  },
+  {
+    "codDistrito": "514",
+    "nomDistrito": "OYOLO",
+    "codProvincia": "50"
+  },
+  {
+    "codDistrito": "515",
+    "nomDistrito": "PARARCA",
+    "codProvincia": "50"
+  },
+  {
+    "codDistrito": "516",
+    "nomDistrito": "SAN JAVIER DE ALPABAMBA",
+    "codProvincia": "50"
+  },
+  {
+    "codDistrito": "517",
+    "nomDistrito": "SAN JOSE DE USHUA",
+    "codProvincia": "50"
+  },
+  {
+    "codDistrito": "518",
+    "nomDistrito": "SARA SARA",
+    "codProvincia": "50"
+  },
+  {
+    "codDistrito": "519",
+    "nomDistrito": "QUEROBAMBA",
+    "codProvincia": "51"
+  },
+  {
+    "codDistrito": "52",
+    "nomDistrito": "MARIA",
+    "codProvincia": "5"
+  },
+  {
+    "codDistrito": "520",
+    "nomDistrito": "BELEN",
+    "codProvincia": "51"
+  },
+  {
+    "codDistrito": "521",
+    "nomDistrito": "CHALCOS",
+    "codProvincia": "51"
+  },
+  {
+    "codDistrito": "522",
+    "nomDistrito": "CHILCAYOC",
+    "codProvincia": "51"
+  },
+  {
+    "codDistrito": "523",
+    "nomDistrito": "HUACAÃ?A",
+    "codProvincia": "51"
+  },
+  {
+    "codDistrito": "524",
+    "nomDistrito": "MORCOLLA",
+    "codProvincia": "51"
+  },
+  {
+    "codDistrito": "525",
+    "nomDistrito": "PAICO",
+    "codProvincia": "51"
+  },
+  {
+    "codDistrito": "526",
+    "nomDistrito": "SAN PEDRO DE LARCAY",
+    "codProvincia": "51"
+  },
+  {
+    "codDistrito": "527",
+    "nomDistrito": "SAN SALVADOR DE QUIJE",
+    "codProvincia": "51"
+  },
+  {
+    "codDistrito": "528",
+    "nomDistrito": "SANTIAGO DE PAUCARAY",
+    "codProvincia": "51"
+  },
+  {
+    "codDistrito": "529",
+    "nomDistrito": "SORAS",
+    "codProvincia": "51"
+  },
+  {
+    "codDistrito": "53",
+    "nomDistrito": "OCALLI",
+    "codProvincia": "5"
+  },
+  {
+    "codDistrito": "530",
+    "nomDistrito": "HUANCAPI",
+    "codProvincia": "52"
+  },
+  {
+    "codDistrito": "531",
+    "nomDistrito": "ALCAMENCA",
+    "codProvincia": "52"
+  },
+  {
+    "codDistrito": "532",
+    "nomDistrito": "APONGO",
+    "codProvincia": "52"
+  },
+  {
+    "codDistrito": "533",
+    "nomDistrito": "ASQUIPATA",
+    "codProvincia": "52"
+  },
+  {
+    "codDistrito": "534",
+    "nomDistrito": "CANARIA",
+    "codProvincia": "52"
+  },
+  {
+    "codDistrito": "535",
+    "nomDistrito": "CAYARA",
+    "codProvincia": "52"
+  },
+  {
+    "codDistrito": "536",
+    "nomDistrito": "COLCA",
+    "codProvincia": "52"
+  },
+  {
+    "codDistrito": "537",
+    "nomDistrito": "HUAMANQUIQUIA",
+    "codProvincia": "52"
+  },
+  {
+    "codDistrito": "538",
+    "nomDistrito": "HUANCARAYLLA",
+    "codProvincia": "52"
+  },
+  {
+    "codDistrito": "539",
+    "nomDistrito": "HUAYA",
+    "codProvincia": "52"
+  },
+  {
+    "codDistrito": "54",
+    "nomDistrito": "OCUMAL",
+    "codProvincia": "5"
+  },
+  {
+    "codDistrito": "540",
+    "nomDistrito": "SARHUA",
+    "codProvincia": "52"
+  },
+  {
+    "codDistrito": "541",
+    "nomDistrito": "VILCANCHOS",
+    "codProvincia": "52"
+  },
+  {
+    "codDistrito": "542",
+    "nomDistrito": "VILCAS HUAMAN",
+    "codProvincia": "53"
+  },
+  {
+    "codDistrito": "543",
+    "nomDistrito": "ACCOMARCA",
+    "codProvincia": "53"
+  },
+  {
+    "codDistrito": "544",
+    "nomDistrito": "CARHUANCA",
+    "codProvincia": "53"
+  },
+  {
+    "codDistrito": "545",
+    "nomDistrito": "CONCEPCION",
+    "codProvincia": "53"
+  },
+  {
+    "codDistrito": "546",
+    "nomDistrito": "HUAMBALPA",
+    "codProvincia": "53"
+  },
+  {
+    "codDistrito": "547",
+    "nomDistrito": "INDEPENDENCIA",
+    "codProvincia": "53"
+  },
+  {
+    "codDistrito": "548",
+    "nomDistrito": "SAURAMA",
+    "codProvincia": "53"
+  },
+  {
+    "codDistrito": "549",
+    "nomDistrito": "VISCHONGO",
+    "codProvincia": "53"
+  },
+  {
+    "codDistrito": "55",
+    "nomDistrito": "PISUQUIA",
+    "codProvincia": "5"
+  },
+  {
+    "codDistrito": "550",
+    "nomDistrito": "CAJAMARCA",
+    "codProvincia": "54"
+  },
+  {
+    "codDistrito": "551",
+    "nomDistrito": "CAJAMARCA",
+    "codProvincia": "54"
+  },
+  {
+    "codDistrito": "552",
+    "nomDistrito": "ASUNCION",
+    "codProvincia": "54"
+  },
+  {
+    "codDistrito": "553",
+    "nomDistrito": "CHETILLA",
+    "codProvincia": "54"
+  },
+  {
+    "codDistrito": "554",
+    "nomDistrito": "COSPAN",
+    "codProvincia": "54"
+  },
+  {
+    "codDistrito": "555",
+    "nomDistrito": "ENCAÃ?ADA",
+    "codProvincia": "54"
+  },
+  {
+    "codDistrito": "556",
+    "nomDistrito": "JESUS",
+    "codProvincia": "54"
+  },
+  {
+    "codDistrito": "557",
+    "nomDistrito": "LLACANORA",
+    "codProvincia": "54"
+  },
+  {
+    "codDistrito": "558",
+    "nomDistrito": "LOS BAÃ?OS DEL INCA",
+    "codProvincia": "54"
+  },
+  {
+    "codDistrito": "559",
+    "nomDistrito": "MAGDALENA",
+    "codProvincia": "54"
+  },
+  {
+    "codDistrito": "56",
+    "nomDistrito": "PROVIDENCIA",
+    "codProvincia": "5"
+  },
+  {
+    "codDistrito": "560",
+    "nomDistrito": "MATARA",
+    "codProvincia": "54"
+  },
+  {
+    "codDistrito": "561",
+    "nomDistrito": "NAMORA",
+    "codProvincia": "54"
+  },
+  {
+    "codDistrito": "562",
+    "nomDistrito": "SAN JUAN",
+    "codProvincia": "54"
+  },
+  {
+    "codDistrito": "563",
+    "nomDistrito": "CAJABAMBA",
+    "codProvincia": "55"
+  },
+  {
+    "codDistrito": "564",
+    "nomDistrito": "CACHACHI",
+    "codProvincia": "55"
+  },
+  {
+    "codDistrito": "565",
+    "nomDistrito": "CONDEBAMBA",
+    "codProvincia": "55"
+  },
+  {
+    "codDistrito": "566",
+    "nomDistrito": "SITACOCHA",
+    "codProvincia": "55"
+  },
+  {
+    "codDistrito": "567",
+    "nomDistrito": "CELENDIN",
+    "codProvincia": "56"
+  },
+  {
+    "codDistrito": "568",
+    "nomDistrito": "CHUMUCH",
+    "codProvincia": "56"
+  },
+  {
+    "codDistrito": "569",
+    "nomDistrito": "CORTEGANA",
+    "codProvincia": "56"
+  },
+  {
+    "codDistrito": "57",
+    "nomDistrito": "SAN CRISTOBAL",
+    "codProvincia": "5"
+  },
+  {
+    "codDistrito": "570",
+    "nomDistrito": "HUASMIN",
+    "codProvincia": "56"
+  },
+  {
+    "codDistrito": "571",
+    "nomDistrito": "JORGE CHAVEZ",
+    "codProvincia": "56"
+  },
+  {
+    "codDistrito": "572",
+    "nomDistrito": "JOSE GALVEZ",
+    "codProvincia": "56"
+  },
+  {
+    "codDistrito": "573",
+    "nomDistrito": "MIGUEL IGLESIAS",
+    "codProvincia": "56"
+  },
+  {
+    "codDistrito": "574",
+    "nomDistrito": "OXAMARCA",
+    "codProvincia": "56"
+  },
+  {
+    "codDistrito": "575",
+    "nomDistrito": "SOROCHUCO",
+    "codProvincia": "56"
+  },
+  {
+    "codDistrito": "576",
+    "nomDistrito": "SUCRE",
+    "codProvincia": "56"
+  },
+  {
+    "codDistrito": "577",
+    "nomDistrito": "UTCO",
+    "codProvincia": "56"
+  },
+  {
+    "codDistrito": "578",
+    "nomDistrito": "LA LIBERTAD DE PALLAN",
+    "codProvincia": "56"
+  },
+  {
+    "codDistrito": "579",
+    "nomDistrito": "CHOTA",
+    "codProvincia": "57"
+  },
+  {
+    "codDistrito": "58",
+    "nomDistrito": "SAN FRANCISCO DEL YESO",
+    "codProvincia": "5"
+  },
+  {
+    "codDistrito": "580",
+    "nomDistrito": "ANGUIA",
+    "codProvincia": "57"
+  },
+  {
+    "codDistrito": "581",
+    "nomDistrito": "CHADIN",
+    "codProvincia": "57"
+  },
+  {
+    "codDistrito": "582",
+    "nomDistrito": "CHIGUIRIP",
+    "codProvincia": "57"
+  },
+  {
+    "codDistrito": "583",
+    "nomDistrito": "CHIMBAN",
+    "codProvincia": "57"
+  },
+  {
+    "codDistrito": "584",
+    "nomDistrito": "CHOROPAMPA",
+    "codProvincia": "57"
+  },
+  {
+    "codDistrito": "585",
+    "nomDistrito": "COCHABAMBA",
+    "codProvincia": "57"
+  },
+  {
+    "codDistrito": "586",
+    "nomDistrito": "CONCHAN",
+    "codProvincia": "57"
+  },
+  {
+    "codDistrito": "587",
+    "nomDistrito": "HUAMBOS",
+    "codProvincia": "57"
+  },
+  {
+    "codDistrito": "588",
+    "nomDistrito": "LAJAS",
+    "codProvincia": "57"
+  },
+  {
+    "codDistrito": "589",
+    "nomDistrito": "LLAMA",
+    "codProvincia": "57"
+  },
+  {
+    "codDistrito": "59",
+    "nomDistrito": "SAN JERONIMO",
+    "codProvincia": "5"
+  },
+  {
+    "codDistrito": "590",
+    "nomDistrito": "MIRACOSTA",
+    "codProvincia": "57"
+  },
+  {
+    "codDistrito": "591",
+    "nomDistrito": "PACCHA",
+    "codProvincia": "57"
+  },
+  {
+    "codDistrito": "592",
+    "nomDistrito": "PION",
+    "codProvincia": "57"
+  },
+  {
+    "codDistrito": "593",
+    "nomDistrito": "QUEROCOTO",
+    "codProvincia": "57"
+  },
+  {
+    "codDistrito": "594",
+    "nomDistrito": "SAN JUAN DE LICUPIS",
+    "codProvincia": "57"
+  },
+  {
+    "codDistrito": "595",
+    "nomDistrito": "TACABAMBA",
+    "codProvincia": "57"
+  },
+  {
+    "codDistrito": "596",
+    "nomDistrito": "TOCMOCHE",
+    "codProvincia": "57"
+  },
+  {
+    "codDistrito": "597",
+    "nomDistrito": "CHALAMARCA",
+    "codProvincia": "57"
+  },
+  {
+    "codDistrito": "598",
+    "nomDistrito": "CONTUMAZA",
+    "codProvincia": "58"
+  },
+  {
+    "codDistrito": "599",
+    "nomDistrito": "CHILETE",
+    "codProvincia": "58"
+  },
+  {
+    "codDistrito": "6",
+    "nomDistrito": "CHUQUIBAMBA",
+    "codProvincia": "1"
+  },
+  {
+    "codDistrito": "60",
+    "nomDistrito": "SAN JUAN DE LOPECANCHA",
+    "codProvincia": "5"
+  },
+  {
+    "codDistrito": "600",
+    "nomDistrito": "CUPISNIQUE",
+    "codProvincia": "58"
+  },
+  {
+    "codDistrito": "601",
+    "nomDistrito": "GUZMANGO",
+    "codProvincia": "58"
+  },
+  {
+    "codDistrito": "602",
+    "nomDistrito": "SAN BENITO",
+    "codProvincia": "58"
+  },
+  {
+    "codDistrito": "603",
+    "nomDistrito": "SANTA CRUZ DE TOLED",
+    "codProvincia": "58"
+  },
+  {
+    "codDistrito": "604",
+    "nomDistrito": "TANTARICA",
+    "codProvincia": "58"
+  },
+  {
+    "codDistrito": "605",
+    "nomDistrito": "YONAN",
+    "codProvincia": "58"
+  },
+  {
+    "codDistrito": "606",
+    "nomDistrito": "CUTERVO",
+    "codProvincia": "59"
+  },
+  {
+    "codDistrito": "607",
+    "nomDistrito": "CALLAYUC",
+    "codProvincia": "59"
+  },
+  {
+    "codDistrito": "608",
+    "nomDistrito": "CHOROS",
+    "codProvincia": "59"
+  },
+  {
+    "codDistrito": "609",
+    "nomDistrito": "CUJILLO",
+    "codProvincia": "59"
+  },
+  {
+    "codDistrito": "61",
+    "nomDistrito": "SANTA CATALINA",
+    "codProvincia": "5"
+  },
+  {
+    "codDistrito": "610",
+    "nomDistrito": "LA RAMADA",
+    "codProvincia": "59"
+  },
+  {
+    "codDistrito": "611",
+    "nomDistrito": "PIMPINGOS",
+    "codProvincia": "59"
+  },
+  {
+    "codDistrito": "612",
+    "nomDistrito": "QUEROCOTILLO",
+    "codProvincia": "59"
+  },
+  {
+    "codDistrito": "613",
+    "nomDistrito": "SAN ANDRES DE CUTERVO",
+    "codProvincia": "59"
+  },
+  {
+    "codDistrito": "614",
+    "nomDistrito": "SAN JUAN DE CUTERVO",
+    "codProvincia": "59"
+  },
+  {
+    "codDistrito": "615",
+    "nomDistrito": "SAN LUIS DE LUCMA",
+    "codProvincia": "59"
+  },
+  {
+    "codDistrito": "616",
+    "nomDistrito": "SANTA CRUZ",
+    "codProvincia": "59"
+  },
+  {
+    "codDistrito": "617",
+    "nomDistrito": "SANTO DOMINGO DE LA CAPILLA",
+    "codProvincia": "59"
+  },
+  {
+    "codDistrito": "618",
+    "nomDistrito": "SANTO TOMAS",
+    "codProvincia": "59"
+  },
+  {
+    "codDistrito": "619",
+    "nomDistrito": "SOCOTA",
+    "codProvincia": "59"
+  },
+  {
+    "codDistrito": "62",
+    "nomDistrito": "SANTO TOMAS",
+    "codProvincia": "5"
+  },
+  {
+    "codDistrito": "620",
+    "nomDistrito": "TORIBIO CASANOVA",
+    "codProvincia": "59"
+  },
+  {
+    "codDistrito": "621",
+    "nomDistrito": "BAMBAMARCA",
+    "codProvincia": "60"
+  },
+  {
+    "codDistrito": "622",
+    "nomDistrito": "CHUGUR",
+    "codProvincia": "60"
+  },
+  {
+    "codDistrito": "623",
+    "nomDistrito": "HUALGAYOC",
+    "codProvincia": "60"
+  },
+  {
+    "codDistrito": "624",
+    "nomDistrito": "JAEN",
+    "codProvincia": "61"
+  },
+  {
+    "codDistrito": "625",
+    "nomDistrito": "BELLAVISTA",
+    "codProvincia": "61"
+  },
+  {
+    "codDistrito": "626",
+    "nomDistrito": "CHONTALI",
+    "codProvincia": "61"
+  },
+  {
+    "codDistrito": "627",
+    "nomDistrito": "COLASAY",
+    "codProvincia": "61"
+  },
+  {
+    "codDistrito": "628",
+    "nomDistrito": "HUABAL",
+    "codProvincia": "61"
+  },
+  {
+    "codDistrito": "629",
+    "nomDistrito": "LAS PIRIAS",
+    "codProvincia": "61"
+  },
+  {
+    "codDistrito": "63",
+    "nomDistrito": "TINGO",
+    "codProvincia": "5"
+  },
+  {
+    "codDistrito": "630",
+    "nomDistrito": "POMAHUACA",
+    "codProvincia": "61"
+  },
+  {
+    "codDistrito": "631",
+    "nomDistrito": "PUCARA",
+    "codProvincia": "61"
+  },
+  {
+    "codDistrito": "632",
+    "nomDistrito": "SALLIQUE",
+    "codProvincia": "61"
+  },
+  {
+    "codDistrito": "633",
+    "nomDistrito": "SAN FELIPE",
+    "codProvincia": "61"
+  },
+  {
+    "codDistrito": "634",
+    "nomDistrito": "SAN JOSE DEL ALTO",
+    "codProvincia": "61"
+  },
+  {
+    "codDistrito": "635",
+    "nomDistrito": "SANTA ROSA",
+    "codProvincia": "61"
+  },
+  {
+    "codDistrito": "636",
+    "nomDistrito": "SAN IGNACIO",
+    "codProvincia": "62"
+  },
+  {
+    "codDistrito": "637",
+    "nomDistrito": "CHIRINOS",
+    "codProvincia": "62"
+  },
+  {
+    "codDistrito": "638",
+    "nomDistrito": "HUARANGO",
+    "codProvincia": "62"
+  },
+  {
+    "codDistrito": "639",
+    "nomDistrito": "LA COIPA",
+    "codProvincia": "62"
+  },
+  {
+    "codDistrito": "64",
+    "nomDistrito": "TRITA",
+    "codProvincia": "5"
+  },
+  {
+    "codDistrito": "640",
+    "nomDistrito": "NAMBALLE",
+    "codProvincia": "62"
+  },
+  {
+    "codDistrito": "641",
+    "nomDistrito": "SAN JOSE DE LOURDES",
+    "codProvincia": "62"
+  },
+  {
+    "codDistrito": "642",
+    "nomDistrito": "TABACONAS",
+    "codProvincia": "62"
+  },
+  {
+    "codDistrito": "643",
+    "nomDistrito": "PEDRO GALVEZ",
+    "codProvincia": "63"
+  },
+  {
+    "codDistrito": "644",
+    "nomDistrito": "CHANCAY",
+    "codProvincia": "63"
+  },
+  {
+    "codDistrito": "645",
+    "nomDistrito": "EDUARDO VILLANUEVA",
+    "codProvincia": "63"
+  },
+  {
+    "codDistrito": "646",
+    "nomDistrito": "GREGORIO PITA",
+    "codProvincia": "63"
+  },
+  {
+    "codDistrito": "647",
+    "nomDistrito": "ICHOCAN",
+    "codProvincia": "63"
+  },
+  {
+    "codDistrito": "648",
+    "nomDistrito": "JOSE MANUEL QUIROZ",
+    "codProvincia": "63"
+  },
+  {
+    "codDistrito": "649",
+    "nomDistrito": "JOSE SABOGAL",
+    "codProvincia": "63"
+  },
+  {
+    "codDistrito": "65",
+    "nomDistrito": "SAN NICOLAS",
+    "codProvincia": "6"
+  },
+  {
+    "codDistrito": "650",
+    "nomDistrito": "SAN MIGUEL",
+    "codProvincia": "64"
+  },
+  {
+    "codDistrito": "651",
+    "nomDistrito": "SAN MIGUEL",
+    "codProvincia": "64"
+  },
+  {
+    "codDistrito": "652",
+    "nomDistrito": "BOLIVAR",
+    "codProvincia": "64"
+  },
+  {
+    "codDistrito": "653",
+    "nomDistrito": "CALQUIS",
+    "codProvincia": "64"
+  },
+  {
+    "codDistrito": "654",
+    "nomDistrito": "CATILLUC",
+    "codProvincia": "64"
+  },
+  {
+    "codDistrito": "655",
+    "nomDistrito": "EL PRADO",
+    "codProvincia": "64"
+  },
+  {
+    "codDistrito": "656",
+    "nomDistrito": "LA FLORIDA",
+    "codProvincia": "64"
+  },
+  {
+    "codDistrito": "657",
+    "nomDistrito": "LLAPA",
+    "codProvincia": "64"
+  },
+  {
+    "codDistrito": "658",
+    "nomDistrito": "NANCHOC",
+    "codProvincia": "64"
+  },
+  {
+    "codDistrito": "659",
+    "nomDistrito": "NIEPOS",
+    "codProvincia": "64"
+  },
+  {
+    "codDistrito": "66",
+    "nomDistrito": "CHIRIMOTO",
+    "codProvincia": "6"
+  },
+  {
+    "codDistrito": "660",
+    "nomDistrito": "SAN GREGORIO",
+    "codProvincia": "64"
+  },
+  {
+    "codDistrito": "661",
+    "nomDistrito": "SAN SILVESTRE DE COCHAN",
+    "codProvincia": "64"
+  },
+  {
+    "codDistrito": "662",
+    "nomDistrito": "TONGOD",
+    "codProvincia": "64"
+  },
+  {
+    "codDistrito": "663",
+    "nomDistrito": "UNION AGUA BLANCA",
+    "codProvincia": "64"
+  },
+  {
+    "codDistrito": "664",
+    "nomDistrito": "SAN PABLO",
+    "codProvincia": "65"
+  },
+  {
+    "codDistrito": "665",
+    "nomDistrito": "SAN BERNARDINO",
+    "codProvincia": "65"
+  },
+  {
+    "codDistrito": "666",
+    "nomDistrito": "SAN LUIS",
+    "codProvincia": "65"
+  },
+  {
+    "codDistrito": "667",
+    "nomDistrito": "TUMBADEN",
+    "codProvincia": "65"
+  },
+  {
+    "codDistrito": "668",
+    "nomDistrito": "SANTA CRUZ",
+    "codProvincia": "67"
+  },
+  {
+    "codDistrito": "669",
+    "nomDistrito": "ANDABAMBA",
+    "codProvincia": "67"
+  },
+  {
+    "codDistrito": "67",
+    "nomDistrito": "COCHAMAL",
+    "codProvincia": "6"
+  },
+  {
+    "codDistrito": "670",
+    "nomDistrito": "CATACHE",
+    "codProvincia": "67"
+  },
+  {
+    "codDistrito": "671",
+    "nomDistrito": "CHANCAYBAÃ?OS",
+    "codProvincia": "67"
+  },
+  {
+    "codDistrito": "672",
+    "nomDistrito": "LA ESPERANZA",
+    "codProvincia": "67"
+  },
+  {
+    "codDistrito": "673",
+    "nomDistrito": "NINABAMBA",
+    "codProvincia": "67"
+  },
+  {
+    "codDistrito": "674",
+    "nomDistrito": "PULAN",
+    "codProvincia": "67"
+  },
+  {
+    "codDistrito": "675",
+    "nomDistrito": "SAUCEPAMPA",
+    "codProvincia": "67"
+  },
+  {
+    "codDistrito": "676",
+    "nomDistrito": "SEXI",
+    "codProvincia": "67"
+  },
+  {
+    "codDistrito": "677",
+    "nomDistrito": "UTICYACU",
+    "codProvincia": "67"
+  },
+  {
+    "codDistrito": "678",
+    "nomDistrito": "YAUYUCAN",
+    "codProvincia": "67"
+  },
+  {
+    "codDistrito": "679",
+    "nomDistrito": "CALLAO",
+    "codProvincia": "66"
+  },
+  {
+    "codDistrito": "68",
+    "nomDistrito": "HUAMBO",
+    "codProvincia": "6"
+  },
+  {
+    "codDistrito": "680",
+    "nomDistrito": "BELLAVISTA",
+    "codProvincia": "66"
+  },
+  {
+    "codDistrito": "681",
+    "nomDistrito": "CARMEN DE LA LEGUA",
+    "codProvincia": "66"
+  },
+  {
+    "codDistrito": "682",
+    "nomDistrito": "LA PERLA",
+    "codProvincia": "66"
+  },
+  {
+    "codDistrito": "683",
+    "nomDistrito": "LA PUNTA",
+    "codProvincia": "66"
+  },
+  {
+    "codDistrito": "684",
+    "nomDistrito": "VENTANILLA",
+    "codProvincia": "66"
+  },
+  {
+    "codDistrito": "685",
+    "nomDistrito": "CUSCO",
+    "codProvincia": "67"
+  },
+  {
+    "codDistrito": "686",
+    "nomDistrito": "CCORCA",
+    "codProvincia": "67"
+  },
+  {
+    "codDistrito": "687",
+    "nomDistrito": "POROY",
+    "codProvincia": "67"
+  },
+  {
+    "codDistrito": "688",
+    "nomDistrito": "SAN JERONIMO",
+    "codProvincia": "67"
+  },
+  {
+    "codDistrito": "689",
+    "nomDistrito": "SAN SEBASTIAN",
+    "codProvincia": "67"
+  },
+  {
+    "codDistrito": "69",
+    "nomDistrito": "LIMABAMBA",
+    "codProvincia": "6"
+  },
+  {
+    "codDistrito": "690",
+    "nomDistrito": "SANTIAGO",
+    "codProvincia": "67"
+  },
+  {
+    "codDistrito": "691",
+    "nomDistrito": "SAYLLA",
+    "codProvincia": "67"
+  },
+  {
+    "codDistrito": "692",
+    "nomDistrito": "WANCHAQ",
+    "codProvincia": "67"
+  },
+  {
+    "codDistrito": "693",
+    "nomDistrito": "ACOMAYO",
+    "codProvincia": "68"
+  },
+  {
+    "codDistrito": "694",
+    "nomDistrito": "ACOPIA",
+    "codProvincia": "68"
+  },
+  {
+    "codDistrito": "695",
+    "nomDistrito": "ACOS",
+    "codProvincia": "68"
+  },
+  {
+    "codDistrito": "696",
+    "nomDistrito": "MOSOC LLACTA",
+    "codProvincia": "68"
+  },
+  {
+    "codDistrito": "697",
+    "nomDistrito": "POMACANCHI",
+    "codProvincia": "68"
+  },
+  {
+    "codDistrito": "698",
+    "nomDistrito": "RONDOCAN",
+    "codProvincia": "68"
+  },
+  {
+    "codDistrito": "699",
+    "nomDistrito": "SANGARARA",
+    "codProvincia": "68"
+  },
+  {
+    "codDistrito": "7",
+    "nomDistrito": "GRANADA",
+    "codProvincia": "1"
+  },
+  {
+    "codDistrito": "70",
+    "nomDistrito": "LONGAR",
+    "codProvincia": "6"
+  },
+  {
+    "codDistrito": "700",
+    "nomDistrito": "ANTA",
+    "codProvincia": "69"
+  },
+  {
+    "codDistrito": "701",
+    "nomDistrito": "ANCAHUASI",
+    "codProvincia": "69"
+  },
+  {
+    "codDistrito": "702",
+    "nomDistrito": "CACHIMAYO",
+    "codProvincia": "69"
+  },
+  {
+    "codDistrito": "703",
+    "nomDistrito": "CHINCHAYPUJIO",
+    "codProvincia": "69"
+  },
+  {
+    "codDistrito": "704",
+    "nomDistrito": "HUAROCONDO",
+    "codProvincia": "69"
+  },
+  {
+    "codDistrito": "705",
+    "nomDistrito": "LIMATAMBO",
+    "codProvincia": "69"
+  },
+  {
+    "codDistrito": "706",
+    "nomDistrito": "MOLLEPATA",
+    "codProvincia": "69"
+  },
+  {
+    "codDistrito": "707",
+    "nomDistrito": "PUCYURA",
+    "codProvincia": "69"
+  },
+  {
+    "codDistrito": "708",
+    "nomDistrito": "ZURITE",
+    "codProvincia": "69"
+  },
+  {
+    "codDistrito": "709",
+    "nomDistrito": "CALCA",
+    "codProvincia": "70"
+  },
+  {
+    "codDistrito": "71",
+    "nomDistrito": "MARISCAL BENAVIDES",
+    "codProvincia": "6"
+  },
+  {
+    "codDistrito": "710",
+    "nomDistrito": "COYA",
+    "codProvincia": "70"
+  },
+  {
+    "codDistrito": "711",
+    "nomDistrito": "LAMAY",
+    "codProvincia": "70"
+  },
+  {
+    "codDistrito": "712",
+    "nomDistrito": "LARES",
+    "codProvincia": "70"
+  },
+  {
+    "codDistrito": "713",
+    "nomDistrito": "PISAC",
+    "codProvincia": "70"
+  },
+  {
+    "codDistrito": "714",
+    "nomDistrito": "SAN SALVADOR",
+    "codProvincia": "70"
+  },
+  {
+    "codDistrito": "715",
+    "nomDistrito": "TARAY",
+    "codProvincia": "70"
+  },
+  {
+    "codDistrito": "716",
+    "nomDistrito": "YANATILE",
+    "codProvincia": "70"
+  },
+  {
+    "codDistrito": "717",
+    "nomDistrito": "YANAOCA",
+    "codProvincia": "71"
+  },
+  {
+    "codDistrito": "718",
+    "nomDistrito": "CHECCA",
+    "codProvincia": "71"
+  },
+  {
+    "codDistrito": "719",
+    "nomDistrito": "KUNTURKANKI",
+    "codProvincia": "71"
+  },
+  {
+    "codDistrito": "72",
+    "nomDistrito": "MILPUC",
+    "codProvincia": "6"
+  },
+  {
+    "codDistrito": "720",
+    "nomDistrito": "LANGUI",
+    "codProvincia": "71"
+  },
+  {
+    "codDistrito": "721",
+    "nomDistrito": "LAYO",
+    "codProvincia": "71"
+  },
+  {
+    "codDistrito": "722",
+    "nomDistrito": "PAMPAMARCA",
+    "codProvincia": "71"
+  },
+  {
+    "codDistrito": "723",
+    "nomDistrito": "QUEHUE",
+    "codProvincia": "71"
+  },
+  {
+    "codDistrito": "724",
+    "nomDistrito": "TUPAC AMARU",
+    "codProvincia": "71"
+  },
+  {
+    "codDistrito": "725",
+    "nomDistrito": "SICUANI",
+    "codProvincia": "72"
+  },
+  {
+    "codDistrito": "726",
+    "nomDistrito": "CHECACUPE",
+    "codProvincia": "72"
+  },
+  {
+    "codDistrito": "727",
+    "nomDistrito": "COMBAPATA",
+    "codProvincia": "72"
+  },
+  {
+    "codDistrito": "728",
+    "nomDistrito": "MARANGANI",
+    "codProvincia": "72"
+  },
+  {
+    "codDistrito": "729",
+    "nomDistrito": "PITUMARCA",
+    "codProvincia": "72"
+  },
+  {
+    "codDistrito": "73",
+    "nomDistrito": "OMIA",
+    "codProvincia": "6"
+  },
+  {
+    "codDistrito": "730",
+    "nomDistrito": "SAN PABLO",
+    "codProvincia": "72"
+  },
+  {
+    "codDistrito": "731",
+    "nomDistrito": "SAN PEDRO",
+    "codProvincia": "72"
+  },
+  {
+    "codDistrito": "732",
+    "nomDistrito": "TINTA",
+    "codProvincia": "72"
+  },
+  {
+    "codDistrito": "733",
+    "nomDistrito": "SANTO TOMAS",
+    "codProvincia": "73"
+  },
+  {
+    "codDistrito": "734",
+    "nomDistrito": "CAPACMARCA",
+    "codProvincia": "73"
+  },
+  {
+    "codDistrito": "735",
+    "nomDistrito": "CHAMACA",
+    "codProvincia": "73"
+  },
+  {
+    "codDistrito": "736",
+    "nomDistrito": "COLQUEMARCA",
+    "codProvincia": "73"
+  },
+  {
+    "codDistrito": "737",
+    "nomDistrito": "LIVITACA",
+    "codProvincia": "73"
+  },
+  {
+    "codDistrito": "738",
+    "nomDistrito": "LLUSCO",
+    "codProvincia": "73"
+  },
+  {
+    "codDistrito": "739",
+    "nomDistrito": "QUIÃ?OTA",
+    "codProvincia": "73"
+  },
+  {
+    "codDistrito": "74",
+    "nomDistrito": "SANTA ROSA",
+    "codProvincia": "6"
+  },
+  {
+    "codDistrito": "740",
+    "nomDistrito": "VELILLE",
+    "codProvincia": "73"
+  },
+  {
+    "codDistrito": "741",
+    "nomDistrito": "ESPINAR",
+    "codProvincia": "74"
+  },
+  {
+    "codDistrito": "742",
+    "nomDistrito": "CONDOROMA",
+    "codProvincia": "74"
+  },
+  {
+    "codDistrito": "743",
+    "nomDistrito": "COPORAQUE",
+    "codProvincia": "74"
+  },
+  {
+    "codDistrito": "744",
+    "nomDistrito": "OCORURO",
+    "codProvincia": "74"
+  },
+  {
+    "codDistrito": "745",
+    "nomDistrito": "PALLPATA",
+    "codProvincia": "74"
+  },
+  {
+    "codDistrito": "746",
+    "nomDistrito": "PICHIGUA",
+    "codProvincia": "74"
+  },
+  {
+    "codDistrito": "747",
+    "nomDistrito": "SUYCKUTAMBO",
+    "codProvincia": "74"
+  },
+  {
+    "codDistrito": "748",
+    "nomDistrito": "ALTO PICHIGUA",
+    "codProvincia": "74"
+  },
+  {
+    "codDistrito": "749",
+    "nomDistrito": "SANTA ANA",
+    "codProvincia": "75"
+  },
+  {
+    "codDistrito": "75",
+    "nomDistrito": "TOTORA",
+    "codProvincia": "6"
+  },
+  {
+    "codDistrito": "750",
+    "nomDistrito": "ECHARATE",
+    "codProvincia": "75"
+  },
+  {
+    "codDistrito": "751",
+    "nomDistrito": "HUAYOPATA",
+    "codProvincia": "75"
+  },
+  {
+    "codDistrito": "752",
+    "nomDistrito": "MARANURA",
+    "codProvincia": "75"
+  },
+  {
+    "codDistrito": "753",
+    "nomDistrito": "OCOBAMBA",
+    "codProvincia": "75"
+  },
+  {
+    "codDistrito": "754",
+    "nomDistrito": "QUELLOUNO",
+    "codProvincia": "75"
+  },
+  {
+    "codDistrito": "755",
+    "nomDistrito": "KIMBIRI",
+    "codProvincia": "75"
+  },
+  {
+    "codDistrito": "756",
+    "nomDistrito": "SANTA TERESA",
+    "codProvincia": "75"
+  },
+  {
+    "codDistrito": "757",
+    "nomDistrito": "VILCABAMBA",
+    "codProvincia": "75"
+  },
+  {
+    "codDistrito": "758",
+    "nomDistrito": "PICHARI",
+    "codProvincia": "75"
+  },
+  {
+    "codDistrito": "759",
+    "nomDistrito": "PARURO",
+    "codProvincia": "76"
+  },
+  {
+    "codDistrito": "76",
+    "nomDistrito": "VISTA ALEGRE",
+    "codProvincia": "6"
+  },
+  {
+    "codDistrito": "760",
+    "nomDistrito": "ACCHA",
+    "codProvincia": "76"
+  },
+  {
+    "codDistrito": "761",
+    "nomDistrito": "CCAPI",
+    "codProvincia": "76"
+  },
+  {
+    "codDistrito": "762",
+    "nomDistrito": "COLCHA",
+    "codProvincia": "76"
+  },
+  {
+    "codDistrito": "763",
+    "nomDistrito": "HUANOQUITE",
+    "codProvincia": "76"
+  },
+  {
+    "codDistrito": "764",
+    "nomDistrito": "OMACHA",
+    "codProvincia": "76"
+  },
+  {
+    "codDistrito": "765",
+    "nomDistrito": "PACCARITAMBO",
+    "codProvincia": "76"
+  },
+  {
+    "codDistrito": "766",
+    "nomDistrito": "PILLPINTO",
+    "codProvincia": "76"
+  },
+  {
+    "codDistrito": "767",
+    "nomDistrito": "YAURISQUE",
+    "codProvincia": "76"
+  },
+  {
+    "codDistrito": "768",
+    "nomDistrito": "PAUCARTAMBO",
+    "codProvincia": "77"
+  },
+  {
+    "codDistrito": "769",
+    "nomDistrito": "CAICAY",
+    "codProvincia": "77"
+  },
+  {
+    "codDistrito": "77",
+    "nomDistrito": "BAGUA GRANDE",
+    "codProvincia": "7"
+  },
+  {
+    "codDistrito": "770",
+    "nomDistrito": "CHALLABAMBA",
+    "codProvincia": "77"
+  },
+  {
+    "codDistrito": "771",
+    "nomDistrito": "COLQUEPATA",
+    "codProvincia": "77"
+  },
+  {
+    "codDistrito": "772",
+    "nomDistrito": "HUANCARANI",
+    "codProvincia": "77"
+  },
+  {
+    "codDistrito": "773",
+    "nomDistrito": "KOSÃ?IPATA",
+    "codProvincia": "77"
+  },
+  {
+    "codDistrito": "774",
+    "nomDistrito": "URCOS",
+    "codProvincia": "78"
+  },
+  {
+    "codDistrito": "775",
+    "nomDistrito": "ANDAHUAYLILLAS",
+    "codProvincia": "78"
+  },
+  {
+    "codDistrito": "776",
+    "nomDistrito": "CAMANTI",
+    "codProvincia": "78"
+  },
+  {
+    "codDistrito": "777",
+    "nomDistrito": "CCARHUAYO",
+    "codProvincia": "78"
+  },
+  {
+    "codDistrito": "778",
+    "nomDistrito": "CCATCA",
+    "codProvincia": "78"
+  },
+  {
+    "codDistrito": "779",
+    "nomDistrito": "CUSIPATA",
+    "codProvincia": "78"
+  },
+  {
+    "codDistrito": "78",
+    "nomDistrito": "CAJARURO",
+    "codProvincia": "7"
+  },
+  {
+    "codDistrito": "780",
+    "nomDistrito": "HUARO",
+    "codProvincia": "78"
+  },
+  {
+    "codDistrito": "781",
+    "nomDistrito": "LUCRE",
+    "codProvincia": "78"
+  },
+  {
+    "codDistrito": "782",
+    "nomDistrito": "MARCAPATA",
+    "codProvincia": "78"
+  },
+  {
+    "codDistrito": "783",
+    "nomDistrito": "OCONGATE",
+    "codProvincia": "78"
+  },
+  {
+    "codDistrito": "784",
+    "nomDistrito": "OROPESA",
+    "codProvincia": "78"
+  },
+  {
+    "codDistrito": "785",
+    "nomDistrito": "QUIQUIJANA",
+    "codProvincia": "78"
+  },
+  {
+    "codDistrito": "786",
+    "nomDistrito": "URUBAMBA",
+    "codProvincia": "79"
+  },
+  {
+    "codDistrito": "787",
+    "nomDistrito": "CHINCHERO",
+    "codProvincia": "79"
+  },
+  {
+    "codDistrito": "788",
+    "nomDistrito": "HUAYLLABAMBA",
+    "codProvincia": "79"
+  },
+  {
+    "codDistrito": "789",
+    "nomDistrito": "MACHUPICCHU",
+    "codProvincia": "79"
+  },
+  {
+    "codDistrito": "79",
+    "nomDistrito": "CUMBA",
+    "codProvincia": "7"
+  },
+  {
+    "codDistrito": "790",
+    "nomDistrito": "MARAS",
+    "codProvincia": "79"
+  },
+  {
+    "codDistrito": "791",
+    "nomDistrito": "OLLANTAYTAMBO",
+    "codProvincia": "79"
+  },
+  {
+    "codDistrito": "792",
+    "nomDistrito": "YUCAY",
+    "codProvincia": "79"
+  },
+  {
+    "codDistrito": "793",
+    "nomDistrito": "HUANCAVELICA",
+    "codProvincia": "80"
+  },
+  {
+    "codDistrito": "794",
+    "nomDistrito": "ACOBAMBILLA",
+    "codProvincia": "80"
+  },
+  {
+    "codDistrito": "795",
+    "nomDistrito": "ACORIA",
+    "codProvincia": "80"
+  },
+  {
+    "codDistrito": "796",
+    "nomDistrito": "CONAYCA",
+    "codProvincia": "80"
+  },
+  {
+    "codDistrito": "797",
+    "nomDistrito": "CUENCA",
+    "codProvincia": "80"
+  },
+  {
+    "codDistrito": "798",
+    "nomDistrito": "HUACHOCOLPA",
+    "codProvincia": "80"
+  },
+  {
+    "codDistrito": "799",
+    "nomDistrito": "HUAYLLAHUARA",
+    "codProvincia": "80"
+  },
+  {
+    "codDistrito": "8",
+    "nomDistrito": "HUANCAS",
+    "codProvincia": "1"
+  },
+  {
+    "codDistrito": "80",
+    "nomDistrito": "EL MILAGRO",
+    "codProvincia": "7"
+  },
+  {
+    "codDistrito": "800",
+    "nomDistrito": "IZCUCHACA",
+    "codProvincia": "80"
+  },
+  {
+    "codDistrito": "801",
+    "nomDistrito": "LARIA",
+    "codProvincia": "80"
+  },
+  {
+    "codDistrito": "802",
+    "nomDistrito": "MANTA",
+    "codProvincia": "80"
+  },
+  {
+    "codDistrito": "803",
+    "nomDistrito": "MARISCAL CACERES",
+    "codProvincia": "80"
+  },
+  {
+    "codDistrito": "804",
+    "nomDistrito": "MOYA",
+    "codProvincia": "80"
+  },
+  {
+    "codDistrito": "805",
+    "nomDistrito": "NUEVO OCCORO",
+    "codProvincia": "80"
+  },
+  {
+    "codDistrito": "806",
+    "nomDistrito": "PALCA",
+    "codProvincia": "80"
+  },
+  {
+    "codDistrito": "807",
+    "nomDistrito": "PILCHACA",
+    "codProvincia": "80"
+  },
+  {
+    "codDistrito": "808",
+    "nomDistrito": "VILCA",
+    "codProvincia": "80"
+  },
+  {
+    "codDistrito": "809",
+    "nomDistrito": "YAULI",
+    "codProvincia": "80"
+  },
+  {
+    "codDistrito": "81",
+    "nomDistrito": "JAMALCA",
+    "codProvincia": "7"
+  },
+  {
+    "codDistrito": "810",
+    "nomDistrito": "ASCENSION",
+    "codProvincia": "80"
+  },
+  {
+    "codDistrito": "811",
+    "nomDistrito": "HUANDO",
+    "codProvincia": "80"
+  },
+  {
+    "codDistrito": "812",
+    "nomDistrito": "ACOBAMBA",
+    "codProvincia": "81"
+  },
+  {
+    "codDistrito": "813",
+    "nomDistrito": "ANDABAMBA",
+    "codProvincia": "81"
+  },
+  {
+    "codDistrito": "814",
+    "nomDistrito": "ANTA",
+    "codProvincia": "81"
+  },
+  {
+    "codDistrito": "815",
+    "nomDistrito": "CAJA",
+    "codProvincia": "81"
+  },
+  {
+    "codDistrito": "816",
+    "nomDistrito": "MARCAS",
+    "codProvincia": "81"
+  },
+  {
+    "codDistrito": "817",
+    "nomDistrito": "PAUCARA",
+    "codProvincia": "81"
+  },
+  {
+    "codDistrito": "818",
+    "nomDistrito": "POMACOCHA",
+    "codProvincia": "81"
+  },
+  {
+    "codDistrito": "819",
+    "nomDistrito": "ROSARIO",
+    "codProvincia": "81"
+  },
+  {
+    "codDistrito": "82",
+    "nomDistrito": "LONYA GRANDE",
+    "codProvincia": "7"
+  },
+  {
+    "codDistrito": "820",
+    "nomDistrito": "LIRCAY",
+    "codProvincia": "82"
+  },
+  {
+    "codDistrito": "821",
+    "nomDistrito": "ANCHONGA",
+    "codProvincia": "82"
+  },
+  {
+    "codDistrito": "822",
+    "nomDistrito": "CALLANMARCA",
+    "codProvincia": "82"
+  },
+  {
+    "codDistrito": "823",
+    "nomDistrito": "CCOCHACCASA",
+    "codProvincia": "82"
+  },
+  {
+    "codDistrito": "824",
+    "nomDistrito": "CHINCHO",
+    "codProvincia": "82"
+  },
+  {
+    "codDistrito": "825",
+    "nomDistrito": "CONGALLA",
+    "codProvincia": "82"
+  },
+  {
+    "codDistrito": "826",
+    "nomDistrito": "HUANCA-HUANCA",
+    "codProvincia": "82"
+  },
+  {
+    "codDistrito": "827",
+    "nomDistrito": "HUAYLLAY GRANDE",
+    "codProvincia": "82"
+  },
+  {
+    "codDistrito": "828",
+    "nomDistrito": "JULCAMARCA",
+    "codProvincia": "82"
+  },
+  {
+    "codDistrito": "829",
+    "nomDistrito": "SAN ANTONIO DE ANTAPARCO",
+    "codProvincia": "82"
+  },
+  {
+    "codDistrito": "83",
+    "nomDistrito": "YAMON",
+    "codProvincia": "7"
+  },
+  {
+    "codDistrito": "830",
+    "nomDistrito": "SANTO TOMAS DE PATA",
+    "codProvincia": "82"
+  },
+  {
+    "codDistrito": "831",
+    "nomDistrito": "SECCLLA",
+    "codProvincia": "82"
+  },
+  {
+    "codDistrito": "832",
+    "nomDistrito": "CASTROVIRREYNA",
+    "codProvincia": "83"
+  },
+  {
+    "codDistrito": "833",
+    "nomDistrito": "ARMA",
+    "codProvincia": "83"
+  },
+  {
+    "codDistrito": "834",
+    "nomDistrito": "AURAHUA",
+    "codProvincia": "83"
+  },
+  {
+    "codDistrito": "835",
+    "nomDistrito": "CAPILLAS",
+    "codProvincia": "83"
+  },
+  {
+    "codDistrito": "836",
+    "nomDistrito": "CHUPAMARCA",
+    "codProvincia": "83"
+  },
+  {
+    "codDistrito": "837",
+    "nomDistrito": "COCAS",
+    "codProvincia": "83"
+  },
+  {
+    "codDistrito": "838",
+    "nomDistrito": "HUACHOS",
+    "codProvincia": "83"
+  },
+  {
+    "codDistrito": "839",
+    "nomDistrito": "HUAMATAMBO",
+    "codProvincia": "83"
+  },
+  {
+    "codDistrito": "84",
+    "nomDistrito": "HUARAZ",
+    "codProvincia": "8"
+  },
+  {
+    "codDistrito": "840",
+    "nomDistrito": "MOLLEPAMPA",
+    "codProvincia": "83"
+  },
+  {
+    "codDistrito": "841",
+    "nomDistrito": "SAN JUAN",
+    "codProvincia": "83"
+  },
+  {
+    "codDistrito": "842",
+    "nomDistrito": "SANTA ANA",
+    "codProvincia": "83"
+  },
+  {
+    "codDistrito": "843",
+    "nomDistrito": "TANTARA",
+    "codProvincia": "83"
+  },
+  {
+    "codDistrito": "844",
+    "nomDistrito": "TICRAPO",
+    "codProvincia": "83"
+  },
+  {
+    "codDistrito": "845",
+    "nomDistrito": "CHURCAMPA",
+    "codProvincia": "84"
+  },
+  {
+    "codDistrito": "846",
+    "nomDistrito": "ANCO",
+    "codProvincia": "84"
+  },
+  {
+    "codDistrito": "847",
+    "nomDistrito": "CHINCHIHUASI",
+    "codProvincia": "84"
+  },
+  {
+    "codDistrito": "848",
+    "nomDistrito": "EL CARMEN",
+    "codProvincia": "84"
+  },
+  {
+    "codDistrito": "849",
+    "nomDistrito": "LA MERCED",
+    "codProvincia": "84"
+  },
+  {
+    "codDistrito": "85",
+    "nomDistrito": "COCHABAMBA",
+    "codProvincia": "8"
+  },
+  {
+    "codDistrito": "850",
+    "nomDistrito": "LOCROJA",
+    "codProvincia": "84"
+  },
+  {
+    "codDistrito": "851",
+    "nomDistrito": "PAUCARBAMBA",
+    "codProvincia": "84"
+  },
+  {
+    "codDistrito": "852",
+    "nomDistrito": "SAN MIGUEL DE MAYOCC",
+    "codProvincia": "84"
+  },
+  {
+    "codDistrito": "853",
+    "nomDistrito": "SAN PEDRO DE CORIS",
+    "codProvincia": "84"
+  },
+  {
+    "codDistrito": "854",
+    "nomDistrito": "PACHAMARCA",
+    "codProvincia": "84"
+  },
+  {
+    "codDistrito": "855",
+    "nomDistrito": "HUAYTARA",
+    "codProvincia": "85"
+  },
+  {
+    "codDistrito": "856",
+    "nomDistrito": "AYAVI",
+    "codProvincia": "85"
+  },
+  {
+    "codDistrito": "857",
+    "nomDistrito": "CORDOVA",
+    "codProvincia": "85"
+  },
+  {
+    "codDistrito": "858",
+    "nomDistrito": "HUAYACUNDO ARMA",
+    "codProvincia": "85"
+  },
+  {
+    "codDistrito": "859",
+    "nomDistrito": "LARAMARCA",
+    "codProvincia": "85"
+  },
+  {
+    "codDistrito": "86",
+    "nomDistrito": "COLCABAMBA",
+    "codProvincia": "8"
+  },
+  {
+    "codDistrito": "860",
+    "nomDistrito": "OCOYO",
+    "codProvincia": "85"
+  },
+  {
+    "codDistrito": "861",
+    "nomDistrito": "PILPICHACA",
+    "codProvincia": "85"
+  },
+  {
+    "codDistrito": "862",
+    "nomDistrito": "QUERCO",
+    "codProvincia": "85"
+  },
+  {
+    "codDistrito": "863",
+    "nomDistrito": "QUITO-ARMA",
+    "codProvincia": "85"
+  },
+  {
+    "codDistrito": "864",
+    "nomDistrito": "SAN ANTONIO DE CUSICANCHA",
+    "codProvincia": "85"
+  },
+  {
+    "codDistrito": "865",
+    "nomDistrito": "SAN FRANCISCO DE SANGAYAICO",
+    "codProvincia": "85"
+  },
+  {
+    "codDistrito": "866",
+    "nomDistrito": "SAN ISIDRO",
+    "codProvincia": "85"
+  },
+  {
+    "codDistrito": "867",
+    "nomDistrito": "SANTIAGO DE CHOCORVOS",
+    "codProvincia": "85"
+  },
+  {
+    "codDistrito": "868",
+    "nomDistrito": "SANTIAGO DE QUIRAHUARA",
+    "codProvincia": "85"
+  },
+  {
+    "codDistrito": "869",
+    "nomDistrito": "SANTO DOMINGO DE CAPILLAS",
+    "codProvincia": "85"
+  },
+  {
+    "codDistrito": "87",
+    "nomDistrito": "HUANCHAY",
+    "codProvincia": "8"
+  },
+  {
+    "codDistrito": "870",
+    "nomDistrito": "TAMBO",
+    "codProvincia": "85"
+  },
+  {
+    "codDistrito": "871",
+    "nomDistrito": "PAMPAS",
+    "codProvincia": "86"
+  },
+  {
+    "codDistrito": "872",
+    "nomDistrito": "ACOSTAMBO",
+    "codProvincia": "86"
+  },
+  {
+    "codDistrito": "873",
+    "nomDistrito": "ACRAQUIA",
+    "codProvincia": "86"
+  },
+  {
+    "codDistrito": "874",
+    "nomDistrito": "AHUAYCHA",
+    "codProvincia": "86"
+  },
+  {
+    "codDistrito": "875",
+    "nomDistrito": "COLCABAMBA",
+    "codProvincia": "86"
+  },
+  {
+    "codDistrito": "876",
+    "nomDistrito": "DANIEL HERNANDEZ",
+    "codProvincia": "86"
+  },
+  {
+    "codDistrito": "877",
+    "nomDistrito": "HUACHOCOLPA",
+    "codProvincia": "86"
+  },
+  {
+    "codDistrito": "878",
+    "nomDistrito": "HUARIBAMBA",
+    "codProvincia": "86"
+  },
+  {
+    "codDistrito": "879",
+    "nomDistrito": "Ã?AHUIMPUQUIO",
+    "codProvincia": "86"
+  },
+  {
+    "codDistrito": "88",
+    "nomDistrito": "INDEPENDENCIA",
+    "codProvincia": "8"
+  },
+  {
+    "codDistrito": "880",
+    "nomDistrito": "PAZOS",
+    "codProvincia": "86"
+  },
+  {
+    "codDistrito": "881",
+    "nomDistrito": "QUISHUAR",
+    "codProvincia": "86"
+  },
+  {
+    "codDistrito": "882",
+    "nomDistrito": "SALCABAMBA",
+    "codProvincia": "86"
+  },
+  {
+    "codDistrito": "883",
+    "nomDistrito": "SALCAHUASI",
+    "codProvincia": "86"
+  },
+  {
+    "codDistrito": "884",
+    "nomDistrito": "SAN MARCOS DE ROCCHAC",
+    "codProvincia": "86"
+  },
+  {
+    "codDistrito": "885",
+    "nomDistrito": "SURCUBAMBA",
+    "codProvincia": "86"
+  },
+  {
+    "codDistrito": "886",
+    "nomDistrito": "TINTAY PUNCU",
+    "codProvincia": "86"
+  },
+  {
+    "codDistrito": "887",
+    "nomDistrito": "HUANUCO",
+    "codProvincia": "87"
+  },
+  {
+    "codDistrito": "888",
+    "nomDistrito": "AMARILIS",
+    "codProvincia": "87"
+  },
+  {
+    "codDistrito": "889",
+    "nomDistrito": "CHINCHAO",
+    "codProvincia": "87"
+  },
+  {
+    "codDistrito": "89",
+    "nomDistrito": "JANGAS",
+    "codProvincia": "8"
+  },
+  {
+    "codDistrito": "890",
+    "nomDistrito": "CHURUBAMBA",
+    "codProvincia": "87"
+  },
+  {
+    "codDistrito": "891",
+    "nomDistrito": "MARGOS",
+    "codProvincia": "87"
+  },
+  {
+    "codDistrito": "892",
+    "nomDistrito": "QUISQUI",
+    "codProvincia": "87"
+  },
+  {
+    "codDistrito": "893",
+    "nomDistrito": "SAN FRANCISCO DE CAYRAN",
+    "codProvincia": "87"
+  },
+  {
+    "codDistrito": "894",
+    "nomDistrito": "SAN PEDRO DE CHAULAN",
+    "codProvincia": "87"
+  },
+  {
+    "codDistrito": "895",
+    "nomDistrito": "SANTA MARIA DEL VALLE",
+    "codProvincia": "87"
+  },
+  {
+    "codDistrito": "896",
+    "nomDistrito": "YARUMAYO",
+    "codProvincia": "87"
+  },
+  {
+    "codDistrito": "897",
+    "nomDistrito": "PILLCO MARCA",
+    "codProvincia": "87"
+  },
+  {
+    "codDistrito": "898",
+    "nomDistrito": "AMBO",
+    "codProvincia": "88"
+  },
+  {
+    "codDistrito": "899",
+    "nomDistrito": "CAYNA",
+    "codProvincia": "88"
+  },
+  {
+    "codDistrito": "9",
+    "nomDistrito": "LA JALCA",
+    "codProvincia": "1"
+  },
+  {
+    "codDistrito": "90",
+    "nomDistrito": "LA LIBERTAD",
+    "codProvincia": "8"
+  },
+  {
+    "codDistrito": "900",
+    "nomDistrito": "COLPAS",
+    "codProvincia": "88"
+  },
+  {
+    "codDistrito": "901",
+    "nomDistrito": "CONCHAMARCA",
+    "codProvincia": "88"
+  },
+  {
+    "codDistrito": "902",
+    "nomDistrito": "HUACAR",
+    "codProvincia": "88"
+  },
+  {
+    "codDistrito": "903",
+    "nomDistrito": "SAN FRANCISCO",
+    "codProvincia": "88"
+  },
+  {
+    "codDistrito": "904",
+    "nomDistrito": "SAN RAFAEL",
+    "codProvincia": "88"
+  },
+  {
+    "codDistrito": "905",
+    "nomDistrito": "TOMAY KICHWA",
+    "codProvincia": "88"
+  },
+  {
+    "codDistrito": "906",
+    "nomDistrito": "LA UNION",
+    "codProvincia": "89"
+  },
+  {
+    "codDistrito": "907",
+    "nomDistrito": "CHUQUIS",
+    "codProvincia": "89"
+  },
+  {
+    "codDistrito": "908",
+    "nomDistrito": "MARIAS",
+    "codProvincia": "89"
+  },
+  {
+    "codDistrito": "909",
+    "nomDistrito": "PACHAS",
+    "codProvincia": "89"
+  },
+  {
+    "codDistrito": "91",
+    "nomDistrito": "OLLEROS",
+    "codProvincia": "8"
+  },
+  {
+    "codDistrito": "910",
+    "nomDistrito": "QUIVILLA",
+    "codProvincia": "89"
+  },
+  {
+    "codDistrito": "911",
+    "nomDistrito": "RIPAN",
+    "codProvincia": "89"
+  },
+  {
+    "codDistrito": "912",
+    "nomDistrito": "SHUNQUI",
+    "codProvincia": "89"
+  },
+  {
+    "codDistrito": "913",
+    "nomDistrito": "SILLAPATA",
+    "codProvincia": "89"
+  },
+  {
+    "codDistrito": "914",
+    "nomDistrito": "YANAS",
+    "codProvincia": "89"
+  },
+  {
+    "codDistrito": "915",
+    "nomDistrito": "HUACAYBAMBA",
+    "codProvincia": "90"
+  },
+  {
+    "codDistrito": "916",
+    "nomDistrito": "CANCHABAMBA",
+    "codProvincia": "90"
+  },
+  {
+    "codDistrito": "917",
+    "nomDistrito": "COCHABAMBA",
+    "codProvincia": "90"
+  },
+  {
+    "codDistrito": "918",
+    "nomDistrito": "PINRA",
+    "codProvincia": "90"
+  },
+  {
+    "codDistrito": "919",
+    "nomDistrito": "LLATA",
+    "codProvincia": "91"
+  },
+  {
+    "codDistrito": "92",
+    "nomDistrito": "PAMPAS",
+    "codProvincia": "8"
+  },
+  {
+    "codDistrito": "920",
+    "nomDistrito": "ARANCAY",
+    "codProvincia": "91"
+  },
+  {
+    "codDistrito": "921",
+    "nomDistrito": "CHAVIN DE PARIARCA",
+    "codProvincia": "91"
+  },
+  {
+    "codDistrito": "922",
+    "nomDistrito": "JACAS GRANDE",
+    "codProvincia": "91"
+  },
+  {
+    "codDistrito": "923",
+    "nomDistrito": "JIRCAN",
+    "codProvincia": "91"
+  },
+  {
+    "codDistrito": "924",
+    "nomDistrito": "MIRAFLORES",
+    "codProvincia": "91"
+  },
+  {
+    "codDistrito": "925",
+    "nomDistrito": "MONZON",
+    "codProvincia": "91"
+  },
+  {
+    "codDistrito": "926",
+    "nomDistrito": "PUNCHAO",
+    "codProvincia": "91"
+  },
+  {
+    "codDistrito": "927",
+    "nomDistrito": "PUÃ?OS",
+    "codProvincia": "91"
+  },
+  {
+    "codDistrito": "928",
+    "nomDistrito": "SINGA",
+    "codProvincia": "91"
+  },
+  {
+    "codDistrito": "929",
+    "nomDistrito": "TANTAMAYO",
+    "codProvincia": "91"
+  },
+  {
+    "codDistrito": "93",
+    "nomDistrito": "PARIACOTO",
+    "codProvincia": "8"
+  },
+  {
+    "codDistrito": "930",
+    "nomDistrito": "RUPA-RUPA",
+    "codProvincia": "92"
+  },
+  {
+    "codDistrito": "931",
+    "nomDistrito": "DANIEL ALOMIA ROBLES",
+    "codProvincia": "92"
+  },
+  {
+    "codDistrito": "932",
+    "nomDistrito": "HERMILIO VALDIZAN",
+    "codProvincia": "92"
+  },
+  {
+    "codDistrito": "933",
+    "nomDistrito": "JOSE CRESPO Y CASTILLO",
+    "codProvincia": "92"
+  },
+  {
+    "codDistrito": "934",
+    "nomDistrito": "LUYANDO",
+    "codProvincia": "92"
+  },
+  {
+    "codDistrito": "935",
+    "nomDistrito": "MARIANO DAMASO BERAUN",
+    "codProvincia": "92"
+  },
+  {
+    "codDistrito": "936",
+    "nomDistrito": "HUACRACHUCO",
+    "codProvincia": "93"
+  },
+  {
+    "codDistrito": "937",
+    "nomDistrito": "CHOLON",
+    "codProvincia": "93"
+  },
+  {
+    "codDistrito": "938",
+    "nomDistrito": "SAN BUENAVENTURA",
+    "codProvincia": "93"
+  },
+  {
+    "codDistrito": "939",
+    "nomDistrito": "PANAO",
+    "codProvincia": "94"
+  },
+  {
+    "codDistrito": "94",
+    "nomDistrito": "PIRA",
+    "codProvincia": "8"
+  },
+  {
+    "codDistrito": "940",
+    "nomDistrito": "CHAGLLA",
+    "codProvincia": "94"
+  },
+  {
+    "codDistrito": "941",
+    "nomDistrito": "MOLINO",
+    "codProvincia": "94"
+  },
+  {
+    "codDistrito": "942",
+    "nomDistrito": "UMARI",
+    "codProvincia": "94"
+  },
+  {
+    "codDistrito": "943",
+    "nomDistrito": "PUERTO INCA",
+    "codProvincia": "95"
+  },
+  {
+    "codDistrito": "944",
+    "nomDistrito": "CODO DEL POZUZO",
+    "codProvincia": "95"
+  },
+  {
+    "codDistrito": "945",
+    "nomDistrito": "HONORIA",
+    "codProvincia": "95"
+  },
+  {
+    "codDistrito": "946",
+    "nomDistrito": "TOURNAVISTA",
+    "codProvincia": "95"
+  },
+  {
+    "codDistrito": "947",
+    "nomDistrito": "YUYAPICHIS",
+    "codProvincia": "95"
+  },
+  {
+    "codDistrito": "948",
+    "nomDistrito": "JESUS",
+    "codProvincia": "96"
+  },
+  {
+    "codDistrito": "949",
+    "nomDistrito": "BAÃ?OS",
+    "codProvincia": "96"
+  },
+  {
+    "codDistrito": "95",
+    "nomDistrito": "TARICA",
+    "codProvincia": "8"
+  },
+  {
+    "codDistrito": "950",
+    "nomDistrito": "JIVIA",
+    "codProvincia": "96"
+  },
+  {
+    "codDistrito": "951",
+    "nomDistrito": "QUEROPALCA",
+    "codProvincia": "96"
+  },
+  {
+    "codDistrito": "952",
+    "nomDistrito": "RONDOS",
+    "codProvincia": "96"
+  },
+  {
+    "codDistrito": "953",
+    "nomDistrito": "SAN FRANCISCO DE ASIS",
+    "codProvincia": "96"
+  },
+  {
+    "codDistrito": "954",
+    "nomDistrito": "SAN MIGUEL DE CAURI",
+    "codProvincia": "96"
+  },
+  {
+    "codDistrito": "955",
+    "nomDistrito": "CHAVINILLO",
+    "codProvincia": "97"
+  },
+  {
+    "codDistrito": "956",
+    "nomDistrito": "CAHUAC",
+    "codProvincia": "97"
+  },
+  {
+    "codDistrito": "957",
+    "nomDistrito": "CHACABAMBA",
+    "codProvincia": "97"
+  },
+  {
+    "codDistrito": "958",
+    "nomDistrito": "APARICIO POMARES",
+    "codProvincia": "97"
+  },
+  {
+    "codDistrito": "959",
+    "nomDistrito": "JACAS CHICO",
+    "codProvincia": "97"
+  },
+  {
+    "codDistrito": "96",
+    "nomDistrito": "AIJA",
+    "codProvincia": "9"
+  },
+  {
+    "codDistrito": "960",
+    "nomDistrito": "OBAS",
+    "codProvincia": "97"
+  },
+  {
+    "codDistrito": "961",
+    "nomDistrito": "PAMPAMARCA",
+    "codProvincia": "97"
+  },
+  {
+    "codDistrito": "962",
+    "nomDistrito": "CHORAS",
+    "codProvincia": "97"
+  },
+  {
+    "codDistrito": "963",
+    "nomDistrito": "ICA",
+    "codProvincia": "98"
+  },
+  {
+    "codDistrito": "964",
+    "nomDistrito": "LA TINGUIÃ?A",
+    "codProvincia": "98"
+  },
+  {
+    "codDistrito": "965",
+    "nomDistrito": "LOS AQUIJES",
+    "codProvincia": "98"
+  },
+  {
+    "codDistrito": "966",
+    "nomDistrito": "OCUCAJE",
+    "codProvincia": "98"
+  },
+  {
+    "codDistrito": "967",
+    "nomDistrito": "PACHACUTEC",
+    "codProvincia": "98"
+  },
+  {
+    "codDistrito": "968",
+    "nomDistrito": "PARCONA",
+    "codProvincia": "98"
+  },
+  {
+    "codDistrito": "969",
+    "nomDistrito": "PUEBLO NUEVO",
+    "codProvincia": "98"
+  },
+  {
+    "codDistrito": "97",
+    "nomDistrito": "CORIS",
+    "codProvincia": "9"
+  },
+  {
+    "codDistrito": "970",
+    "nomDistrito": "SALAS",
+    "codProvincia": "98"
+  },
+  {
+    "codDistrito": "971",
+    "nomDistrito": "SAN JOSE DE LOS MOLINOS",
+    "codProvincia": "98"
+  },
+  {
+    "codDistrito": "972",
+    "nomDistrito": "SAN JUAN BAUTISTA",
+    "codProvincia": "98"
+  },
+  {
+    "codDistrito": "973",
+    "nomDistrito": "SANTIAGO",
+    "codProvincia": "98"
+  },
+  {
+    "codDistrito": "974",
+    "nomDistrito": "SUBTANJALLA",
+    "codProvincia": "98"
+  },
+  {
+    "codDistrito": "975",
+    "nomDistrito": "TATE",
+    "codProvincia": "98"
+  },
+  {
+    "codDistrito": "976",
+    "nomDistrito": "YAUCA DEL ROSARIO",
+    "codProvincia": "98"
+  },
+  {
+    "codDistrito": "977",
+    "nomDistrito": "CHINCHA ALTA",
+    "codProvincia": "99"
+  },
+  {
+    "codDistrito": "978",
+    "nomDistrito": "ALTO LARAN",
+    "codProvincia": "99"
+  },
+  {
+    "codDistrito": "979",
+    "nomDistrito": "CHAVIN",
+    "codProvincia": "99"
+  },
+  {
+    "codDistrito": "98",
+    "nomDistrito": "HUACLLAN",
+    "codProvincia": "9"
+  },
+  {
+    "codDistrito": "980",
+    "nomDistrito": "CHINCHA BAJA",
+    "codProvincia": "99"
+  },
+  {
+    "codDistrito": "981",
+    "nomDistrito": "EL CARMEN",
+    "codProvincia": "99"
+  },
+  {
+    "codDistrito": "982",
+    "nomDistrito": "GROCIO PRADO",
+    "codProvincia": "99"
+  },
+  {
+    "codDistrito": "983",
+    "nomDistrito": "PUEBLO NUEVO",
+    "codProvincia": "99"
+  },
+  {
+    "codDistrito": "984",
+    "nomDistrito": "SAN JUAN DE YANAC",
+    "codProvincia": "99"
+  },
+  {
+    "codDistrito": "985",
+    "nomDistrito": "SAN PEDRO DE HUACARPANA",
+    "codProvincia": "99"
+  },
+  {
+    "codDistrito": "986",
+    "nomDistrito": "SUNAMPE",
+    "codProvincia": "99"
+  },
+  {
+    "codDistrito": "987",
+    "nomDistrito": "TAMBO DE MORA",
+    "codProvincia": "99"
+  },
+  {
+    "codDistrito": "988",
+    "nomDistrito": "NAZCA",
+    "codProvincia": "100"
+  },
+  {
+    "codDistrito": "989",
+    "nomDistrito": "CHANGUILLO",
+    "codProvincia": "100"
+  },
+  {
+    "codDistrito": "99",
+    "nomDistrito": "LA MERCED",
+    "codProvincia": "9"
+  },
+  {
+    "codDistrito": "990",
+    "nomDistrito": "EL INGENIO",
+    "codProvincia": "100"
+  },
+  {
+    "codDistrito": "991",
+    "nomDistrito": "MARCONA",
+    "codProvincia": "100"
+  },
+  {
+    "codDistrito": "992",
+    "nomDistrito": "VISTA ALEGRE",
+    "codProvincia": "100"
+  },
+  {
+    "codDistrito": "993",
+    "nomDistrito": "PALPA",
+    "codProvincia": "101"
+  },
+  {
+    "codDistrito": "994",
+    "nomDistrito": "LLIPATA",
+    "codProvincia": "101"
+  },
+  {
+    "codDistrito": "995",
+    "nomDistrito": "RIO GRANDE",
+    "codProvincia": "101"
+  },
+  {
+    "codDistrito": "996",
+    "nomDistrito": "SANTA CRUZ",
+    "codProvincia": "101"
+  },
+  {
+    "codDistrito": "997",
+    "nomDistrito": "TIBILLO",
+    "codProvincia": "101"
+  },
+  {
+    "codDistrito": "998",
+    "nomDistrito": "PISCO",
+    "codProvincia": "102"
+  },
+  {
+    "codDistrito": "999",
+    "nomDistrito": "HUANCANO",
+    "codProvincia": "102"
+  }
+]

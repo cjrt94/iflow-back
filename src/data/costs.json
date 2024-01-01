@@ -1,0 +1,158 @@
+[
+  {
+    "id": 50101,
+    "value": "ADMINISTRACION"
+  },
+  {
+    "id": 50201,
+    "value": "GERENCIA"
+  },
+  {
+    "id": 50202,
+    "value": "GERENCIA DE FINANZAS"
+  },
+  {
+    "id": 50203,
+    "value": "GERENCIA DE RECURSOS HUMANOS"
+  },
+  {
+    "id": 50204,
+    "value": "SRA.MERCEDES EVANGELISTA VILLAVICENCIO"
+  },
+  {
+    "id": 50301,
+    "value": "AREA CONTABLE"
+  },
+  {
+    "id": 50401,
+    "value": "AREA DE SISTEMAS"
+  },
+  {
+    "id": 50601,
+    "value": "Legal"
+  },
+  {
+    "id": 50701,
+    "value": "Comercio Exterior (Importacion)"
+  },
+  {
+    "id": 50801,
+    "value": "AREA DE PROYECTOS Y MANTENIMIENTOS"
+  },
+  {
+    "id": 50901,
+    "value": "AREA DE LOGISTICA"
+  },
+  {
+    "id": 50902,
+    "value": "LOGISTICA (DISTRIBUCIONES)"
+  },
+  {
+    "id": 51101,
+    "value": "TESORERIA (CAJA)"
+  },
+  {
+    "id": 51201,
+    "value": "INVENTARIOS"
+  },
+  {
+    "id": 51202,
+    "value": "ALMACEN CENTRAL"
+  },
+  {
+    "id": 51203,
+    "value": "ALMACEN TDA.461"
+  },
+  {
+    "id": 51204,
+    "value": "ALMACEN TDA.447"
+  },
+  {
+    "id": 51205,
+    "value": "ALMACEN TDA.451"
+  },
+  {
+    "id": 51206,
+    "value": "ALMACEN TDA.154"
+  },
+  {
+    "id": 51207,
+    "value": "ALMACEN TDA.1004"
+  },
+  {
+    "id": 60001,
+    "value": "JEFATURA DE VENTAS"
+  },
+  {
+    "id": 60002,
+    "value": "T1 VIALEX - DIEZ CANSECO 154 - MIRAFLORES"
+  },
+  {
+    "id": 60003,
+    "value": "T2 VIALEX - CUZCO 451 - CERCADO DE LIMA"
+  },
+  {
+    "id": 60004,
+    "value": "T3 VIALEX - CUZCO 447 - CERCADO DE LIMA"
+  },
+  {
+    "id": 60005,
+    "value": "T4 VIALEX - CUZCO 461 - CERCADO DE LIMA"
+  },
+  {
+    "id": 60006,
+    "value": "T5 VIALEX - ABANCAY 1004 - CERCADO DE LIMA"
+  },
+  {
+    "id": 60007,
+    "value": "VENTAS LINIO"
+  },
+  {
+    "id": 60008,
+    "value": "VENTAS VENDE MAS"
+  },
+  {
+    "id": 60009,
+    "value": "VENTAS NIUBIZ"
+  },
+  {
+    "id": 60101,
+    "value": "COMERCIALIZACION"
+  },
+  {
+    "id": 60201,
+    "value": "JEFE DE DISEÑO"
+  },
+  {
+    "id": 60301,
+    "value": "Ventas al Exterior (Exportación)"
+  },
+  {
+    "id": 60401,
+    "value": "Comercio Exterior (Exportacion-Comisiones)"
+  },
+  {
+    "id": 60402,
+    "value": "Comercio Exterior(Drawback - Asesoria)"
+  },
+  {
+    "id": 60501,
+    "value": "PUBLICIDAD Y MARKETING"
+  },
+  {
+    "id": 70101,
+    "value": "GASTOS FINANCIEROS AJUSTE T.C."
+  },
+  {
+    "id": 70102,
+    "value": "GASTOS FINANCIEROS"
+  },
+  {
+    "id": 70103,
+    "value": "VENTAS CON TARJETA (VISA-PROCESOS-DINERS)"
+  },
+  {
+    "id": 70104,
+    "value": "SUNAT - SAT - MUNICIPALIDAD"
+  }
+]

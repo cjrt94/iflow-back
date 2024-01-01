@@ -1,0 +1,967 @@
+[
+	{
+		"codProvincia" : "1",
+		"nomProvincia" : "CHACHAPOYAS",
+		"codDepartamento" : "1"
+	},
+	{
+		"codProvincia" : "10",
+		"nomProvincia" : "ANTONIO RAYMONDI",
+		"codDepartamento" : "2"
+	},
+	{
+		"codProvincia" : "100",
+		"nomProvincia" : "NAZCA",
+		"codDepartamento" : "11"
+	},
+	{
+		"codProvincia" : "101",
+		"nomProvincia" : "PALPA",
+		"codDepartamento" : "11"
+	},
+	{
+		"codProvincia" : "102",
+		"nomProvincia" : "PISCO",
+		"codDepartamento" : "11"
+	},
+	{
+		"codProvincia" : "103",
+		"nomProvincia" : "HUANCAYO",
+		"codDepartamento" : "12"
+	},
+	{
+		"codProvincia" : "104",
+		"nomProvincia" : "CONCEPCION",
+		"codDepartamento" : "12"
+	},
+	{
+		"codProvincia" : "105",
+		"nomProvincia" : "CHANCHAMAYO",
+		"codDepartamento" : "12"
+	},
+	{
+		"codProvincia" : "106",
+		"nomProvincia" : "JAUJA",
+		"codDepartamento" : "12"
+	},
+	{
+		"codProvincia" : "107",
+		"nomProvincia" : "JUNIN",
+		"codDepartamento" : "12"
+	},
+	{
+		"codProvincia" : "108",
+		"nomProvincia" : "SATIPO",
+		"codDepartamento" : "12"
+	},
+	{
+		"codProvincia" : "109",
+		"nomProvincia" : "TARMA",
+		"codDepartamento" : "12"
+	},
+	{
+		"codProvincia" : "11",
+		"nomProvincia" : "ASUNCION",
+		"codDepartamento" : "2"
+	},
+	{
+		"codProvincia" : "110",
+		"nomProvincia" : "YAULI",
+		"codDepartamento" : "12"
+	},
+	{
+		"codProvincia" : "111",
+		"nomProvincia" : "CHUPACA",
+		"codDepartamento" : "12"
+	},
+	{
+		"codProvincia" : "112",
+		"nomProvincia" : "TRUJILLO",
+		"codDepartamento" : "13"
+	},
+	{
+		"codProvincia" : "113",
+		"nomProvincia" : "ASCOPE",
+		"codDepartamento" : "13"
+	},
+	{
+		"codProvincia" : "114",
+		"nomProvincia" : "BOLIVAR",
+		"codDepartamento" : "13"
+	},
+	{
+		"codProvincia" : "115",
+		"nomProvincia" : "CHEPEN",
+		"codDepartamento" : "13"
+	},
+	{
+		"codProvincia" : "116",
+		"nomProvincia" : "JULCAN",
+		"codDepartamento" : "13"
+	},
+	{
+		"codProvincia" : "117",
+		"nomProvincia" : "OTUZCO",
+		"codDepartamento" : "13"
+	},
+	{
+		"codProvincia" : "118",
+		"nomProvincia" : "PACASMAYO",
+		"codDepartamento" : "13"
+	},
+	{
+		"codProvincia" : "119",
+		"nomProvincia" : "PATAZ",
+		"codDepartamento" : "13"
+	},
+	{
+		"codProvincia" : "12",
+		"nomProvincia" : "BOLOGNESI",
+		"codDepartamento" : "2"
+	},
+	{
+		"codProvincia" : "120",
+		"nomProvincia" : "SANCHEZ CARRION",
+		"codDepartamento" : "13"
+	},
+	{
+		"codProvincia" : "121",
+		"nomProvincia" : "SANTIAGO DE CHUCO",
+		"codDepartamento" : "13"
+	},
+	{
+		"codProvincia" : "122",
+		"nomProvincia" : "GRAN CHIMU",
+		"codDepartamento" : "13"
+	},
+	{
+		"codProvincia" : "123",
+		"nomProvincia" : "VIRU",
+		"codDepartamento" : "13"
+	},
+	{
+		"codProvincia" : "124",
+		"nomProvincia" : "CHICLAYO",
+		"codDepartamento" : "14"
+	},
+	{
+		"codProvincia" : "125",
+		"nomProvincia" : "FERREÑAFE",
+		"codDepartamento" : "14"
+	},
+	{
+		"codProvincia" : "126",
+		"nomProvincia" : "LAMBAYEQUE",
+		"codDepartamento" : "14"
+	},
+	{
+		"codProvincia" : "127",
+		"nomProvincia" : "LIMA",
+		"codDepartamento" : "15"
+	},
+	{
+		"codProvincia" : "128",
+		"nomProvincia" : "BARRANCA",
+		"codDepartamento" : "15"
+	},
+	{
+		"codProvincia" : "129",
+		"nomProvincia" : "CAJATAMBO",
+		"codDepartamento" : "15"
+	},
+	{
+		"codProvincia" : "13",
+		"nomProvincia" : "CARHUAZ",
+		"codDepartamento" : "2"
+	},
+	{
+		"codProvincia" : "130",
+		"nomProvincia" : "CANTA",
+		"codDepartamento" : "15"
+	},
+	{
+		"codProvincia" : "131",
+		"nomProvincia" : "CAÑETE",
+		"codDepartamento" : "15"
+	},
+	{
+		"codProvincia" : "132",
+		"nomProvincia" : "HUARAL",
+		"codDepartamento" : "15"
+	},
+	{
+		"codProvincia" : "133",
+		"nomProvincia" : "HUAROCHIRI",
+		"codDepartamento" : "15"
+	},
+	{
+		"codProvincia" : "134",
+		"nomProvincia" : "HUAURA",
+		"codDepartamento" : "15"
+	},
+	{
+		"codProvincia" : "135",
+		"nomProvincia" : "OYON",
+		"codDepartamento" : "15"
+	},
+	{
+		"codProvincia" : "136",
+		"nomProvincia" : "YAUYOS",
+		"codDepartamento" : "15"
+	},
+	{
+		"codProvincia" : "137",
+		"nomProvincia" : "MAYNAS",
+		"codDepartamento" : "16"
+	},
+	{
+		"codProvincia" : "138",
+		"nomProvincia" : "ALTO AMAZONAS",
+		"codDepartamento" : "16"
+	},
+	{
+		"codProvincia" : "139",
+		"nomProvincia" : "LORETO",
+		"codDepartamento" : "16"
+	},
+	{
+		"codProvincia" : "14",
+		"nomProvincia" : "CARLOS FERMIN FITZCARRALD",
+		"codDepartamento" : "2"
+	},
+	{
+		"codProvincia" : "140",
+		"nomProvincia" : "MARISCAL RAMON CASTILLA",
+		"codDepartamento" : "16"
+	},
+	{
+		"codProvincia" : "141",
+		"nomProvincia" : "REQUENA",
+		"codDepartamento" : "16"
+	},
+	{
+		"codProvincia" : "142",
+		"nomProvincia" : "UCAYALI",
+		"codDepartamento" : "16"
+	},
+	{
+		"codProvincia" : "143",
+		"nomProvincia" : "TAMBOPATA",
+		"codDepartamento" : "17"
+	},
+	{
+		"codProvincia" : "144",
+		"nomProvincia" : "MANU",
+		"codDepartamento" : "17"
+	},
+	{
+		"codProvincia" : "145",
+		"nomProvincia" : "TAHUAMANU",
+		"codDepartamento" : "17"
+	},
+	{
+		"codProvincia" : "146",
+		"nomProvincia" : "MARISCAL NIETO",
+		"codDepartamento" : "18"
+	},
+	{
+		"codProvincia" : "147",
+		"nomProvincia" : "GENERAL SANCHEZ CERRO",
+		"codDepartamento" : "18"
+	},
+	{
+		"codProvincia" : "148",
+		"nomProvincia" : "ILO",
+		"codDepartamento" : "18"
+	},
+	{
+		"codProvincia" : "149",
+		"nomProvincia" : "PASCO",
+		"codDepartamento" : "19"
+	},
+	{
+		"codProvincia" : "15",
+		"nomProvincia" : "CASMA",
+		"codDepartamento" : "2"
+	},
+	{
+		"codProvincia" : "150",
+		"nomProvincia" : "DANIEL ALCIDES CARRION",
+		"codDepartamento" : "19"
+	},
+	{
+		"codProvincia" : "151",
+		"nomProvincia" : "OXAPAMPA",
+		"codDepartamento" : "19"
+	},
+	{
+		"codProvincia" : "152",
+		"nomProvincia" : "PIURA",
+		"codDepartamento" : "20"
+	},
+	{
+		"codProvincia" : "153",
+		"nomProvincia" : "AYABACA",
+		"codDepartamento" : "20"
+	},
+	{
+		"codProvincia" : "154",
+		"nomProvincia" : "HUANCABAMBA",
+		"codDepartamento" : "20"
+	},
+	{
+		"codProvincia" : "155",
+		"nomProvincia" : "MORROPON",
+		"codDepartamento" : "20"
+	},
+	{
+		"codProvincia" : "156",
+		"nomProvincia" : "PAITA",
+		"codDepartamento" : "20"
+	},
+	{
+		"codProvincia" : "157",
+		"nomProvincia" : "SULLANA",
+		"codDepartamento" : "20"
+	},
+	{
+		"codProvincia" : "158",
+		"nomProvincia" : "TALARA",
+		"codDepartamento" : "20"
+	},
+	{
+		"codProvincia" : "159",
+		"nomProvincia" : "SECHURA",
+		"codDepartamento" : "20"
+	},
+	{
+		"codProvincia" : "16",
+		"nomProvincia" : "CORONGO",
+		"codDepartamento" : "2"
+	},
+	{
+		"codProvincia" : "160",
+		"nomProvincia" : "PUNO",
+		"codDepartamento" : "21"
+	},
+	{
+		"codProvincia" : "161",
+		"nomProvincia" : "AZANGARO",
+		"codDepartamento" : "21"
+	},
+	{
+		"codProvincia" : "162",
+		"nomProvincia" : "CARABAYA",
+		"codDepartamento" : "21"
+	},
+	{
+		"codProvincia" : "163",
+		"nomProvincia" : "CHUCUITO",
+		"codDepartamento" : "21"
+	},
+	{
+		"codProvincia" : "164",
+		"nomProvincia" : "EL COLLAO",
+		"codDepartamento" : "21"
+	},
+	{
+		"codProvincia" : "165",
+		"nomProvincia" : "HUANCANE",
+		"codDepartamento" : "21"
+	},
+	{
+		"codProvincia" : "166",
+		"nomProvincia" : "LAMPA",
+		"codDepartamento" : "21"
+	},
+	{
+		"codProvincia" : "167",
+		"nomProvincia" : "MELGAR",
+		"codDepartamento" : "21"
+	},
+	{
+		"codProvincia" : "168",
+		"nomProvincia" : "MOHO",
+		"codDepartamento" : "21"
+	},
+	{
+		"codProvincia" : "169",
+		"nomProvincia" : "SAN ANTONIO DE PUTINA",
+		"codDepartamento" : "21"
+	},
+	{
+		"codProvincia" : "17",
+		"nomProvincia" : "HUARI",
+		"codDepartamento" : "2"
+	},
+	{
+		"codProvincia" : "170",
+		"nomProvincia" : "SAN ROMAN",
+		"codDepartamento" : "21"
+	},
+	{
+		"codProvincia" : "171",
+		"nomProvincia" : "SANDIA",
+		"codDepartamento" : "21"
+	},
+	{
+		"codProvincia" : "172",
+		"nomProvincia" : "YUNGUYO",
+		"codDepartamento" : "21"
+	},
+	{
+		"codProvincia" : "173",
+		"nomProvincia" : "MOYOBAMBA",
+		"codDepartamento" : "22"
+	},
+	{
+		"codProvincia" : "174",
+		"nomProvincia" : "BELLAVISTA",
+		"codDepartamento" : "22"
+	},
+	{
+		"codProvincia" : "175",
+		"nomProvincia" : "EL DORADO",
+		"codDepartamento" : "22"
+	},
+	{
+		"codProvincia" : "176",
+		"nomProvincia" : "HUALLAGA",
+		"codDepartamento" : "22"
+	},
+	{
+		"codProvincia" : "177",
+		"nomProvincia" : "LAMAS",
+		"codDepartamento" : "22"
+	},
+	{
+		"codProvincia" : "178",
+		"nomProvincia" : "MARISCAL CACERES",
+		"codDepartamento" : "22"
+	},
+	{
+		"codProvincia" : "179",
+		"nomProvincia" : "PICOTA",
+		"codDepartamento" : "22"
+	},
+	{
+		"codProvincia" : "18",
+		"nomProvincia" : "HUARMEY",
+		"codDepartamento" : "2"
+	},
+	{
+		"codProvincia" : "180",
+		"nomProvincia" : "RIOJA",
+		"codDepartamento" : "22"
+	},
+	{
+		"codProvincia" : "181",
+		"nomProvincia" : "SAN MARTIN",
+		"codDepartamento" : "22"
+	},
+	{
+		"codProvincia" : "182",
+		"nomProvincia" : "TOCACHE",
+		"codDepartamento" : "22"
+	},
+	{
+		"codProvincia" : "183",
+		"nomProvincia" : "TACNA",
+		"codDepartamento" : "23"
+	},
+	{
+		"codProvincia" : "184",
+		"nomProvincia" : "CANDARAVE",
+		"codDepartamento" : "23"
+	},
+	{
+		"codProvincia" : "185",
+		"nomProvincia" : "JORGE BASADRE",
+		"codDepartamento" : "23"
+	},
+	{
+		"codProvincia" : "186",
+		"nomProvincia" : "TARATA",
+		"codDepartamento" : "23"
+	},
+	{
+		"codProvincia" : "187",
+		"nomProvincia" : "TUMBES",
+		"codDepartamento" : "24"
+	},
+	{
+		"codProvincia" : "188",
+		"nomProvincia" : "CONTRALMIRANTE VILLAR",
+		"codDepartamento" : "24"
+	},
+	{
+		"codProvincia" : "189",
+		"nomProvincia" : "ZARUMILLA",
+		"codDepartamento" : "24"
+	},
+	{
+		"codProvincia" : "19",
+		"nomProvincia" : "HUAYLAS",
+		"codDepartamento" : "2"
+	},
+	{
+		"codProvincia" : "190",
+		"nomProvincia" : "CORONEL PORTILLO",
+		"codDepartamento" : "25"
+	},
+	{
+		"codProvincia" : "191",
+		"nomProvincia" : "ATALAYA",
+		"codDepartamento" : "25"
+	},
+	{
+		"codProvincia" : "192",
+		"nomProvincia" : "PADRE ABAD",
+		"codDepartamento" : "25"
+	},
+	{
+		"codProvincia" : "193",
+		"nomProvincia" : "PURUS",
+		"codDepartamento" : "25"
+	},
+	{
+		"codProvincia" : "2",
+		"nomProvincia" : "BAGUA",
+		"codDepartamento" : "1"
+	},
+	{
+		"codProvincia" : "20",
+		"nomProvincia" : "MARISCAL LUZURIAGA",
+		"codDepartamento" : "2"
+	},
+	{
+		"codProvincia" : "21",
+		"nomProvincia" : "OCROS",
+		"codDepartamento" : "2"
+	},
+	{
+		"codProvincia" : "22",
+		"nomProvincia" : "PALLASCA",
+		"codDepartamento" : "2"
+	},
+	{
+		"codProvincia" : "23",
+		"nomProvincia" : "POMABAMBA",
+		"codDepartamento" : "2"
+	},
+	{
+		"codProvincia" : "24",
+		"nomProvincia" : "RECUAY",
+		"codDepartamento" : "2"
+	},
+	{
+		"codProvincia" : "25",
+		"nomProvincia" : "SANTA",
+		"codDepartamento" : "2"
+	},
+	{
+		"codProvincia" : "26",
+		"nomProvincia" : "SIHUAS",
+		"codDepartamento" : "2"
+	},
+	{
+		"codProvincia" : "27",
+		"nomProvincia" : "YUNGAY",
+		"codDepartamento" : "2"
+	},
+	{
+		"codProvincia" : "28",
+		"nomProvincia" : "ABANCAY",
+		"codDepartamento" : "3"
+	},
+	{
+		"codProvincia" : "29",
+		"nomProvincia" : "ANDAHUAYLAS",
+		"codDepartamento" : "3"
+	},
+	{
+		"codProvincia" : "3",
+		"nomProvincia" : "BONGARA",
+		"codDepartamento" : "1"
+	},
+	{
+		"codProvincia" : "30",
+		"nomProvincia" : "ANTABAMBA",
+		"codDepartamento" : "3"
+	},
+	{
+		"codProvincia" : "31",
+		"nomProvincia" : "AYMARAES",
+		"codDepartamento" : "3"
+	},
+	{
+		"codProvincia" : "32",
+		"nomProvincia" : "COTABAMBAS",
+		"codDepartamento" : "3"
+	},
+	{
+		"codProvincia" : "33",
+		"nomProvincia" : "CHINCHEROS",
+		"codDepartamento" : "3"
+	},
+	{
+		"codProvincia" : "34",
+		"nomProvincia" : "GRAU",
+		"codDepartamento" : "3"
+	},
+	{
+		"codProvincia" : "35",
+		"nomProvincia" : "AREQUIPA",
+		"codDepartamento" : "4"
+	},
+	{
+		"codProvincia" : "36",
+		"nomProvincia" : "CAMANA",
+		"codDepartamento" : "4"
+	},
+	{
+		"codProvincia" : "37",
+		"nomProvincia" : "CARAVELI",
+		"codDepartamento" : "4"
+	},
+	{
+		"codProvincia" : "38",
+		"nomProvincia" : "CASTILLA",
+		"codDepartamento" : "4"
+	},
+	{
+		"codProvincia" : "39",
+		"nomProvincia" : "CAYLLOMA",
+		"codDepartamento" : "4"
+	},
+	{
+		"codProvincia" : "4",
+		"nomProvincia" : "CONDORCANQUI",
+		"codDepartamento" : "1"
+	},
+	{
+		"codProvincia" : "40",
+		"nomProvincia" : "CONDESUYOS",
+		"codDepartamento" : "4"
+	},
+	{
+		"codProvincia" : "41",
+		"nomProvincia" : "ISLAY",
+		"codDepartamento" : "4"
+	},
+	{
+		"codProvincia" : "42",
+		"nomProvincia" : "LA UNION",
+		"codDepartamento" : "4"
+	},
+	{
+		"codProvincia" : "43",
+		"nomProvincia" : "HUAMANGA",
+		"codDepartamento" : "5"
+	},
+	{
+		"codProvincia" : "44",
+		"nomProvincia" : "CANGALLO",
+		"codDepartamento" : "5"
+	},
+	{
+		"codProvincia" : "45",
+		"nomProvincia" : "HUANCA SANCOS",
+		"codDepartamento" : "5"
+	},
+	{
+		"codProvincia" : "46",
+		"nomProvincia" : "HUANTA",
+		"codDepartamento" : "5"
+	},
+	{
+		"codProvincia" : "47",
+		"nomProvincia" : "LA MAR",
+		"codDepartamento" : "5"
+	},
+	{
+		"codProvincia" : "48",
+		"nomProvincia" : "LUCANAS",
+		"codDepartamento" : "5"
+	},
+	{
+		"codProvincia" : "49",
+		"nomProvincia" : "PARINACOCHAS",
+		"codDepartamento" : "5"
+	},
+	{
+		"codProvincia" : "5",
+		"nomProvincia" : "LUYA",
+		"codDepartamento" : "1"
+	},
+	{
+		"codProvincia" : "50",
+		"nomProvincia" : "PAUCAR DEL SARA SARA",
+		"codDepartamento" : "5"
+	},
+	{
+		"codProvincia" : "51",
+		"nomProvincia" : "SUCRE",
+		"codDepartamento" : "5"
+	},
+	{
+		"codProvincia" : "52",
+		"nomProvincia" : "VICTOR FAJARDO",
+		"codDepartamento" : "5"
+	},
+	{
+		"codProvincia" : "53",
+		"nomProvincia" : "VILCAS HUAMAN",
+		"codDepartamento" : "5"
+	},
+	{
+		"codProvincia" : "54",
+		"nomProvincia" : "CAJAMARCA",
+		"codDepartamento" : "6"
+	},
+	{
+		"codProvincia" : "55",
+		"nomProvincia" : "CAJABAMBA",
+		"codDepartamento" : "6"
+	},
+	{
+		"codProvincia" : "56",
+		"nomProvincia" : "CELENDIN",
+		"codDepartamento" : "6"
+	},
+	{
+		"codProvincia" : "57",
+		"nomProvincia" : "CHOTA ",
+		"codDepartamento" : "6"
+	},
+	{
+		"codProvincia" : "58",
+		"nomProvincia" : "CONTUMAZA",
+		"codDepartamento" : "6"
+	},
+	{
+		"codProvincia" : "59",
+		"nomProvincia" : "CUTERVO",
+		"codDepartamento" : "6"
+	},
+	{
+		"codProvincia" : "6",
+		"nomProvincia" : "RODRIGUEZ DE MENDOZA",
+		"codDepartamento" : "1"
+	},
+	{
+		"codProvincia" : "60",
+		"nomProvincia" : "HUALGAYOC",
+		"codDepartamento" : "6"
+	},
+	{
+		"codProvincia" : "61",
+		"nomProvincia" : "JAEN",
+		"codDepartamento" : "6"
+	},
+	{
+		"codProvincia" : "62",
+		"nomProvincia" : "SAN IGNACIO",
+		"codDepartamento" : "6"
+	},
+	{
+		"codProvincia" : "63",
+		"nomProvincia" : "SAN MARCOS",
+		"codDepartamento" : "6"
+	},
+	{
+		"codProvincia" : "64",
+		"nomProvincia" : "SAN PABLO",
+		"codDepartamento" : "6"
+	},
+	{
+		"codProvincia" : "65",
+		"nomProvincia" : "SANTA CRUZ",
+		"codDepartamento" : "6"
+	},
+	{
+		"codProvincia" : "66",
+		"nomProvincia" : "CALLAO",
+		"codDepartamento" : "7"
+	},
+	{
+		"codProvincia" : "67",
+		"nomProvincia" : "CUSCO",
+		"codDepartamento" : "8"
+	},
+	{
+		"codProvincia" : "68",
+		"nomProvincia" : "ACOMAYO",
+		"codDepartamento" : "8"
+	},
+	{
+		"codProvincia" : "69",
+		"nomProvincia" : "ANTA",
+		"codDepartamento" : "8"
+	},
+	{
+		"codProvincia" : "7",
+		"nomProvincia" : "UTCUBAMBA",
+		"codDepartamento" : "1"
+	},
+	{
+		"codProvincia" : "70",
+		"nomProvincia" : "CALCA",
+		"codDepartamento" : "8"
+	},
+	{
+		"codProvincia" : "71",
+		"nomProvincia" : "CANAS",
+		"codDepartamento" : "8"
+	},
+	{
+		"codProvincia" : "72",
+		"nomProvincia" : "CANCHIS",
+		"codDepartamento" : "8"
+	},
+	{
+		"codProvincia" : "73",
+		"nomProvincia" : "CHUMBIVILCAS",
+		"codDepartamento" : "8"
+	},
+	{
+		"codProvincia" : "74",
+		"nomProvincia" : "ESPINAR",
+		"codDepartamento" : "8"
+	},
+	{
+		"codProvincia" : "75",
+		"nomProvincia" : "LA CONVENCION",
+		"codDepartamento" : "8"
+	},
+	{
+		"codProvincia" : "76",
+		"nomProvincia" : "PARURO",
+		"codDepartamento" : "8"
+	},
+	{
+		"codProvincia" : "77",
+		"nomProvincia" : "PAUCARTAMBO",
+		"codDepartamento" : "8"
+	},
+	{
+		"codProvincia" : "78",
+		"nomProvincia" : "QUISPICANCHI",
+		"codDepartamento" : "8"
+	},
+	{
+		"codProvincia" : "79",
+		"nomProvincia" : "URUBAMBA",
+		"codDepartamento" : "8"
+	},
+	{
+		"codProvincia" : "8",
+		"nomProvincia" : "HUARAZ",
+		"codDepartamento" : "2"
+	},
+	{
+		"codProvincia" : "80",
+		"nomProvincia" : "HUANCAVELICA",
+		"codDepartamento" : "9"
+	},
+	{
+		"codProvincia" : "81",
+		"nomProvincia" : "ACOBAMBA",
+		"codDepartamento" : "9"
+	},
+	{
+		"codProvincia" : "82",
+		"nomProvincia" : "ANGARAES",
+		"codDepartamento" : "9"
+	},
+	{
+		"codProvincia" : "83",
+		"nomProvincia" : "CASTROVIRREYNA",
+		"codDepartamento" : "9"
+	},
+	{
+		"codProvincia" : "84",
+		"nomProvincia" : "CHURCAMPA",
+		"codDepartamento" : "9"
+	},
+	{
+		"codProvincia" : "85",
+		"nomProvincia" : "HUAYTARA",
+		"codDepartamento" : "9"
+	},
+	{
+		"codProvincia" : "86",
+		"nomProvincia" : "TAYACAJA",
+		"codDepartamento" : "9"
+	},
+	{
+		"codProvincia" : "87",
+		"nomProvincia" : "HUANUCO",
+		"codDepartamento" : "10"
+	},
+	{
+		"codProvincia" : "88",
+		"nomProvincia" : "AMBO",
+		"codDepartamento" : "10"
+	},
+	{
+		"codProvincia" : "89",
+		"nomProvincia" : "DOS DE MAYO",
+		"codDepartamento" : "10"
+	},
+	{
+		"codProvincia" : "9",
+		"nomProvincia" : "AIJA",
+		"codDepartamento" : "2"
+	},
+	{
+		"codProvincia" : "90",
+		"nomProvincia" : "HUACAYBAMBA",
+		"codDepartamento" : "10"
+	},
+	{
+		"codProvincia" : "91",
+		"nomProvincia" : "HUAMALIES",
+		"codDepartamento" : "10"
+	},
+	{
+		"codProvincia" : "92",
+		"nomProvincia" : "LEONCIO PRADO",
+		"codDepartamento" : "10"
+	},
+	{
+		"codProvincia" : "93",
+		"nomProvincia" : "MARAÑON",
+		"codDepartamento" : "10"
+	},
+	{
+		"codProvincia" : "94",
+		"nomProvincia" : "PACHITEA",
+		"codDepartamento" : "10"
+	},
+	{
+		"codProvincia" : "95",
+		"nomProvincia" : "PUERTO INCA",
+		"codDepartamento" : "10"
+	},
+	{
+		"codProvincia" : "96",
+		"nomProvincia" : "LAURICOCHA",
+		"codDepartamento" : "10"
+	},
+	{
+		"codProvincia" : "97",
+		"nomProvincia" : "YAROWILCA",
+		"codDepartamento" : "10"
+	},
+	{
+		"codProvincia" : "98",
+		"nomProvincia" : "ICA",
+		"codDepartamento" : "11"
+	},
+	{
+		"codProvincia" : "99",
+		"nomProvincia" : "CHINCHA",
+		"codDepartamento" : "11"
+	}
+]

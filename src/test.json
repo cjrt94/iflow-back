@@ -1,0 +1,44 @@
+{
+  "operacion": "generar_guia",
+  "tipo_de_comprobante": 7,
+  "serie": "TTT1",
+  "numero": 4709,
+  "cliente_tipo_de_documento": 6,
+  "cliente_numero_de_documento": 20451871286,
+  "cliente_denominacion": "NATUCULTURA S.A",
+  "cliente_direccion": "Av. Alfredo Benavides Nro. 414 Dpto. 501",
+  "cliente_email": "comercial1@anglidata.com",
+  "cliente_email_1": "",
+  "cliente_email_2": "",
+  "fecha_de_emision": "29-11-2022",
+  "observaciones": "",
+  "motivo_de_traslado": "13",
+  "peso_bruto_total": 0,
+  "numero_de_bultos": 0,
+  "tipo_de_transporte": "02",
+  "fecha_de_inicio_de_traslado": "29-11-2022",
+  "transportista_documento_tipo": 6,
+  "transportista_documento_numero": "20341031517",
+  "transportista_denominacion": " AngliData Express EIRL",
+  "transportista_placa_numero": "C6K-758",
+  "conductor_documento_tipo": 1,
+  "conductor_documento_numero": "07206633",
+  "conductor_denominacion": "Alberto Puerta",
+  "punto_de_partida_ubigeo": "150141",
+  "punto_de_partida_direccion": "CAL. PEREZ ARANIBAR NRO. 134 INT. 303",
+  "punto_de_llegada_ubigeo": "200404",
+  "punto_de_llegada_direccion": "AV. CANAL VÍA SANCHEZ CARRIÓN NRO. S/N (POR COLEGIO SAN AGUSTÍN DE LA MATANZA)",
+  "enviar_automaticamente_a_la_sunat": true,
+  "enviar_automaticamente_al_cliente": true,
+  "codigo_unico": "",
+  "formato_de_pdf": "",
+  "items": [
+    {
+      "unidad_de_medida": "NIU",
+      "codigo": "PEPW0069180M",
+      "descripcion": "CABLE DE PODER PARA PC\\n NS: -",
+      "cantidad": 1
+    }
+  ]
+}
+

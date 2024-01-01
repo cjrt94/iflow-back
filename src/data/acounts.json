@@ -1,0 +1,794 @@
+[
+  {
+    "id": 1811101,
+    "value": "Costos financieros - Corto plazo MN PEN"
+  },
+  {
+    "id": 1811102,
+    "value": "Costos financieros - Mediano plazo MN PEN"
+  },
+  {
+    "id": 1811103,
+    "value": "Costos financieros - Largo plazo MN PEN"
+  },
+  {
+    "id": 1811201,
+    "value": "Costos financieros - Corto plazo  ME USD"
+  },
+  {
+    "id": 1811202,
+    "value": "Costos financieros - Mediano plazo  ME USD"
+  },
+  {
+    "id": 1811203,
+    "value": "Costos financieros - Largo plazo ME USD"
+  },
+  {
+    "id": 1821101,
+    "value": "Seguros - Pagados por adelantado MN PEN"
+  },
+  {
+    "id": 1821201,
+    "value": "Seguros - Pagados por adelantado ME USD"
+  },
+  {
+    "id": 1831101,
+    "value": "Alquileres - Pagados por adelantado inmuebles MN PEN"
+  },
+  {
+    "id": 1831102,
+    "value": "Alquileres - Pagados por adelantado maquinaria y equipo MN PEN"
+  },
+  {
+    "id": 1831103,
+    "value": "Alquileres - Pagados por adelantado vehiculos MN PEN"
+  },
+  {
+    "id": 1831104,
+    "value": "Alquileres - Pagados por adelantado equipos diversos MN PEN"
+  },
+  {
+    "id": 1831109,
+    "value": "Alquileres - Pagados por adelantado - Otros MN PEN"
+  },
+  {
+    "id": 1831201,
+    "value": "Alquileres - Pagados por adelantado inmuebles ME USD"
+  },
+  {
+    "id": 1831202,
+    "value": "Alquileres - Pagados por adelantado maquinaria y equipo ME USD"
+  },
+  {
+    "id": 1831203,
+    "value": "Alquileres - Pagados por adelantado vehiculos ME USD"
+  },
+  {
+    "id": 1831204,
+    "value": "Alquileres - Pagados por adelantado equipos diversos ME USD"
+  },
+  {
+    "id": 1831209,
+    "value": "Alquileres - Pagados por adelantado - Otros ME USD"
+  },
+  {
+    "id": 1831301,
+    "value": "Alquileres pagados largo plazo MN PEN"
+  },
+  {
+    "id": 1831401,
+    "value": "Alquileres pagados largo plazo ME USD"
+  },
+  {
+    "id": 1841101,
+    "value": "Primas pagadas por opciones MN PEN"
+  },
+  {
+    "id": 1841201,
+    "value": "Primas pagadas por opciones ME USD"
+  },
+  {
+    "id": 1851101,
+    "value": "Mantenimiento de activos inmovilizados MN PEN"
+  },
+  {
+    "id": 1851201,
+    "value": "Mantenimiento de activos inmovilizados ME USD"
+  },
+  {
+    "id": 1861101,
+    "value": "Credito fiscal IGV por Aplicar MN"
+  },
+  {
+    "id": 1861201,
+    "value": "Credito fiscal IGV por Aplicar ME"
+  },
+  {
+    "id": 1891101,
+    "value": "Otros gastos contratados por anticipado - Portes - Préstamos MN"
+  },
+  {
+    "id": 1891102,
+    "value": "Otros gastos contratados por anticipado - Portes - Leasing MN"
+  },
+  {
+    "id": 1891103,
+    "value": "Otros gastos contratados por anticipado - Cuotas mensuales - Leasing MN"
+  },
+  {
+    "id": 1891109,
+    "value": "Otros gastos contratados por anticipado MN"
+  },
+  {
+    "id": 1891201,
+    "value": "Otros gastos contratados por anticipado - Portes - Préstamos ME"
+  },
+  {
+    "id": 1891202,
+    "value": "Otros gastos contratados por anticipado - Portes - Leasing ME"
+  },
+  {
+    "id": 1891203,
+    "value": "Otros gastos contratados por anticipado - Cuotas mensuales - Leasing ME"
+  },
+  {
+    "id": 1891209,
+    "value": "Otros gastos contratados por anticipado ME"
+  },
+  {
+    "id": 3301101,
+    "value": "Planta productora en producción - Costo"
+  },
+  {
+    "id": 3301102,
+    "value": "Planta productora en producción - Revaluación"
+  },
+  {
+    "id": 3301103,
+    "value": "Planta productora en producción - Costo de financiación"
+  },
+  {
+    "id": 3301104,
+    "value": "Planta productora en producción - Valor razonable"
+  },
+  {
+    "id": 3302101,
+    "value": "Planta productora en desarrollo - Costo"
+  },
+  {
+    "id": 3302102,
+    "value": "Planta productora en desarrollo - Revaluación"
+  },
+  {
+    "id": 3302103,
+    "value": "Planta productora en desarrollo - Costo de financiación"
+  },
+  {
+    "id": 3302104,
+    "value": "Planta productora en desarrollo - Valor razonable"
+  },
+  {
+    "id": 3311101,
+    "value": "PP & E - Terrenos - Costo"
+  },
+  {
+    "id": 3311102,
+    "value": "PP & E - Terrenos - Revaluación"
+  },
+  {
+    "id": 3321101,
+    "value": "PP & E - Edificaciones - Costo"
+  },
+  {
+    "id": 3321102,
+    "value": "PP & E - Edificaciones - Revaluación"
+  },
+  {
+    "id": 3321103,
+    "value": "PP & E - Edificaciones - Costo de financiación"
+  },
+  {
+    "id": 3324101,
+    "value": "PP & E - Edificaciones - Instalaciones - Costo"
+  },
+  {
+    "id": 3324102,
+    "value": "PP & E - Edificaciones - Instalaciones - Revaluación"
+  },
+  {
+    "id": 3324103,
+    "value": "PP & E - Edificaciones - Instalaciones - Costo de financiación"
+  },
+  {
+    "id": 3325101,
+    "value": "PP & E - Edificaciones - Mejoras en locales arrendados - Costo"
+  },
+  {
+    "id": 3325102,
+    "value": "PP & E - Edificaciones - Mejoras en locales arrendados - Revaluación"
+  },
+  {
+    "id": 3325103,
+    "value": "PP & E - Edificaciones - Mejoras en locales arrendados - Costo de Financiación"
+  },
+  {
+    "id": 3331101,
+    "value": "PP & E - Maquinaria y equipo de explotación - Costo"
+  },
+  {
+    "id": 3331102,
+    "value": "PP & E - Maquinaria y equipo de explotación - Revaluación"
+  },
+  {
+    "id": 3331103,
+    "value": "PP & E - Maquinaria y equipo de explotación - Costo de financiación"
+  },
+  {
+    "id": 3341101,
+    "value": "PP & E - Unidades de transporte - Vehículos motorizados - Costo"
+  },
+  {
+    "id": 3341102,
+    "value": "PP & E - Unidades de transporte - Vehículos motorizados - Revaluación"
+  },
+  {
+    "id": 3342101,
+    "value": "PP & E - Unidades de transporte - Vehículos no motorizados - Costo"
+  },
+  {
+    "id": 3342102,
+    "value": "PP & E - Unidades de transporte - Vehículos no motorizados - Revaluación"
+  },
+  {
+    "id": 3351101,
+    "value": "PP & E - Muebles y enseres - Muebles - Costo"
+  },
+  {
+    "id": 3351102,
+    "value": "PP & E - Muebles y enseres - Muebles - Revaluación"
+  },
+  {
+    "id": 3352101,
+    "value": "PP & E - Muebles y enseres - Enseres - Costo"
+  },
+  {
+    "id": 3352102,
+    "value": "PP & E - Muebles y enseres - Enseres - Revaluación"
+  },
+  {
+    "id": 3361101,
+    "value": "PP & E - Equipos diversos - Equipo para procesamiento de información - Costo"
+  },
+  {
+    "id": 3361102,
+    "value": "PP & E - Equipos diversos - Equipo para procesamiento de información - Revaluación"
+  },
+  {
+    "id": 3362101,
+    "value": "PP & E - Equipos diversos - Equipo de comunicación - Costo"
+  },
+  {
+    "id": 3362102,
+    "value": "PP & E - Equipos diversos - Equipo de comunicación - Revaluación"
+  },
+  {
+    "id": 3363101,
+    "value": "PP & E - Equipos diversos - Equipo de seguridad - Costo"
+  },
+  {
+    "id": 3363102,
+    "value": "PP & E - Equipos diversos - Equipo de seguridad - Revaluación"
+  },
+  {
+    "id": 3364101,
+    "value": "PP & E - Equipos diversos - Equipo de medio ambiente - Costo"
+  },
+  {
+    "id": 3364102,
+    "value": "PP & E - Equipos diversos - Equipo de medio ambiente - Revaluación"
+  },
+  {
+    "id": 3369101,
+    "value": "PP & E - Equipos diversos - Otros equipos - Costo"
+  },
+  {
+    "id": 3369102,
+    "value": "PP & E - Equipos diversos - Otros equipos - Revaluación"
+  },
+  {
+    "id": 3371101,
+    "value": "PP & E - Herramientas y unidades de reemplazo - Herramientas - Costo"
+  },
+  {
+    "id": 3371102,
+    "value": "PP & E - Herramientas y unidades de reemplazo - Herramientas - Revaluación"
+  },
+  {
+    "id": 3372101,
+    "value": "PP & E - Herramientas y unidades de reemplazo - Unidades de reemplazo - Costo"
+  },
+  {
+    "id": 3372102,
+    "value": "PP & E - Herramientas y unidades de reemplazo - Unidades de reemplazo - Revaluación"
+  },
+  {
+    "id": 3381101,
+    "value": "PP & E - Unidades por recibir - Maquinaria y equipo de explotación"
+  },
+  {
+    "id": 3382101,
+    "value": "PP & E - Unidades por recibir - Equipo de transporte"
+  },
+  {
+    "id": 3383101,
+    "value": "PP & E - Unidades por recibir - Muebles y enseres"
+  },
+  {
+    "id": 3386101,
+    "value": "PP & E - Unidades por recibir - Equipos diversos"
+  },
+  {
+    "id": 3387101,
+    "value": "PP & E - Unidades por recibir- Herramientas y unidades de reemplazo"
+  },
+  {
+    "id": 3391101,
+    "value": "PP & E - Obras en curso - Adecuación de terrenos"
+  },
+  {
+    "id": 3392101,
+    "value": "PP & E - Obras en curso - Edificaciones en curso - Costo"
+  },
+  {
+    "id": 3392102,
+    "value": "PP & E - Obras en curso - Edificaciones en curso - Costo de financiación"
+  },
+  {
+    "id": 3393101,
+    "value": "PP & E - Obras en curso - Maquinaria en montaje - Costo"
+  },
+  {
+    "id": 3393102,
+    "value": "PP & E - Obras en curso - Maquinaria en montaje - Costo de financiación"
+  },
+  {
+    "id": 3411101,
+    "value": "Derechos por concesiones - Costo"
+  },
+  {
+    "id": 3411102,
+    "value": "Derechos por concesiones - Revaluación"
+  },
+  {
+    "id": 3412101,
+    "value": "Licencias - Costo"
+  },
+  {
+    "id": 3412102,
+    "value": "Licencias - Revaluación"
+  },
+  {
+    "id": 3419101,
+    "value": "Otros derechos - Costo"
+  },
+  {
+    "id": 3419102,
+    "value": "Otros derechos - Revaluación"
+  },
+  {
+    "id": 3421101,
+    "value": "Patente - Costo"
+  },
+  {
+    "id": 3421102,
+    "value": "Patente - Revaluación"
+  },
+  {
+    "id": 3422101,
+    "value": "Marcas - Costo"
+  },
+  {
+    "id": 3422102,
+    "value": "Marcas - Revaluación"
+  },
+  {
+    "id": 3431101,
+    "value": "Aplicaciones informáticas - Costo"
+  },
+  {
+    "id": 3431102,
+    "value": "Aplicaciones informáticas - Revaluación"
+  },
+  {
+    "id": 3441101,
+    "value": "Costos de exploración - Costo"
+  },
+  {
+    "id": 3441102,
+    "value": "Costos de exploración - Revaluación"
+  },
+  {
+    "id": 3441103,
+    "value": "Costos de exploración - Costo de financiación"
+  },
+  {
+    "id": 3442101,
+    "value": "Costos de desarrollo - Costo"
+  },
+  {
+    "id": 3442102,
+    "value": "Costos de desarrollo - Revaluación"
+  },
+  {
+    "id": 3442103,
+    "value": "Costos de desarrollo - Costo de financiación"
+  },
+  {
+    "id": 3451101,
+    "value": "Fórmulas - Costo"
+  },
+  {
+    "id": 3451102,
+    "value": "Fórmulas - Revaluación"
+  },
+  {
+    "id": 3452101,
+    "value": "Diseños y prototipos - Costo"
+  },
+  {
+    "id": 3452102,
+    "value": "Diseños y prototipos - Revaluación"
+  },
+  {
+    "id": 3471101,
+    "value": "Plusvalía mercantil"
+  },
+  {
+    "id": 3491101,
+    "value": "Otros activos intangibles - Costo"
+  },
+  {
+    "id": 3491102,
+    "value": "Otros activos intangibles - Revaluación"
+  },
+  {
+    "id": 6011101,
+    "value": "Compras - Mercaderías"
+  },
+  {
+    "id": 6011102,
+    "value": "Compras - Costo - Muestras"
+  },
+  {
+    "id": 6011103,
+    "value": "Compras - Costo - Catálogo"
+  },
+  {
+    "id": 6011104,
+    "value": "Compras - Costo - Exterior (importación)"
+  },
+  {
+    "id": 6021101,
+    "value": "Materias primas"
+  },
+  {
+    "id": 6021109,
+    "value": "Materias primas - Otras materias primas"
+  },
+  {
+    "id": 6031101,
+    "value": "Materiales auxiliares"
+  },
+  {
+    "id": 6031102,
+    "value": "Etiquetas de código de barras y cinta resina"
+  },
+  {
+    "id": 6031109,
+    "value": "Otros materiales auxiliares"
+  },
+  {
+    "id": 6032101,
+    "value": "Suministros - Combustibles"
+  },
+  {
+    "id": 6032102,
+    "value": "Suministros - Lubricantes"
+  },
+  {
+    "id": 6032103,
+    "value": "Suministros - Energía"
+  },
+  {
+    "id": 6032104,
+    "value": "Suministros - Otros suministros"
+  },
+  {
+    "id": 6032105,
+    "value": "Suministros - Uniformes al personal"
+  },
+  {
+    "id": 6032106,
+    "value": "Suministros - Utiles de oficinas"
+  },
+  {
+    "id": 6032107,
+    "value": "Suministros - Utiles y accesorios de computo"
+  },
+  {
+    "id": 6032108,
+    "value": "Suministros - Utiles de limpieza"
+  },
+  {
+    "id": 6032109,
+    "value": "Suministros - Muestras de calzado y accesorios"
+  },
+  {
+    "id": 6032110,
+    "value": "Suministros - Suministros varios - Menajes"
+  },
+  {
+    "id": 6033101,
+    "value": "Repuestos - Repuestos"
+  },
+  {
+    "id": 6033109,
+    "value": "Repuestos - Otros Repuestos"
+  },
+  {
+    "id": 6041101,
+    "value": "Envases - Bolsas"
+  },
+  {
+    "id": 6041102,
+    "value": "Envases - Cajas"
+  },
+  {
+    "id": 6041103,
+    "value": "Envases - Bolsas y envases descartable - Restaurante"
+  },
+  {
+    "id": 6041109,
+    "value": "Envases - Otros"
+  },
+  {
+    "id": 6042101,
+    "value": "Embalajes - Embalajes"
+  },
+  {
+    "id": 6042102,
+    "value": "Embalajes - Cintas de embalaje"
+  },
+  {
+    "id": 6042103,
+    "value": "Embalajes - Sellos"
+  },
+  {
+    "id": 6042104,
+    "value": "Embalajes - Arpillera"
+  },
+  {
+    "id": 6042109,
+    "value": "Embalajes - Otros"
+  },
+  {
+    "id": 6091101,
+    "value": "Transporte - Compras mercaderias"
+  },
+  {
+    "id": 6091103,
+    "value": "Transporte - Compras mercaderias - Catálogo"
+  },
+  {
+    "id": 6091104,
+    "value": "Transporte - Compras mercaderias - Importaciones"
+  },
+  {
+    "id": 6091201,
+    "value": "Seguros - Compras mercaderias"
+  },
+  {
+    "id": 6091203,
+    "value": "Seguros - Compras mercaderias - Catálogo"
+  },
+  {
+    "id": 6091204,
+    "value": "Seguros - Compras mercaderias - Importaciones"
+  },
+  {
+    "id": 6091301,
+    "value": "Derechos aduaneros - Compras mercaderias"
+  },
+  {
+    "id": 6091303,
+    "value": "Derechos aduaneros - Compras mercaderias - Catálogo"
+  },
+  {
+    "id": 6091304,
+    "value": "Derechos aduaneros - Compras mercaderias - Importaciones"
+  },
+  {
+    "id": 6091401,
+    "value": "Comisiones - Compras mercaderias"
+  },
+  {
+    "id": 6091403,
+    "value": "Comisiones - Compras mercaderias - Catálogo"
+  },
+  {
+    "id": 6091404,
+    "value": "Comisiones - Compras mercaderias - Importaciones"
+  },
+  {
+    "id": 6091901,
+    "value": "Otros costos - Compras mercaderias"
+  },
+  {
+    "id": 6091903,
+    "value": "Otros costos - Compras mercaderias - Catálogo"
+  },
+  {
+    "id": 6091904,
+    "value": "Otros costos - Compras mercaderias - Importaciones"
+  },
+  {
+    "id": 6092101,
+    "value": "Transporte - Materias primas"
+  },
+  {
+    "id": 6092109,
+    "value": "Transporte - Materias primas - Otras materias primas - Importaciones"
+  },
+  {
+    "id": 6092201,
+    "value": "Seguros - Materias primas"
+  },
+  {
+    "id": 6092209,
+    "value": "Seguros - Materias primas - Otras materias primas - Importaciones"
+  },
+  {
+    "id": 6092301,
+    "value": "Derechos aduaneros - Materias primas"
+  },
+  {
+    "id": 6092309,
+    "value": "Derechos aduaneros - Materias primas - Otras materias primas - Importaciones"
+  },
+  {
+    "id": 6092401,
+    "value": "Comisiones - Materias primas"
+  },
+  {
+    "id": 6092409,
+    "value": "Comisiones - Materias primas - Otras materias primas - Importaciones"
+  },
+  {
+    "id": 6092501,
+    "value": "Otros costos - Materias primas"
+  },
+  {
+    "id": 6092509,
+    "value": "Otros costos - Materias primas - Otras materias primas - Importaciones"
+  },
+  {
+    "id": 6093101,
+    "value": "Transporte - Suministros - Combustibles"
+  },
+  {
+    "id": 6093102,
+    "value": "Transporte - Suministros - Lubricante"
+  },
+  {
+    "id": 6093103,
+    "value": "Transporte - Suministros - Energía"
+  },
+  {
+    "id": 6093104,
+    "value": "Transporte - Suministros - Otros suministros - Importaciones"
+  },
+  {
+    "id": 6093201,
+    "value": "Seguros - Suministros - Combustibles"
+  },
+  {
+    "id": 6093202,
+    "value": "Seguros - Suministros - Lubricante"
+  },
+  {
+    "id": 6093203,
+    "value": "Seguros - Suministros - Energía"
+  },
+  {
+    "id": 6093204,
+    "value": "Seguros - Suministros - Otros suministros - Importaciones"
+  },
+  {
+    "id": 6093301,
+    "value": "Transporte - Suministros - Combustibles"
+  },
+  {
+    "id": 6093302,
+    "value": "Transporte - Suministros - Lubricante"
+  },
+  {
+    "id": 6093303,
+    "value": "Transporte - Suministros - Energía"
+  },
+  {
+    "id": 6093304,
+    "value": "Transporte - Suministros - Otros suministros - Importaciones"
+  },
+  {
+    "id": 6093401,
+    "value": "Derechos aduaneros - Suministros - Combustibles"
+  },
+  {
+    "id": 6093402,
+    "value": "Derechos aduaneros - Suministros - Lubricante"
+  },
+  {
+    "id": 6093403,
+    "value": "Derechos aduaneros - Suministros - Energía"
+  },
+  {
+    "id": 6093404,
+    "value": "Derechos aduaneros - Suministros - Otros suministros - Importaciones"
+  },
+  {
+    "id": 6093501,
+    "value": "Otros costos - Suministros - Combustibles"
+  },
+  {
+    "id": 6093502,
+    "value": "Otros costos - Suministros - Lubricante"
+  },
+  {
+    "id": 6093503,
+    "value": "Otros costos - Suministros - Energía"
+  },
+  {
+    "id": 6093504,
+    "value": "Otros costos - Suministros - Otros suministros - Importaciones"
+  },
+  {
+    "id": 6094101,
+    "value": "Transporte - Envases y enbalajes"
+  },
+  {
+    "id": 6094109,
+    "value": "Transporte - Envases y enbalajes - Importaciones"
+  },
+  {
+    "id": 6094201,
+    "value": "Seguros - Envases y enbalajes"
+  },
+  {
+    "id": 6094202,
+    "value": "Seguros - Envases y enbalajes - Importaciones"
+  },
+  {
+    "id": 6094301,
+    "value": "Derechos aduaneros - Envases y enbalajes"
+  },
+  {
+    "id": 6094302,
+    "value": "Derechos aduaneros - Envases y enbalajes - Importaciones"
+  },
+  {
+    "id": 6094401,
+    "value": "Comisiones - Envases y enbalajes"
+  },
+  {
+    "id": 6094402,
+    "value": "Comisiones - Envases y enbalajes - Importaciones"
+  },
+  {
+    "id": 6094501,
+    "value": "Otros costos - Envases y enbalajes"
+  },
+  {
+    "id": 6094502,
+    "value": "Otros costos - Envases y enbalajes - Importaciones"
+  }
+]

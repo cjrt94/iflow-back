@@ -1,0 +1,102 @@
+[
+  {
+    "codDepartamento": "1",
+    "nomDepartamento": "AMAZONAS"
+  },
+  {
+    "codDepartamento": "10",
+    "nomDepartamento": "HUANUCO"
+  },
+  {
+    "codDepartamento": "11",
+    "nomDepartamento": "ICA"
+  },
+  {
+    "codDepartamento": "12",
+    "nomDepartamento": "JUNIN"
+  },
+  {
+    "codDepartamento": "13",
+    "nomDepartamento": "LA LIBERTAD"
+  },
+  {
+    "codDepartamento": "14",
+    "nomDepartamento": "LAMBAYEQUE"
+  },
+  {
+    "codDepartamento": "15",
+    "nomDepartamento": "LIMA"
+  },
+  {
+    "codDepartamento": "16",
+    "nomDepartamento": "LORETO"
+  },
+  {
+    "codDepartamento": "17",
+    "nomDepartamento": "MADRE DE DIOS"
+  },
+  {
+    "codDepartamento": "18",
+    "nomDepartamento": "MOQUEGUA"
+  },
+  {
+    "codDepartamento": "19",
+    "nomDepartamento": "PASCO"
+  },
+  {
+    "codDepartamento": "2",
+    "nomDepartamento": "ANCASH"
+  },
+  {
+    "codDepartamento": "20",
+    "nomDepartamento": "PIURA"
+  },
+  {
+    "codDepartamento": "21",
+    "nomDepartamento": "PUNO"
+  },
+  {
+    "codDepartamento": "22",
+    "nomDepartamento": "SAN MARTIN"
+  },
+  {
+    "codDepartamento": "23",
+    "nomDepartamento": "TACNA"
+  },
+  {
+    "codDepartamento": "24",
+    "nomDepartamento": "TUMBES"
+  },
+  {
+    "codDepartamento": "25",
+    "nomDepartamento": "UCAYALI"
+  },
+  {
+    "codDepartamento": "3",
+    "nomDepartamento": "APURIMAC"
+  },
+  {
+    "codDepartamento": "4",
+    "nomDepartamento": "AREQUIPA"
+  },
+  {
+    "codDepartamento": "5",
+    "nomDepartamento": "AYACUCHO"
+  },
+  {
+    "codDepartamento": "6",
+    "nomDepartamento": "CAJAMARCA"
+  },
+  {
+    "codDepartamento": "7",
+    "nomDepartamento": "CALLAO"
+  },
+  {
+    "codDepartamento": "8",
+    "nomDepartamento": "CUSCO"
+  },
+  {
+    "codDepartamento": "9",
+    "nomDepartamento": "HUANCAVELICA"
+  }
+]
