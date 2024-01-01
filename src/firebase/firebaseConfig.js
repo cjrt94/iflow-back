@@ -6,13 +6,13 @@ import 'firebase/storage'
 
 // Initialize Firebase
 let config = {
-    apiKey: "AIzaSyCObcwMCGinznxt1d_puaoDsgDSoG9qpCE",
-    authDomain: "livesport-94128.firebaseapp.com",
-    projectId: "livesport-94128",
-    storageBucket: "livesport-94128.appspot.com",
-    messagingSenderId: "247693735027",
-    appId: "1:247693735027:web:393383c0c3b0517140a606",
-    measurementId: "G-4546P8T8PY"
+    apiKey: "AIzaSyDdcLv-nPvdySavL1rIx4HC07Di-U0aNPs",
+    authDomain: "iflow-6ca05.firebaseapp.com",
+    projectId: "iflow-6ca05",
+    storageBucket: "iflow-6ca05.appspot.com",
+    messagingSenderId: "488179758548",
+    appId: "1:488179758548:web:fdf511bab7c272dfc79241",
+    measurementId: "G-J841PGL8T4"
 }
 
 firebase.initializeApp(config)

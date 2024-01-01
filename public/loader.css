@@ -20,7 +20,7 @@
 .loading {
     position: absolute;
     left: calc(50% - 35px);
-    top: 50%;
+    top: 57%;
     width: 35px;
     height: 35px;
     border-radius: 50%;

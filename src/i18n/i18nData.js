@@ -1,8 +1,9 @@
 // en, de, fr, pt
 export default {
     es: {
-        Participants: 'Participantes',
+        Users: 'Usuarios',
         List: 'Listado',
-        Validate: 'Validar'
+        Validate: 'Validar',
+        Travels: 'Viajes'
     }
 }

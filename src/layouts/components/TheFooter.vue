@@ -3,7 +3,7 @@
     <p>
       <span>COPYRIGHT &copy;</span>
       <span>{{ new Date().getFullYear() }} </span>
-      <a href="https://livesport.com.pe/" target="_blank" rel="nofollow">Livesport</a>
+      <a href="https://iflowapp.com/" target="_blank" rel="nofollow">Iflow</a>
       <span class="hidden sm:inline-block">, Todos los derechos reservados</span>
     </p>
   </footer>

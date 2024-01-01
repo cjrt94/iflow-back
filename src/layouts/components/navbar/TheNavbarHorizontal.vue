@@ -8,7 +8,7 @@
 
         <router-link tag="div" to="/" class="vx-logo cursor-pointer mx-auto flex items-center">
           <logo class="w-10 mr-4 fill-current text-primary"/>
-          <span class="vx-logo-text text-primary">Livesport</span>
+          <span class="vx-logo-text text-primary">Iflow</span>
         </router-link>
 
         <profile-drop-down/>

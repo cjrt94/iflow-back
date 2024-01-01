@@ -34,12 +34,25 @@ const router = new Router({
                     }
                 },
                 /**
-                 * Clients
+                 * Users
                  */
                 {
-                    path: 'participants/list/',
-                    name: 'restaurants',
-                    component: () => import('./views/clients/App'),
+                    path: 'users/list/',
+                    name: 'users',
+                    component: () => import('./views/users/App'),
+                    meta: {
+                        rule: 'editor',
+                        authRequired: true
+                    }
+                },
+                /**End**/
+                /**
+                 * Travels
+                 */
+                {
+                    path: 'travels/list/',
+                    name: 'travels',
+                    component: () => import('./views/travels/App'),
                     meta: {
                         rule: 'editor',
                         authRequired: true
@@ -53,15 +66,6 @@ const router = new Router({
                     path: 'settings/general/',
                     name: 'general',
                     component: () => import('./views/Content'),
-                    meta: {
-                        rule: 'admin',
-                        authRequired: true
-                    }
-                },
-                {
-                    path: 'settings/validate/',
-                    name: 'validate',
-                    component: () => import('./views/Validate'),
                     meta: {
                         rule: 'admin',
                         authRequired: true

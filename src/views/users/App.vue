@@ -62,39 +62,34 @@
 
       <template slot="thead">
         <vs-th sort-key="name">Nombre</vs-th>
-        <vs-th sort-key="email">WhatsApp</vs-th>
-        <vs-th sort-key="phone">Tipo de Documento</vs-th>
-        <vs-th sort-key="phone">Documento</vs-th>
+        <vs-th sort-key="email">Email</vs-th>
+        <vs-th sort-key="phone">Usuario</vs-th>
+        <vs-th sort-key="phone">Fecha de registro</vs-th>
         <vs-th sort-key="phone">Estado</vs-th>
-        <vs-th sort-key="phone">Premio</vs-th>
       </template>
 
       <template slot-scope="{data}">
         <tbody>
         <vs-tr :data="tr" :key="indextr" v-for="(tr, indextr) in data">
           <vs-td>
-            <p class="product-name font-medium truncate">{{ tr.name }}</p>
+            <p class="product-name font-medium truncate">{{ tr.displayName }}</p>
           </vs-td>
 
           <vs-td>
-            <p class="product-name font-medium truncate">{{ tr.whatsApp }}</p>
+            <p class="product-name font-medium truncate">{{ tr.email }}</p>
           </vs-td>
 
           <vs-td>
-            <p class="product-name font-medium truncate">{{ tr.typeOfDocument }}</p>
+            <p class="product-name font-medium truncate">@{{ tr.userName }}</p>
           </vs-td>
 
           <vs-td>
-            <p class="product-name font-medium truncate">{{ tr.document }}</p>
+            <p class="product-name font-medium truncate">{{ tr.createdAt | date(true) }}</p>
           </vs-td>
 
           <vs-td>
-            <vs-chip color="green" v-if="tr.completeInformation">Completó proceso</vs-chip>
-            <vs-chip v-else color="red">No reclamó premio</vs-chip>
-          </vs-td>
-
-          <vs-td>
-            <p class="product-name font-medium truncate">{{ tr.prize }}</p>
+            <vs-chip color="green" v-if="tr.state">Activo</vs-chip>
+            <vs-chip color="red" v-else>Eliminado</vs-chip>
           </vs-td>
         </vs-tr>
         </tbody>
@@ -105,7 +100,7 @@
 
 <script>
 
-import {db} from '@/firebase/firebaseConfig'
+import { db } from '@/firebase/firebaseConfig'
 
 const _ = require('lodash')
 
@@ -134,18 +129,21 @@ export default {
   },
   async created () {
     try {
-      //Get clients
+      //Get users
       this.initProgress = true
-      const querySnap = await db.collection('clients').orderBy('createdAt', 'desc').get()
+      const querySnap = await db.collection('users')
+          .orderBy('createdAt', 'desc')
+          .limit(100)
+          .get()
       querySnap.forEach((doc) => {
-        let client = {
+        let user = {
           id: doc.id,
-          ...doc.data()
+          ...doc.data(),
+          createdAt: doc.data().createdAt.toDate()
         }
-        this.list.push(client)
+        this.list.push(user)
       })
     } catch (e) {
-      console.log(e)
       this.$vs.notify({
         color: 'warning',
         title: '¡Oh no!',
@@ -171,11 +169,8 @@ export default {
   },
   methods: {
     exportToExcel () {
-      const headerTitle = ['Nombre', 'WhatsApp', 'Tipo de Documento', 'Documento', 'Estado', 'Premio']
-      const headerVal = ['name', 'whatsApp', 'typeOfDocument', 'documento', 'state', 'prize']
-      this.list.forEach((l) => {
-        l.state = l.completeInformation ? 'Completó proceso' : 'No reclamó premio'
-      })
+      const headerTitle = ['Nombre', 'Email', 'Usuario', 'Fecha de registro', 'Estado']
+      const headerVal = ['displayName', 'email', 'userName', 'createdAt', 'state']
       import('@/vendor/Export2Excel').then(excel => {
         const list = _.cloneDeep(this.list)
         const data = this.formatJson(headerVal, list)

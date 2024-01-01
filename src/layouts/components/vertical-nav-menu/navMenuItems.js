@@ -1,36 +1,29 @@
 export default [
     {
-        header: 'Participants',
+        header: 'Users',
         icon: 'SmileIcon',
-        i18n: 'Participants',
+        i18n: 'Users',
         items: [
             {
-                url: '/participants/list',
+                url: '/users/list',
                 name: 'List',
-                slug: 'participants-list',
+                slug: 'users-list',
                 icon: 'FileIcon',
                 i18n: 'List'
             }
         ]
     },
     {
-        header: 'General',
+        header: 'Travels',
         icon: 'SmileIcon',
-        i18n: 'General',
+        i18n: 'Travels',
         items: [
             {
-                url: '/settings/general/',
-                name: 'General',
-                slug: 'settings',
-                icon: 'SettingsIcon',
-                i18n: 'General'
-            },
-            {
-                url: '/settings/validate/',
-                name: 'Validate',
-                slug: 'validate',
-                icon: 'CameraIcon',
-                i18n: 'Validate'
+                url: '/travels/list',
+                name: 'List',
+                slug: 'travels-list',
+                icon: 'FileIcon',
+                i18n: 'List'
             }
         ]
     }
